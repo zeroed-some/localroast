@@ -4,1608 +4,7 @@ export const roastDatabase = {
   // MASSACHUSETTS
   massachusetts: {
     generic: [
-      "Oh, Bangladesh? The country that makes India's poverty look manageable.",
-      "Bangladesh: Where climate change and corruption race to destroy the country first.",
-      "From Bangladesh? Let me guess, you're in Dhaka or wishing you weren't.",
-      "Bangladesh: The only country where being underwater is both literal and economic.",
-      "Where 'development' means another garment factory collapse.",
-      "Bangladesh: Proof that independence doesn't guarantee prosperity.",
-      "From Bangladesh? Your country's biggest export is cheap clothes and broken dreams."
-    ],
-    dhaka: [
-      "Dhaka? Where traffic doesn't move and neither does progress.",
-      "From Dhaka? How's living in the world's most densely packed disappointment?",
-      "Dhaka: Where rickshaws move faster than the government.",
-      "Oh, Dhaka? The city that makes Mumbai look spacious.",
-      "Dhaka: Where everyone's stuck in traffic thinking about leaving.",
-      "From Dhaka? Let me guess, your commute is longer than your sleep.",
-      "Dhaka: The only capital where flooding is urban planning.",
-      "Where 'infrastructure' is a word nobody can spell.",
-      "Dhaka: Proof that density doesn't create efficiency.",
-      "From Dhaka? Your city's biggest achievement is making other Asian capitals look organized."
-    ]
-  },
-
-  // SRI LANKA
-  srilanka: {
-    generic: [
-      "Sri Lanka? Where the paradise got repossessed by China.",
-      "From Sri Lanka? How's that economic collapse treating your rupee?",
-      "Sri Lanka: Where politicians bankrupted paradise.",
-      "Oh, Sri Lanka? The country that sold its ports to pay for vanity projects.",
-      "Sri Lanka: Where everyone's fleeing to the Middle East for work.",
-      "From Sri Lanka? Let me guess, you're rationing fuel and hope.",
-      "Sri Lanka: The only country that managed to fail with perfect geography.",
-      "Where 'development' meant debt traps disguised as infrastructure.",
-      "Sri Lanka: Proof that beauty can't overcome corruption.",
-      "From Sri Lanka? Your country's biggest export is people seeking economic refuge."
-    ],
-    colombo: [
-      "Colombo? Where the port is Chinese and the people are broke.",
-      "From Colombo? How's being the capital of a bankrupt paradise?",
-      "Colombo: Where every development project is a debt to China.",
-      "Oh, Colombo? The city that sold its soul for a lotus tower.",
-      "Colombo: Where everyone's planning their escape to Dubai.",
-      "From Colombo? Let me guess, you're in a fuel queue right now.",
-      "Colombo: The only capital where power cuts are more reliable than power.",
-      "Where 'progress' means another Chinese loan.",
-      "Colombo: Proof that coastal beauty can't pay debts.",
-      "From Colombo? Your city's biggest achievement is making the IMF feel needed."
-    ]
-  },
-
-  // NEPAL
-  nepal: {
-    generic: [
-      "Nepal? Where the mountains are high and the GDP is subterranean.",
-      "From Nepal? How's being India's forgotten backyard?",
-      "Nepal: Where everyone's either a guide or guided by poverty.",
-      "Oh, Nepal? The country that's just Everest's base camp.",
-      "Nepal: Where political instability is more consistent than electricity.",
-      "From Nepal? Let me guess, you're in tourism or wishing tourists would come back.",
-      "Nepal: The only country where the gods live higher than the GDP.",
-      "Where 'development' means another hydropower project that won't work.",
-      "Nepal: Proof that beautiful mountains can't feed people.",
-      "From Nepal? Your country's biggest export is Gurkhas and good intentions."
-    ],
-    kathmandu: [
-      "Kathmandu? Where the temples are ancient and so is the infrastructure.",
-      "From Kathmandu? How's living in a valley that's literally and figuratively stuck?",
-      "Kathmandu: Where pollution competes with altitude for breathlessness.",
-      "Oh, Kathmandu? The city that's just a dusty museum with traffic.",
-      "Kathmandu: Where everyone's spiritual but nobody can afford enlightenment.",
-      "From Kathmandu? Let me guess, you wear a mask for dust, not disease.",
-      "Kathmandu: The only capital where earthquakes do urban planning.",
-      "Where 'development' means rebuilding what fell down last time.",
-      "Kathmandu: Proof that being spiritual doesn't pay bills.",
-      "From Kathmandu? Your city's biggest achievement is surviving between disasters."
-    ]
-  },
-
-  // MOROCCO
-  morocco: {
-    generic: [
-      "Morocco? Where the king has a palace in every city while people live in slums.",
-      "From Morocco? How's that monarchy treating your freedom of speech?",
-      "Morocco: Where hash is the biggest export after phosphates.",
-      "Oh, Morocco? The country pretending to be European while in Africa.",
-      "Morocco: Where French is spoken better than human rights.",
-      "From Morocco? Let me guess, you're in tourism or unemployed.",
-      "Morocco: The only African country with an identity crisis.",
-      "Where 'culture' gets sold to tourists in the medina.",
-      "Morocco: Proof that being close to Europe doesn't make you European.",
-      "From Morocco? Your country's biggest export is hash and brain drain to France."
-    ],
-    casablanca: [
-      "Casablanca? Where the movie is more interesting than the city.",
-      "From Casablanca? How's living in Morocco's concrete disappointment?",
-      "Casablanca: Where romance died with urban planning.",
-      "Oh, Casablanca? The city that's just Marseille's uglier cousin.",
-      "Casablanca: Where everyone works in phosphates or poverty.",
-      "From Casablanca? Let me guess, you dream of the Casablanca from the movie.",
-      "Casablanca: The only city where the name is the best part.",
-      "Where 'culture' went to die in traffic.",
-      "Casablanca: Proof that famous names don't make famous cities.",
-      "From Casablanca? Your city's biggest achievement is disappointing tourists expecting romance."
-    ],
-    marrakech: [
-      "Marrakech? Where Instagram influencers go to exploit culture.",
-      "From Marrakech? How's watching your city become a European playground?",
-      "Marrakech: Where every riad is owned by foreigners pricing out locals.",
-      "Oh, Marrakech? The city that sold its soul for tourist dollars.",
-      "Marrakech: Where authenticity is performed hourly for tips.",
-      "From Marrakech? Let me guess, you work in tourism and hate tourists.",
-      "Marrakech: The only city where snake charmers have MBAs.",
-      "Where 'culture' is whatever tourists will pay to see.",
-      "Marrakech: Proof that tourism kills what it claims to preserve.",
-      "From Marrakech? Your city's biggest export is 'authentic' experiences for people who Instagram them."
-    ]
-  },
-
-  // KENYA
-  kenya: {
-    generic: [
-      "Kenya? Where politicians are richer than the country they're looting.",
-      "From Kenya? How's that corruption treating your shillings?",
-      "Kenya: Where everyone's an entrepreneur because employment is mythical.",
-      "Oh, Kenya? The country that's just a safari with a flag.",
-      "Kenya: Where M-Pesa works better than the government.",
-      "From Kenya? Let me guess, you're in tech or trying to leave.",
-      "Kenya: The only country where mobile money is more stable than banks.",
-      "Where 'development' means another mall for the middle class.",
-      "Kenya: Proof that innovation can't overcome corruption.",
-      "From Kenya? Your country's biggest export is marathon runners and broken promises."
-    ],
-    nairobi: [
-      "Nairobi? Where Silicon Savannah meets African reality.",
-      "From Nairobi? How's living in traffic with delusions of being Africa's tech hub?",
-      "Nairobi: Where everyone's a CEO of an app that doesn't work.",
-      "Oh, Nairobi? The city that's just traffic jams with aspirations.",
-      "Nairobi: Where the matatus are more organized than the government.",
-      "From Nairobi? Let me guess, you're stuck in traffic on Thika Road.",
-      "Nairobi: The only capital where 'Nairobbery' is the nickname.",
-      "Where 'innovation' means another money transfer app.",
-      "Nairobi: Proof that calling yourself Silicon Savannah doesn't make it true.",
-      "From Nairobi? Your city's biggest achievement is M-Pesa, and that was 15 years ago."
-    ]
-  },
-
-  // ETHIOPIA
-  ethiopia: {
-    generic: [
-      "Ethiopia? Where the calendar is 7 years behind and development is 70.",
-      "From Ethiopia? How's that ethnic conflict seasoned with famine?",
-      "Ethiopia: Where everyone's proud of never being colonized while being underdeveloped.",
-      "Oh, Ethiopia? The country that's just aid organizations and ancient churches.",
-      "Ethiopia: Where the coffee is great but you can't afford to drink it.",
-      "From Ethiopia? Let me guess, you're fleeing conflict or economic collapse.",
-      "Ethiopia: The only country where pride in history can't feed the present.",
-      "Where 'growth' means building a dam while people starve.",
-      "Ethiopia: Proof that avoiding colonization doesn't guarantee success.",
-      "From Ethiopia? Your country's biggest export is coffee and refugees."
-    ],
-    addis_ababa: [
-      "Addis? Where the AU headquarters is the nicest building by far.",
-      "From Addis? How's living in Africa's diplomatic capital with no diplomacy?",
-      "Addis Ababa: Where altitude is higher than the standard of living.",
-      "Oh, Addis? The city that's just NGO headquarters and poverty.",
-      "Addis Ababa: Where everyone's in development but nothing develops.",
-      "From Addis? Let me guess, you work for an NGO or wish you did.",
-      "Addis: The only capital where donkeys share roads with diplomats.",
-      "Where 'progress' means another Chinese-built project.",
-      "Addis Ababa: Proof that hosting the AU doesn't make you important.",
-      "From Addis? Your city's biggest achievement is being high enough to avoid some disasters."
-    ]
-  },
-
-  // GHANA
-  ghana: {
-    generic: [
-      "Ghana? Where the year of return became the year of reality check.",
-      "From Ghana? How's that beacon of African democracy with rolling blackouts?",
-      "Ghana: Where everyone's an entrepreneur selling the same things.",
-      "Oh, Ghana? The country coasting on being stable by African standards.",
-      "Ghana: Where diasporans come to be disappointed by reality.",
-      "From Ghana? Let me guess, you're in Accra or wishing you were abroad.",
-      "Ghana: The only country where 'dumsor' is both a word and a lifestyle.",
-      "Where 'development' means another mall in Accra.",
-      "Ghana: Proof that stability doesn't equal prosperity.",
-      "From Ghana? Your country's biggest export is false hope to African Americans."
-    ],
-    accra: [
-      "Accra? Where traffic is slower than government progress.",
-      "From Accra? How's living in West Africa's most overrated capital?",
-      "Accra: Where everyone's hustling but nobody's moving.",
-      "Oh, Accra? The city that's just heat, traffic, and disappointed returnees.",
-      "Accra: Where the beaches are dirty and the prices are clean out of reach.",
-      "From Accra? Let me guess, you're stuck in traffic thinking about leaving.",
-      "Accra: The only capital where 'go slow' means traffic and life.",
-      "Where 'culture' is performed for diasporans seeking identity.",
-      "Accra: Proof that being peaceful doesn't mean being prosperous.",
-      "From Accra? Your city's biggest achievement is convincing African Americans it's paradise."
-    ]
-  },
-
-  // ZIMBABWE
-  zimbabwe: {
-    generic: [
-      "Zimbabwe? Where trillion dollar bills couldn't buy bread.",
-      "From Zimbabwe? How's using USD because your currency is a meme?",
-      "Zimbabwe: Where everyone's a billionaire but still broke.",
-      "Oh, Zimbabwe? The country that went from breadbasket to basket case.",
-      "Zimbabwe: Where the land reform reformed nothing but property rights.",
-      "From Zimbabwe? Let me guess, you're in South Africa or trying to get there.",
-      "Zimbabwe: The only country where inflation broke mathematics.",
-      "Where 'sovereignty' means starving independently.",
-      "Zimbabwe: Proof that you can ruin a good thing spectacularly.",
-      "From Zimbabwe? Your country's biggest export is economic refugees and cautionary tales."
-    ],
-    harare: [
-      "Harare? Where the sunshine is constant but electricity isn't.",
-      "From Harare? How's living in a capital that peaked in 1980?",
-      "Harare: Where everyone has a degree but no jobs exist.",
-      "Oh, Harare? The city that's just Borrowdale and poverty.",
-      "Harare: Where fuel queues are longer than job queues.",
-      "From Harare? Let me guess, you're trading forex on the black market.",
-      "Harare: The only capital where nostalgia is the main industry.",
-      "Where 'development' means remembering when things worked.",
-      "Harare: Proof that capitals can go backwards.",
-      "From Harare? Your city's biggest achievement is making Bulawayo look good."
-    ]
-  },
-
-  // TANZANIA
-  tanzania: {
-    generic: [
-      "Tanzania? Where Kilimanjaro is the highest point literally and figuratively.",
-      "From Tanzania? How's that development at pole pole speed?",
-      "Tanzania: Where everyone's in safari tourism or subsistence farming.",
-      "Oh, Tanzania? The country that's just a stopover to Zanzibar.",
-      "Tanzania: Where Swahili time means nothing happens on time.",
-      "From Tanzania? Let me guess, you work in tourism or NGOs.",
-      "Tanzania: The only country where socialism failed so quietly nobody noticed.",
-      "Where 'progress' moves at the speed of a government office.",
-      "Tanzania: Proof that natural beauty doesn't build economies.",
-      "From Tanzania? Your country's biggest export is safari photos and brain drain."
-    ],
-    dar_es_salaam: [
-      "Dar? Where the heat is more oppressive than the government.",
-      "From Dar? How's living in a capital that Dodoma replaced but forgot?",
-      "Dar es Salaam: Where everyone's sweating through traffic to nowhere.",
-      "Oh, Dar? The city that's just humidity and disappointed expectations.",
-      "Dar es Salaam: Where the port works better than everything else.",
-      "From Dar? Let me guess, you're in traffic wishing you were in Zanzibar.",
-      "Dar: The only city where 'salaam' is ironic given the chaos.",
-      "Where 'development' means another half-finished project.",
-      "Dar es Salaam: Proof that coastal cities can still be boring.",
-      "From Dar? Your city's biggest achievement is not being the capital anymore."
-    ]
-  },
-
-  // UGANDA
-  uganda: {
-    generic: [
-      "Uganda? Where the pearl of Africa needs serious polishing.",
-      "From Uganda? How's that president-for-life situation working out?",
-      "Uganda: Where everyone's young because the government is ancient.",
-      "Oh, Uganda? The country that's just Kampala and problems.",
-      "Uganda: Where homophobia is government policy and development isn't.",
-      "From Uganda? Let me guess, you're under 30 and underemployed.",
-      "Uganda: The only country where the president has been in power longer than most citizens have been alive.",
-      "Where 'democracy' is a word in the constitution nobody reads.",
-      "Uganda: Proof that natural resources can't overcome bad leadership.",
-      "From Uganda? Your country's biggest export is frustrated youth and Nile perch."
-    ],
-    kampala: [
-      "Kampala? Built on seven hills and fourteen types of chaos.",
-      "From Kampala? How's living in Africa's most congested disappointment?",
-      "Kampala: Where boda bodas are more organized than the government.",
-      "Oh, Kampala? The city that's just traffic jams and NGO Land Cruisers.",
-      "Kampala: Where everyone's hustling because formal employment is a myth.",
-      "From Kampala? Let me guess, you're stuck in jam on Entebbe Road.",
-      "Kampala: The only capital where potholes have potholes.",
-      "Where 'planning' is a foreign concept and traffic lights are suggestions.",
-      "Kampala: Proof that being on hills doesn't give you the high ground.",
-      "From Kampala? Your city's biggest achievement is making Nairobi traffic look manageable."
-    ]
-  },
-
-  // ZAMBIA
-  zambia: {
-    generic: [
-      "Zambia? Where the copper left but the poverty stayed.",
-      "From Zambia? How's that commodity curse treating you?",
-      "Zambia: Where everyone's peaceful because they're too tired to fight.",
-      "Oh, Zambia? The country that's just a transit route to somewhere better.",
-      "Zambia: Where load shedding is more reliable than electricity.",
-      "From Zambia? Let me guess, you're in mining or wishing mining still paid.",
-      "Zambia: The only country where Victoria Falls can't wash away the problems.",
-      "Where 'development' means another Chinese loan.",
-      "Zambia: Proof that being peaceful doesn't pay bills.",
-      "From Zambia? Your country's biggest export is copper and educated people to other countries."
-    ],
-    lusaka: [
-      "Lusaka? Where the malls are nicer than the infrastructure.",
-      "From Lusaka? How's living in a capital that feels like a large village?",
-      "Lusaka: Where everyone's in a Land Cruiser because the roads eat small cars.",
-      "Oh, Lusaka? The city that's just sprawl without the urban.",
-      "Lusaka: Where load shedding schedules are more reliable than government.",
-      "From Lusaka? Let me guess, you're at a mall because where else is there?",
-      "Lusaka: The only capital where 'central business district' is an oxymoron.",
-      "Where 'planning' means building wherever there's space.",
-      "Lusaka: Proof that capitals don't need character.",
-      "From Lusaka? Your city's biggest achievement is having South African shops."
-    ]
-  },
-
-  // ANTARCTICA
-  antarctica: {
-    generic: [
-      "Antarctica? Where the penguins have more personality than the researchers.",
-      "From Antarctica? How's that ice-olation treating your social skills?",
-      "Antarctica: Where global warming is job security.",
-      "Oh, Antarctica? The continent that's literally cooler than you.",
-      "Antarctica: Where everyone's either a scientist or a penguin, and the penguins are more interesting.",
-      "From Antarctica? Let me guess, you're fleeing from society or studying ice.",
-      "Antarctica: The only continent where the population drops when it gets cold.",
-      "Where 'neighbor' means someone 500 miles away at another research station.",
-      "Antarctica: Proof that humans will live anywhere to avoid other humans.",
-      "From Antarctica? Your continent's biggest export is climate change data everyone ignores."
-    ]
-  },
-
-  // GREENLAND
-  greenland: {
-    generic: [
-      "Greenland? The biggest lie in geographic naming history.",
-      "From Greenland? How's living in Iceland's less interesting, larger cousin?",
-      "Greenland: Where there's more ice than green and more depression than ice.",
-      "Oh, Greenland? The island that's just Denmark's forgotten freezer.",
-      "Greenland: Where the population is smaller than a medium-sized town.",
-      "From Greenland? Let me guess, you're related to everyone else there.",
-      "Greenland: The only place where melting is economic development.",
-      "Where 'infrastructure' means hoping the ice road doesn't melt this year.",
-      "Greenland: Proof that size doesn't matter when you're frozen.",
-      "From Greenland? Your island's biggest achievement is tricking Trump into wanting to buy it."
-    ]
-  },
-
-  // MALTA
-  malta: {
-    generic: [
-      "Malta? Where the blockchain scams have more substance than the island.",
-      "From Malta? How's living on Europe's money laundering pebble?",
-      "Malta: Where everyone's in online gambling or facilitating tax evasion.",
-      "Oh, Malta? The island that's just Sicily's kidney stone.",
-      "Malta: Where EU passports are for sale and journalism is dangerous.",
-      "From Malta? Let me guess, you work in 'gaming' which means online casinos.",
-      "Malta: The only country where car bombs are investigative journalism.",
-      "Where 'culture' means charging tourists to see old stones.",
-      "Malta: Proof that being small doesn't mean being insignificant to criminals.",
-      "From Malta? Your country's biggest export is shady financial services and dead journalists."
-    ]
-  },
-
-  // CYPRUS
-  cyprus: {
-    generic: [
-      "Cyprus? The island that's been divided longer than your parents' marriage.",
-      "From Cyprus? How's that permanent temporary solution working out?",
-      "Cyprus: Where the beaches are beautiful and the politics are ugly.",
-      "Oh, Cyprus? The island that's just Greece and Turkey's custody battle.",
-      "Cyprus: Where everyone's a lawyer or in money laundering, often both.",
-      "From Cyprus? Let me guess, you're explaining which side you're from.",
-      "Cyprus: The only EU country that's literally broken.",
-      "Where 'reunification' has been coming soon for 50 years.",
-      "Cyprus: Proof that islands can have identity crises too.",
-      "From Cyprus? Your island's biggest achievement is making division profitable."
-    ]
-  },
-
-  // ICELAND
-  iceland: {
-    generic: [
-      "Iceland? Where the volcanoes have more warmth than the people.",
-      "From Iceland? How's that seasonal depression in permanent winter?",
-      "Iceland: Where everyone's related and the dating apps check for it.",
-      "Oh, Iceland? The country that's just expensive emptiness with geysers.",
-      "Iceland: Where the population fits in a stadium and the prices don't fit any budget.",
-      "From Iceland? Let me guess, you're in tourism or fishing, the only two options.",
-      "Iceland: The only country where Northern Lights can't brighten the mood.",
-      "Where 'culture' means fermented shark and disappointment.",
-      "Iceland: Proof that natural beauty can't warm up cold personalities.",
-      "From Iceland? Your country's biggest export is Björk and bankruptcy."
-    ],
-    reykjavik: [
-      "Reykjavik? Where the nightlife is legendary because there's nothing else to do.",
-      "From Reykjavik? How's living in the world's most northern disappointment?",
-      "Reykjavik: Where everyone knows everyone, unfortunately.",
-      "Oh, Reykjavik? The capital that's just colorful houses hiding gray lives.",
-      "Reykjavik: Where the bars are full because home is depressing.",
-      "From Reykjavik? Let me guess, you're drunk to forget you live there.",
-      "Reykjavik: The only capital where summer is a day in July.",
-      "Where 'culture' means drinking until the sun comes up at 3 AM.",
-      "Reykjavik: Proof that being quirky doesn't mean being interesting.",
-      "From Reykjavik? Your city's biggest achievement is convincing tourists it's worth visiting."
-    ]
-  },
-
-  // LUXEMBOURG
-  luxembourg: {
-    generic: [
-      "Luxembourg? Where the banks are bigger than the country.",
-      "From Luxembourg? How's living in Europe's money laundering drive-through?",
-      "Luxembourg: Where everyone's in finance or serving those in finance.",
-      "Oh, Luxembourg? The country that's just Belgium's rich tax haven.",
-      "Luxembourg: Where the GDP per capita is high because the capita is low.",
-      "From Luxembourg? Let me guess, you're in banking or pretending you're not.",
-      "Luxembourg: The only country where crossing it is faster than parking.",
-      "Where 'culture' means whatever three banks can sponsor.",
-      "Luxembourg: Proof that small countries can have big accounts.",
-      "From Luxembourg? Your country's biggest achievement is making tax avoidance look respectable."
-    ]
-  },
-
-  // MONACO
-  monaco: {
-    generic: [
-      "Monaco? Where the cars cost more than most countries' GDP.",
-      "From Monaco? How's living in a tax haven the size of a parking lot?",
-      "Monaco: Where everyone's either a millionaire or serving millionaires.",
-      "Oh, Monaco? The country that's just a casino with a flag.",
-      "Monaco: Where the yachts are bigger than the country.",
-      "From Monaco? Let me guess, you're in debt maintaining appearances.",
-      "Monaco: The only country where the royal family has more members than citizens.",
-      "Where 'culture' means the Grand Prix and gambling.",
-      "Monaco: Proof that money can buy you a country but not class.",
-      "From Monaco? Your country's biggest export is Instagram posts and tax avoidance."
-    ]
-  },
-
-  // LIECHTENSTEIN
-  liechtenstein: {
-    generic: [
-      "Liechtenstein? The country that sounds made up because it basically is.",
-      "From Liechtenstein? How's living in Switzerland's garage?",
-      "Liechtenstein: Where there are more companies registered than people.",
-      "Oh, Liechtenstein? The country that's just a tax loophole with a prince.",
-      "Liechtenstein: Where everyone works in finance or dentures, seriously.",
-      "From Liechtenstein? Let me guess, you're explaining where it is for the thousandth time.",
-      "Liechtenstein: The only country you can accidentally walk through.",
-      "Where 'culture' is whatever Switzerland didn't want.",
-      "Liechtenstein: Proof that you can be a country with fewer people than a concert.",
-      "From Liechtenstein? Your country's biggest achievement is existing despite no one knowing where."
-    ]
-  },
-
-  // ANDORRA
-  andorra: {
-    generic: [
-      "Andorra? Where duty-free shopping is the entire economy.",
-      "From Andorra? How's living in Europe's strip mall?",
-      "Andorra: Where everyone's dodging taxes or selling to those who are.",
-      "Oh, Andorra? The country that's just a road between France and Spain.",
-      "Andorra: Where the mountains are high and the taxes are low.",
-      "From Andorra? Let me guess, you're in 'import/export' which means tax evasion.",
-      "Andorra: The only country where cigarette smuggling is economic policy.",
-      "Where 'culture' means whatever tourists buy duty-free.",
-      "Andorra: Proof that being between two countries doesn't make you one.",
-      "From Andorra? Your country's biggest achievement is making people google 'Is Andorra a real country?'"
-    ]
-  },
-
-  // SAN MARINO
-  sanmarino: {
-    generic: [
-      "San Marino? Italy's tumor that declared independence.",
-      "From San Marino? How's living in a country smaller than most cities?",
-      "San Marino: Where the entire country is a tourist trap on a hill.",
-      "Oh, San Marino? The country that exists because Italy forgot about it.",
-      "San Marino: Where everyone sells stamps and pretends it's an economy.",
-      "From San Marino? Let me guess, your president is your neighbor.",
-      "San Marino: The only country where the gift shop is the GDP.",
-      "Where 'culture' is just being not quite Italian.",
-      "San Marino: Proof that anyone can be a country if Italy's too lazy to annex you.",
-      "From San Marino? Your country's biggest achievement is having more tourists than citizens."
-    ]
-  },
-
-  // VATICAN CITY
-  vatican: {
-    generic: [
-      "Vatican City? Where celibacy is mandatory but scandal is traditional.",
-      "From the Vatican? How's that moral authority working with all those lawsuits?",
-      "Vatican: Where the gold could solve poverty but won't.",
-      "Oh, Vatican? The country that's just a church with a bank account.",
-      "Vatican: Where everyone's holy until the audit starts.",
-      "From the Vatican? Let me guess, you're covering up something.",
-      "Vatican: The only country where the population is 100% male and wonders why that's a problem.",
-      "Where 'culture' means art stolen from civilizations you converted.",
-      "Vatican: Proof that God needs good lawyers.",
-      "From the Vatican? Your country's biggest export is guilt and tax-exempt donations."
-    ]
-  },
-
-  // MONGOLIA
-  mongolia: {
-    generic: [
-      "Mongolia? Where there's more nothing than anywhere else.",
-      "From Mongolia? How's living between Russia and China working out for your independence?",
-      "Mongolia: Where the horses outnumber humans and have better living conditions.",
-      "Oh, Mongolia? The country that peaked with Genghis Khan.",
-      "Mongolia: Where everyone's nomadic because there's nowhere worth staying.",
-      "From Mongolia? Let me guess, you're in mining or herding, the only options.",
-      "Mongolia: The only country where the capital has half the population.",
-      "Where 'culture' means throat singing and fermented mare's milk.",
-      "Mongolia: Proof that having the most land per person doesn't mean prosperity.",
-      "From Mongolia? Your country's biggest export is cashmere and people fleeing to anywhere else."
-    ],
-    ulaanbaatar: [
-      "Ulaanbaatar? The coldest capital with the hottest pollution.",
-      "From UB? How's living in the world's most polluted freezer?",
-      "Ulaanbaatar: Where half of Mongolia crowds into the worst place.",
-      "Oh, Ulaanbaatar? The city that's just Soviet buildings and smog.",
-      "Ulaanbaatar: Where everyone burns coal to survive and dies from burning coal.",
-      "From UB? Let me guess, you can't see across the street in winter.",
-      "Ulaanbaatar: The only capital where -40° is both the temperature and air quality.",
-      "Where 'development' means more gers connected to more pollution.",
-      "Ulaanbaatar: Proof that capitals don't need to be livable.",
-      "From UB? Your city's biggest achievement is making Beijing's air look clean."
-    ]
-  },
-
-  // NORTH KOREA
-  northkorea: {
-    generic: [
-      "North Korea? Where the Supreme Leader is the only one eating supremely.",
-      "From North Korea? How did you even get internet to read this?",
-      "North Korea: Where the 1950s called and want their everything back.",
-      "Oh, North Korea? The country that's just a prison with a flag.",
-      "North Korea: Where the only growth industry is nuclear threats.",
-      "From North Korea? Let me guess, you're not actually from North Korea.",
-      "North Korea: The only country where darkness is visible from space.",
-      "Where 'culture' is whatever the Kim family approves.",
-      "North Korea: Proof that isolation doesn't preserve anything worth preserving.",
-      "From North Korea? Your country's biggest export is threats and refugees."
-    ],
-    pyongyang: [
-      "Pyongyang? Where the buildings are empty but the propaganda is full.",
-      "From Pyongyang? How's living in the world's largest theater production?",
-      "Pyongyang: Where everyone's an actor and the city's a stage.",
-      "Oh, Pyongyang? The capital that's just Potemkin villages with nukes.",
-      "Pyongyang: Where the metro is deeper than the thoughts allowed.",
-      "From Pyongyang? You're definitely not reading this there.",
-      "Pyongyang: The only capital where traffic jams are impossible because there are no cars.",
-      "Where 'architecture' means whatever makes the leader look good.",
-      "Pyongyang: Proof that you can build a capital without capitalism or success.",
-      "From Pyongyang? Your city's biggest achievement is the mass games where humans become pixels."
-    ]
-  },
-
-  // VENEZUELA
-  venezuela: {
-    generic: [
-      "Venezuela? Where millionaires can't afford bread.",
-      "From Venezuela? How's that socialism of the 21st century working out?",
-      "Venezuela: Where oil wealth became everyone's poverty.",
-      "Oh, Venezuela? The country that speedran from rich to ruined.",
-      "Venezuela: Where everyone's a millionaire but millions mean nothing.",
-      "From Venezuela? Let me guess, you're in Miami or trying to get there.",
-      "Venezuela: The only country where inflation broke calculators.",
-      "Where 'currency' is more useful as toilet paper.",
-      "Venezuela: Proof that oil can't fix stupid governance.",
-      "From Venezuela? Your country's biggest export is refugees and cautionary tales."
-    ],
-    caracas: [
-      "Caracas? Where the murder rate competes with the inflation rate.",
-      "From Caracas? How's living in the world's most dangerous capital?",
-      "Caracas: Where everyone's either robbing or being robbed.",
-      "Oh, Caracas? The city where leaving your house is extreme sports.",
-      "Caracas: Where the barrios have better views than your life expectancy.",
-      "From Caracas? Let me guess, you know someone who's been kidnapped.",
-      "Caracas: The only capital where the morgue is busier than the hospitals.",
-      "Where 'security' means how many locks on your door.",
-      "Caracas: Proof that oil money can't buy safety.",
-      "From Caracas? Your city's biggest achievement is making other dangerous cities look safe."
-    ]
-  },
-
-  // COLOMBIA
-  colombia: {
-    generic: [
-      "Colombia? Where the cocaine jokes write themselves.",
-      "From Colombia? How's that reputation from the 80s treating you?",
-      "Colombia: Where everyone's tired of Pablo Escobar references but here we are.",
-      "Oh, Colombia? The country that's beauty and violence in equal measure.",
-      "Colombia: Where the coffee's good but the reputation's bitter.",
-      "From Colombia? Let me guess, you're explaining you're not all drug dealers.",
-      "Colombia: The only country where tourism slogans fight narco stereotypes.",
-      "Where 'progress' means fewer kidnappings than last year.",
-      "Colombia: Proof that Netflix shows don't help country reputation.",
-      "From Colombia? Your country's biggest export is coffee and trying to change the subject from cocaine."
-    ],
-    bogota: [
-      "Bogotá? Where the altitude is high and so is the crime.",
-      "From Bogotá? How's living in a capital built on a swamp and run like one?",
-      "Bogotá: Where traffic is so bad, kidnappings decreased because nobody can move.",
-      "Oh, Bogotá? The city that's just Mexico City's colder, less fun cousin.",
-      "Bogotá: Where everyone's educated but underemployed.",
-      "From Bogotá? Let me guess, you're stuck in traffic complaining about TransMilenio.",
-      "Bogotá: The only capital where rain is more reliable than public transport.",
-      "Where 'culture' happens in malls because the streets aren't safe.",
-      "Bogotá: Proof that altitude doesn't equal attitude.",
-      "From Bogotá? Your city's biggest achievement is making Medellín look good."
-    ],
-    medellin: [
-      "Medellín? Pablo's hometown trying to rebrand with cable cars.",
-      "From Medellín? How's that eternal spring in the city of eternal sin?",
-      "Medellín: Where innovation means finding new ways to avoid cartel history.",
-      "Oh, Medellín? The city where gringos go to pretend they're not sex tourists.",
-      "Medellín: Where everyone's in tech or tourism, fleeing the past.",
-      "From Medellín? Let me guess, you're tired of Narcos references.",
-      "Medellín: The only city where cable cars are public transport and history.",
-      "Where 'transformation' means hipsters replaced hitmen.",
-      "Medellín: Proof that cities can change but stereotypes don't.",
-      "From Medellín? Your city's biggest achievement is convincing people it's safe now."
-    ]
-  },
-
-  // PERU
-  peru: {
-    generic: [
-      "Peru? Where Machu Picchu is the high point literally and figuratively.",
-      "From Peru? How's that political instability seasoned with corruption?",
-      "Peru: Where everyone's proud of the Incas who wouldn't recognize the place.",
-      "Oh, Peru? The country that's just a Machu Picchu delivery system.",
-      "Peru: Where the food's great but the government's indigestible.",
-      "From Peru? Let me guess, you work in tourism or mining.",
-      "Peru: The only country where presidents last less than the food poisoning.",
-      "Where 'culture' means charging tourists to see what conquistadors missed.",
-      "Peru: Proof that great history doesn't guarantee a great present.",
-      "From Peru? Your country's biggest export is quinoa and political chaos."
-    ],
-    lima: [
-      "Lima? Where the fog is thicker than the traffic.",
-      "From Lima? How's living in a desert that forgot it's a desert?",
-      "Lima: Where it never rains but everything's always damp and depressing.",
-      "Oh, Lima? The city built on sand with a shaky foundation.",
-      "Lima: Where the cliffs are beautiful and the inequality is ugly.",
-      "From Lima? Let me guess, you're in Miraflores pretending the rest doesn't exist.",
-      "Lima: The only capital where the beach is there but nobody swims.",
-      "Where 'development' means another mall in San Isidro.",
-      "Lima: Proof that coastal doesn't mean pleasant.",
-      "From Lima? Your city's biggest achievement is making Cusco look organized."
-    ]
-  },
-
-  // ECUADOR
-  ecuador: {
-    generic: [
-      "Ecuador? Where the middle of the world is the middle of nowhere.",
-      "From Ecuador? How's using the dollar because your own currency failed?",
-      "Ecuador: Where everyone's plan B is moving to Spain.",
-      "Oh, Ecuador? The country that's just the Galapagos Islands' mainland disappointment.",
-      "Ecuador: Where being on the equator doesn't make you central to anything.",
-      "From Ecuador? Let me guess, you're in Quito, Guayaquil, or gone.",
-      "Ecuador: The only country where the roses are beautiful and everything else is thorny.",
-      "Where 'stability' is measured in months between protests.",
-      "Ecuador: Proof that perfect geography doesn't guarantee success.",
-      "From Ecuador? Your country's biggest export is flowers and people seeking better lives."
-    ],
-    quito: [
-      "Quito? Where the altitude is higher than the employment rate.",
-      "From Quito? How's living in a city stretched thinner than the oxygen?",
-      "Quito: Where colonial beauty meets modern dysfunction.",
-      "Oh, Quito? The capital that's literally and figuratively hard to breathe in.",
-      "Quito: Where everyone's protesting something but nothing changes.",
-      "From Quito? Let me guess, you're out of breath and out of patience.",
-      "Quito: The only capital where the view is better than the reality.",
-      "Where 'planning' means building wherever the mountain allows.",
-      "Quito: Proof that being a UNESCO site doesn't pay bills.",
-      "From Quito? Your city's biggest achievement is making Guayaquil look stable."
-    ],
-    guayaquil: [
-      "Guayaquil? Where the heat is oppressive and so is the crime.",
-      "From Guayaquil? How's living in Ecuador's sweaty armpit?",
-      "Guayaquil: Where everyone's either in shipping or shipping out.",
-      "Oh, Guayaquil? The city that's just a port with delusions.",
-      "Guayaquil: Where the humidity is 100% and so is the chance of being robbed.",
-      "From Guayaquil? Let me guess, you're planning your escape to Quito or abroad.",
-      "Guayaquil: The only city where iguanas have more rights than pedestrians.",
-      "Where 'culture' went to die in the heat.",
-      "Guayaquil: Proof that being the biggest doesn't mean being the best.",
-      "From Guayaquil? Your city's biggest achievement is making Quito look exciting."
-    ]
-  },
-
-  // BOLIVIA
-  bolivia: {
-    generic: [
-      "Bolivia? Where the altitude is high but the GDP is underground.",
-      "From Bolivia? How's being landlocked and luck-blocked?",
-      "Bolivia: Where everyone's protesting because what else is there to do?",
-      "Oh, Bolivia? The country that lost its coastline and never got over it.",
-      "Bolivia: Where the president changes more often than the weather.",
-      "From Bolivia? Let me guess, you're in La Paz or trying to breathe elsewhere.",
-      "Bolivia: The only country where oxygen bars make economic sense.",
-      "Where 'development' is as rare as sea-level air.",
-      "Bolivia: Proof that having resources doesn't mean having results.",
-      "From Bolivia? Your country's biggest export is lithium and unfulfilled potential."
-    ],
-    la_paz: [
-      "La Paz? Where the government is as dysfunctional as the oxygen levels.",
-      "From La Paz? How's living in a city where breathing is an achievement?",
-      "La Paz: Where cable cars are the only things that work properly.",
-      "Oh, La Paz? The capital so high it forgot how to develop.",
-      "La Paz: Where protests are more common than oxygen molecules.",
-      "From La Paz? Let me guess, you're dizzy from altitude or politics.",
-      "La Paz: The only capital where walking upstairs is an extreme sport.",
-      "Where 'heights' refers to altitude, not achievements.",
-      "La Paz: Proof that being unique doesn't mean being functional.",
-      "From La Paz? Your city's biggest achievement is making people appreciate sea level."
-    ]
-  },
-
-  // PARAGUAY
-  paraguay: {
-    generic: [
-      "Paraguay? South America's forgotten middle child.",
-      "From Paraguay? How's being the continent's most irrelevant country?",
-      "Paraguay: Where corruption is the only efficient system.",
-      "Oh, Paraguay? The country that exists because Brazil and Argentina forgot to finish fighting over it.",
-      "Paraguay: Where everyone's smuggling something or someone.",
-      "From Paraguay? Let me guess, you're explaining where Paraguay is.",
-      "Paraguay: The only country where being landlocked is the least of the problems.",
-      "Where 'economy' means whatever falls off trucks from Brazil.",
-      "Paraguay: Proof that surviving wars doesn't mean thriving in peace.",
-      "From Paraguay? Your country's biggest export is electricity and anonymity."
-    ],
-    asuncion: [
-      "Asunción? The capital that everyone assumes is somewhere else.",
-      "From Asunción? How's living in South America's most forgettable capital?",
-      "Asunción: Where the heat is stifling and so is the progress.",
-      "Oh, Asunción? The city that makes Montevideo look thrilling.",
-      "Asunción: Where everyone's in contraband or government, same thing.",
-      "From Asunción? Let me guess, you're sweating and smuggling.",
-      "Asunción: The only capital where the river is more famous than the city.",
-      "Where 'development' means a new shopping mall for contraband goods.",
-      "Asunción: Proof that being a capital doesn't require being memorable.",
-      "From Asunción? Your city's biggest achievement is existing despite irrelevance."
-    ]
-  },
-
-  // URUGUAY
-  uruguay: {
-    generic: [
-      "Uruguay? Argentina's boring appendix that thinks it's Switzerland.",
-      "From Uruguay? How's pretending to be European while being in South America?",
-      "Uruguay: Where everyone's old because the young people left.",
-      "Oh, Uruguay? The country that's just Buenos Aires' retirement home.",
-      "Uruguay: Where progressive politics can't mask the provincial mindset.",
-      "From Uruguay? Let me guess, you're proud of being boring and stable.",
-      "Uruguay: The only country where excitement is illegal after 10 PM.",
-      "Where 'culture' means mate and complaining about Argentina.",
-      "Uruguay: Proof that being peaceful doesn't mean being interesting.",
-      "From Uruguay? Your country's biggest export is football players who succeed elsewhere."
-    ],
-    montevideo: [
-      "Montevideo? Buenos Aires' depressed little brother.",
-      "From Montevideo? How's living in a capital that feels like a suburb?",
-      "Montevideo: Where the architecture is frozen in time and so is everything else.",
-      "Oh, Montevideo? The city that's just sadness by the sea.",
-      "Montevideo: Where everyone's nostalgic for a past that wasn't that great.",
-      "From Montevideo? Let me guess, you're drinking mate and discussing leaving.",
-      "Montevideo: The only capital where the cemetery is the liveliest place.",
-      "Where 'nightlife' means walking on the rambla alone.",
-      "Montevideo: Proof that coastal location doesn't guarantee vibrancy.",
-      "From Montevideo? Your city's biggest achievement is being calmer than Buenos Aires."
-    ]
-  },
-
-  // CHILE
-  chile: {
-    generic: [
-      "Chile? Where the country is thinner than the social safety net.",
-      "From Chile? How's that neoliberal paradise working for the 99%?",
-      "Chile: Where the earthquakes are less shocking than the inequality.",
-      "Oh, Chile? The country that's just a mining operation with a flag.",
-      "Chile: Where everyone's protesting because the Chicago Boys experiment failed.",
-      "From Chile? Let me guess, you're in Santiago or skiing away from problems.",
-      "Chile: The only country shaped like a natural disaster.",
-      "Where 'success' means being Latin America's most unequal success story.",
-      "Chile: Proof that GDP growth doesn't mean quality of life.",
-      "From Chile? Your country's biggest export is copper and discontent."
-    ],
-    santiago: [
-      "Santiago? Where the smog is thicker than the social mobility.",
-      "From Santiago? How's living in a bowl of pollution and inequality?",
-      "Santiago: Where the Andes are beautiful but you can't see them through smog.",
-      "Oh, Santiago? The city that's just LA with Spanish and worse air.",
-      "Santiago: Where everyone's protesting in Plaza Italia or fleeing to Providencia.",
-      "From Santiago? Let me guess, you're in a mall because the streets are chaos.",
-      "Santiago: The only capital where the metro burns during protests.",
-      "Where 'development' means another tower in Las Condes.",
-      "Santiago: Proof that mountains can't contain urban sprawl or discontent.",
-      "From Santiago? Your city's biggest achievement is making other Latin capitals look equal."
-    ]
-  },
-
-  // CUBA
-  cuba: {
-    generic: [
-      "Cuba? Where the cars are vintage and so is the government.",
-      "From Cuba? How's that revolution working out 60 years later?",
-      "Cuba: Where everyone's a doctor but nobody has medicine.",
-      "Oh, Cuba? The country that's a museum with beaches.",
-      "Cuba: Where the cigars are good but you can't afford them.",
-      "From Cuba? Let me guess, you're in Miami or dreaming of it.",
-      "Cuba: The only country where time stopped in 1959.",
-      "Where 'equality' means everyone's equally poor except the party.",
-      "Cuba: Proof that free healthcare doesn't help if there's no food.",
-      "From Cuba? Your country's biggest export is refugees and nostalgia."
-    ],
-    havana: [
-      "Havana? Where the buildings are falling faster than the regime.",
-      "From Havana? How's living in a crumbling museum?",
-      "Havana: Where every building is historic because nothing new gets built.",
-      "Oh, Havana? The city that's just Instagram backgrounds for tourists.",
-      "Havana: Where the music is lively because it drowns out the despair.",
-      "From Havana? Let me guess, you're hustling tourists or hustling to leave.",
-      "Havana: The only capital where decay is called 'authentic charm'.",
-      "Where 'restoration' means whatever tourists will pay to see.",
-      "Havana: Proof that being photogenic doesn't mean being livable.",
-      "From Havana? Your city's biggest achievement is looking good while falling apart."
-    ]
-  },
-
-  // JAMAICA
-  jamaica: {
-    generic: [
-      "Jamaica? Where the weed is better than the economy.",
-      "From Jamaica? How's that 'no problem' attitude with all those problems?",
-      "Jamaica: Where everyone's relaxed because there's no opportunity to stress about.",
-      "Oh, Jamaica? The country that's just a resort with a flag.",
-      "Jamaica: Where the music is legendary but the development isn't.",
-      "From Jamaica? Let me guess, you're in tourism or trying to leave.",
-      "Jamaica: The only country where the exchange rate is higher than the employment rate.",
-      "Where 'culture' gets packaged and sold to cruise ships.",
-      "Jamaica: Proof that having Bob Marley doesn't solve economic problems.",
-      "From Jamaica? Your country's biggest export is reggae and brain drain."
-    ],
-    kingston: [
-      "Kingston? Where the music is good but the violence is worse.",
-      "From Kingston? How's living in the Caribbean's most dangerous capital?",
-      "Kingston: Where uptown and downtown might as well be different countries.",
-      "Oh, Kingston? The city that tourists avoid for good reason.",
-      "Kingston: Where everyone's either making music or making problems.",
-      "From Kingston? Let me guess, you know which areas to avoid (most of them).",
-      "Kingston: The only capital where the embassy district is the safest part.",
-      "Where 'culture' happens behind security gates.",
-      "Kingston: Proof that being a cultural capital doesn't mean being safe.",
-      "From Kingston? Your city's biggest achievement is producing music that makes people forget about the murder rate."
-    ]
-  },
-
-  // HAITI
-  haiti: {
-    generic: [
-      "Haiti? Where the earthquake was the second-worst disaster after the government.",
-      "From Haiti? How's being the Western Hemisphere's cautionary tale?",
-      "Haiti: Where NGOs have more power than the government.",
-      "Oh, Haiti? The country that's been 'rebuilding' since 1804.",
-      "Haiti: Where everyone's resilient because what's the alternative?",
-      "From Haiti? Let me guess, you're in the diaspora or trying to join it.",
-      "Haiti: The only country where cholera was an improvement from the UN.",
-      "Where 'aid' means keeping people dependent, not developing.",
-      "Haiti: Proof that independence doesn't guarantee prosperity.",
-      "From Haiti? Your country's biggest export is tragedy and talented people fleeing it."
-    ],
-    port_au_prince: [
-      "Port-au-Prince? Where the prince left and took all hope with him.",
-      "From Port-au-Prince? How's living in rubble that calls itself a capital?",
-      "Port-au-Prince: Where the earthquake cleanup is still waiting to start.",
-      "Oh, Port-au-Prince? The city that makes other disaster zones look planned.",
-      "Port-au-Prince: Where the UN had more infrastructure than the government.",
-      "From Port-au-Prince? Let me guess, you're behind several sets of walls.",
-      "Port-au-Prince: The only capital where tent cities are permanent architecture.",
-      "Where 'development' means another NGO headquarters.",
-      "Port-au-Prince: Proof that capitals can exist without functioning.",
-      "From Port-au-Prince? Your city's biggest achievement is still standing, barely."
-    ]
-  },
-
-  // DOMINICAN REPUBLIC
-  dominicanrepublic: {
-    generic: [
-      "Dominican Republic? Where the resorts are nice and everything else isn't.",
-      "From DR? How's living in Haiti's slightly more successful sibling?",
-      "Dominican Republic: Where tourism thrives and locals survive.",
-      "Oh, DR? The country that's just Puerto Rico without the US passport.",
-      "Dominican Republic: Where everyone's in baseball or tourism.",
-      "From DR? Let me guess, you work in a resort or wish you didn't.",
-      "Dominican Republic: The only country where the all-inclusive doesn't include locals.",
-      "Where 'development' means another resort on stolen beach land.",
-      "Dominican Republic: Proof that tourism doesn't trickle down.",
-      "From DR? Your country's biggest export is baseball players and broken dreams."
-    ],
-    santo_domingo: [
-      "Santo Domingo? The oldest city acting like it matters.",
-      "From Santo Domingo? How's living in history that doesn't pay bills?",
-      "Santo Domingo: Where Columbus started ruining everything.",
-      "Oh, Santo Domingo? The capital that tourists skip to hit the beaches.",
-      "Santo Domingo: Where colonial history meets modern dysfunction.",
-      "From Santo Domingo? Let me guess, you work in government or tourism.",
-      "Santo Domingo: The only capital where the past is more developed than the present.",
-      "Where 'culture' means charging tourists to see old buildings.",
-      "Santo Domingo: Proof that being first doesn't mean being best.",
-      "From Santo Domingo? Your city's biggest achievement happened 500 years ago."
-    ]
-  },
-
-  // COSTA RICA
-  costarica: {
-    generic: [
-      "Costa Rica? Where 'Pura Vida' means 'purely expensive for locals'.",
-      "From Costa Rica? How's being Central America's retirement home for gringos?",
-      "Costa Rica: Where the sloths move faster than the bureaucracy.",
-      "Oh, Costa Rica? The country that sold its soul to ecotourism.",
-      "Costa Rica: Where everyone's in tourism or getting priced out by it.",
-      "From Costa Rica? Let me guess, you can't afford to live where you grew up.",
-      "Costa Rica: The only country where Americans go to ruin another healthcare system.",
-      "Where 'paradise' means paradise for foreigners with dollars.",
-      "Costa Rica: Proof that eco-friendly doesn't mean local-friendly.",
-      "From Costa Rica? Your country's biggest export is residency permits to retirees."
-    ],
-    san_jose: [
-      "San José? Where the traffic is worse than the crime, barely.",
-      "From San José? How's living in Central America's most boring capital?",
-      "San José: Where everyone passes through but nobody wants to stay.",
-      "Oh, San José? The city that exists just to have a capital.",
-      "San José: Where the best thing is the airport to leave.",
-      "From San José? Let me guess, you avoid downtown after dark.",
-      "San José: The only capital where the suburbs are safer and more interesting.",
-      "Where 'culture' fled to the coasts with the tourists.",
-      "San José: Proof that being a capital doesn't require character.",
-      "From San José? Your city's biggest achievement is having an international airport."
-    ]
-  },
-
-  // PANAMA
-  panama: {
-    generic: [
-      "Panama? Where the canal is straighter than the government.",
-      "From Panama? How's being the world's money laundering department?",
-      "Panama: Where the papers leaked but the problems didn't.",
-      "Oh, Panama? The country that's just a canal with a banking sector.",
-      "Panama: Where everyone's in finance or facilitating someone who is.",
-      "From Panama? Let me guess, you work in 'import/export' *wink wink*.",
-      "Panama: The only country where shell companies outnumber actual companies.",
-      "Where 'discretion' is the national motto.",
-      "Panama: Proof that strategic location beats actual development.",
-      "From Panama? Your country's biggest export is financial secrecy and scandals."
-    ],
-    panama_city: [
-      "Panama City? Where the skyline is money laundering made manifest.",
-      "From Panama City? How's living in the Dubai of Central America?",
-      "Panama City: Where every building is a shell company with windows.",
-      "Oh, Panama City? The city built on secrets and tax evasion.",
-      "Panama City: Where the rich hide money and the poor just hide.",
-      "From Panama City? Let me guess, you work in 'financial services'.",
-      "Panama City: The only capital where the buildings are taller than the morals.",
-      "Where 'banking' means asking no questions.",
-      "Panama City: Proof that dirty money builds clean buildings.",
-      "From Panama City? Your city's biggest achievement is making Swiss banking look transparent."
-    ]
-  },
-
-  // HONDURAS
-  honduras: {
-    generic: [
-      "Honduras? Where the murder rate competes with the poverty rate.",
-      "From Honduras? How's being the country everyone migrates through to escape?",
-      "Honduras: Where MS-13 provides more services than the government.",
-      "Oh, Honduras? The country that's just a cautionary tale with borders.",
-      "Honduras: Where everyone's planning their route to the US border.",
-      "From Honduras? Let me guess, you're in a caravan or planning to join one.",
-      "Honduras: The only country where coup d'état is a seasonal event.",
-      "Where 'governance' is a theoretical concept.",
-      "Honduras: Proof that beautiful beaches can't hide ugly realities.",
-      "From Honduras? Your country's biggest export is asylum seekers and coffee."
-    ],
-    tegucigalpa: [
-      "Tegucigalpa? Even the name sounds like giving up.",
-      "From Tegucigalpa? How's living in a capital nobody can pronounce or locate?",
-      "Tegucigalpa: Where the hills are steep and the crime rate's steeper.",
-      "Oh, Tegucigalpa? The city that makes San Pedro Sula look safe.",
-      "Tegucigalpa: Where everyone's either in government or running from it.",
-      "From Tegucigalpa? Let me guess, you know which neighborhoods to avoid (all of them).",
-      "Tegucigalpa: The only capital where the embassy district is a fortress.",
-      "Where 'development' means another mall for the rich to hide in.",
-      "Tegucigalpa: Proof that being a capital doesn't mean being functional.",
-      "From Tegucigalpa? Your city's biggest achievement is not being San Pedro Sula."
-    ]
-  },
-
-  // GUATEMALA
-  guatemala: {
-    generic: [
-      "Guatemala? Where the volcanoes are less explosive than the politics.",
-      "From Guatemala? How's that eternal spring with eternal corruption?",
-      "Guatemala: Where Mayan ruins are in better shape than current infrastructure.",
-      "Oh, Guatemala? The country that's just Mexico's poorer, smaller sibling.",
-      "Guatemala: Where everyone's indigenous until it's time for political representation.",
-      "From Guatemala? Let me guess, you're in the capital or coffee farming.",
-      "Guatemala: The only country where child labor is in the coffee you're drinking.",
-      "Where 'development' means another mall in Zone 10.",
-      "Guatemala: Proof that natural beauty can't overcome human ugliness.",
-      "From Guatemala? Your country's biggest export is coffee picked by children."
-    ],
-    guatemala_city: [
-      "Guatemala City? Where zones are numbered because names require creativity.",
-      "From Guatemala City? How's living in Central America's most dangerous capital?",
-      "Guatemala City: Where Zone 10 is nice and everywhere else is dice.",
-      "Oh, Guatemala City? The city that sprawls like the inequality.",
-      "Guatemala City: Where everyone's in a gated community or wishing they were.",
-      "From Guatemala City? Let me guess, you don't leave your zone after dark.",
-      "Guatemala City: The only capital where addresses are based on survival odds.",
-      "Where 'public transport' means chicken buses and prayers.",
-      "Guatemala City: Proof that capitals can be dangerous and boring simultaneously.",
-      "From Guatemala City? Your city's biggest achievement is making other Central American capitals look safe."
-    ]
-  },
-
-  // EL SALVADOR
-  elsalvador: {
-    generic: [
-      "El Salvador? Where Bitcoin is legal tender but hope is counterfeit.",
-      "From El Salvador? How's that cryptocurrency experiment in a country without electricity?",
-      "El Salvador: Where the gangs had more organization than the government.",
-      "Oh, El Salvador? The country that's just a murder statistic with borders.",
-      "El Salvador: Where everyone's family is split between home and LA.",
-      "From El Salvador? Let me guess, your cousins send remittances from the US.",
-      "El Salvador: The only country where pupusas are thicker than opportunities.",
-      "Where 'progress' means the murder rate dropped to only horrifying.",
-      "El Salvador: Proof that being small doesn't mean your problems are.",
-      "From El Salvador? Your country's biggest export is gang members and refugees."
-    ],
-    san_salvador: [
-      "San Salvador? Where the savior forgot to save anything.",
-      "From San Salvador? How's living in a capital named ironically?",
-      "San Salvador: Where earthquakes do urban planning better than the government.",
-      "Oh, San Salvador? The city surrounded by volcanoes and gang territories.",
-      "San Salvador: Where everyone's either in a mall or mourning someone.",
-      "From San Salvador? Let me guess, you measure distance in traffic and danger levels.",
-      "San Salvador: The only capital where Bitcoin ATMs outnumber regular ATMs.",
-      "Where 'development' means another fortified shopping center.",
-      "San Salvador: Proof that holy names don't guarantee holy outcomes.",
-      "From San Salvador? Your city's biggest achievement is surviving another day."
-    ]
-  },
-
-  // NICARAGUA
-  nicaragua: {
-    generic: [
-      "Nicaragua? Where the Sandinistas became what they fought against.",
-      "From Nicaragua? How's that revolutionary dream turned nightmare?",
-      "Nicaragua: Where Ortega's third term lasted longer than your patience.",
-      "Oh, Nicaragua? The country that's just a dictator's playground with volcanoes.",
-      "Nicaragua: Where protests are met with bullets and promises with silence.",
-      "From Nicaragua? Let me guess, you're whispering this or already in Costa Rica.",
-      "Nicaragua: The only country where the canal is imaginary but the repression is real.",
-      "Where 'democracy' is a word they stopped pretending to care about.",
-      "Nicaragua: Proof that revolutionaries make the worst leaders.",
-      "From Nicaragua? Your country's biggest export is refugees and broken dreams."
-    ],
-    managua: [
-      "Managua? The capital that an earthquake improved.",
-      "From Managua? How's living in a city that never recovered from 1972?",
-      "Managua: Where the lake is polluted and the politics are dirtier.",
-      "Oh, Managua? The city that forgot what city planning means.",
-      "Managua: Where directions are given by where things used to be.",
-      "From Managua? Let me guess, you navigate by defunct landmarks.",
-      "Managua: The only capital where the center is empty because it's safer that way.",
-      "Where 'architecture' means whatever survived the earthquake.",
-      "Managua: Proof that some cities shouldn't be rebuilt.",
-      "From Managua? Your city's biggest achievement is making Tegucigalpa look organized."
-    ]
-  },
-
-  // BELIZE
-  belize: {
-    generic: [
-      "Belize? Where the reef is dying faster than the economy.",
-      "From Belize? How's being Central America's forgotten English speaker?",
-      "Belize: Where everyone's in tourism or trying to launder money.",
-      "Oh, Belize? The country that's just Guatemala's beachfront property.",
-      "Belize: Where the best thing is barrier reef and it's bleaching.",
-      "From Belize? Let me guess, you work with tourists or wish they'd leave.",
-      "Belize: The only country where being a tax haven is plan A through Z.",
-      "Where 'development' means another resort owned by foreigners.",
-      "Belize: Proof that speaking English doesn't make you prosperous.",
-      "From Belize? Your country's biggest export is citizenship to criminals."
-    ],
-    belize_city: [
-      "Belize City? Where the hurricane cleanup from 1961 isn't finished.",
-      "From Belize City? How's living in a city that probably shouldn't exist?",
-      "Belize City: Where the crime rate competes with the humidity.",
-      "Oh, Belize City? The city built below sea level with below-average planning.",
-      "Belize City: Where everyone's trying to get to the islands or inland.",
-      "From Belize City? Let me guess, you're explaining it's not the capital anymore.",
-      "Belize City: The only city where being former capital was a promotion.",
-      "Where 'infrastructure' is a suggestion ignored since independence.",
-      "Belize City: Proof that coastal doesn't mean pleasant.",
-      "From Belize City? Your city's biggest achievement is no longer being the capital."
-    ]
-  },
-
-  // GUYANA
-  guyana: {
-    generic: [
-      "Guyana? Where the oil discovery will definitely not lead to corruption, right?",
-      "From Guyana? How's being South America's English-speaking oddity?",
-      "Guyana: Where everyone's Indo-Guyanese or Afro-Guyanese but never just Guyanese.",
-      "Oh, Guyana? The country that's just Jonestown's most famous location.",
-      "Guyana: Where the jungle is thick and the racial tension thicker.",
-      "From Guyana? Let me guess, you're in Georgetown or the diaspora.",
-      "Guyana: The only country where the suicide rate competes with the emigration rate.",
-      "Where 'development' means waiting for oil money to trickle down.",
-      "Guyana: Proof that oil discoveries don't instantly fix countries.",
-      "From Guyana? Your country's biggest export is people fleeing to Brooklyn."
-    ],
-    georgetown: [
-      "Georgetown? Where the seawall holds back more than just water.",
-      "From Georgetown? How's living below sea level with above-average crime?",
-      "Georgetown: Where colonial architecture rots in the tropical humidity.",
-      "Oh, Georgetown? The city that floods when someone spits.",
-      "Georgetown: Where everyone's planning their move to New York.",
-      "From Georgetown? Let me guess, you're related to half of Richmond Hill, Queens.",
-      "Georgetown: The only capital where the canals smell worse than the politics.",
-      "Where 'infrastructure' means Dutch systems from when they cared.",
-      "Georgetown: Proof that being a capital doesn't mean being functional.",
-      "From Georgetown? Your city's biggest achievement is producing New Yorkers."
-    ]
-  },
-
-  // SURINAME
-  suriname: {
-    generic: [
-      "Suriname? Where Dutch is spoken but the Dutch don't visit.",
-      "From Suriname? How's being South America's forgotten Dutch experiment?",
-      "Suriname: Where the diversity is beautiful but the economy is ugly.",
-      "Oh, Suriname? The country that's just French Guiana's less successful neighbor.",
-      "Suriname: Where everyone speaks five languages but can't talk their way to prosperity.",
-      "From Suriname? Let me guess, you're in Paramaribo or Amsterdam.",
-      "Suriname: The only country where the rainforest is worth more than the government.",
-      "Where 'development' means another Chinese loan for nothing useful.",
-      "Suriname: Proof that independence doesn't guarantee success.",
-      "From Suriname? Your country's biggest export is people to the Netherlands."
-    ],
-    paramaribo: [
-      "Paramaribo? Where the wooden buildings last longer than political stability.",
-      "From Paramaribo? How's living in a UNESCO site that's falling apart?",
-      "Paramaribo: Where Dutch colonial architecture meets tropical decay.",
-      "Oh, Paramaribo? The capital that feels like a village with pretensions.",
-      "Paramaribo: Where everyone's connected because there's only 500,000 people.",
-      "From Paramaribo? Let me guess, your family reunion is the whole country.",
-      "Paramaribo: The only capital where traffic jams involve 10 cars.",
-      "Where 'nightlife' means the one club everyone goes to.",
-      "Paramaribo: Proof that being unique doesn't mean being successful.",
-      "From Paramaribo? Your city's biggest achievement is being a UNESCO site nobody visits."
-    ]
-  },
-
-  // FRENCH GUIANA
-  frenchguiana: {
-    generic: [
-      "French Guiana? Where France launches rockets and dumps prisoners.",
-      "From French Guiana? How's being Europe's space port and forgotten colony?",
-      "French Guiana: Where the European Space Agency matters more than locals.",
-      "Oh, French Guiana? The place that's just France's tropical storage unit.",
-      "French Guiana: Where you use euros in the jungle.",
-      "From French Guiana? Let me guess, you work at the space center or wish you did.",
-      "French Guiana: The only place where French bureaucracy meets Amazon inefficiency.",
-      "Where 'development' means another rocket launch pad.",
-      "French Guiana: Proof that being part of France doesn't mean being French.",
-      "From French Guiana? Your territory's biggest export is satellites and sadness."
-    ],
-    cayenne: [
-      "Cayenne? Spicier name than the actual city.",
-      "From Cayenne? How's living in France's most tropical disappointment?",
-      "Cayenne: Where French prices meet South American wages.",
-      "Oh, Cayenne? The capital of nowhere important.",
-      "Cayenne: Where the pepper has more fame than the place.",
-      "From Cayenne? Let me guess, you're counting days until you can move to mainland France.",
-      "Cayenne: The only capital where Devil's Island was the most interesting part.",
-      "Where 'culture' is whatever France forgot to take back.",
-      "Cayenne: Proof that French colonialism is alive and well.",
-      "From Cayenne? Your city's biggest achievement is being where paprika isn't from."
-    ]
-  },
-
-  // BARBADOS
-  barbados: {
-    generic: [
-      "Barbados? Where Rihanna is the entire economy.",
-      "From Barbados? How's living on Britain's favorite Caribbean playground?",
-      "Barbados: Where everyone's either serving tourists or pretending to be British.",
-      "Oh, Barbados? The island that thinks it's too good for the rest of the Caribbean.",
-      "Barbados: Where the beaches are white but the colonial mindset is whiter.",
-      "From Barbados? Let me guess, you work in tourism or offshore banking.",
-      "Barbados: The only country where independence meant keeping the Queen.",
-      "Where 'culture' is cricket and whatever tourists expect.",
-      "Barbados: Proof that perfect beaches don't guarantee perfect society.",
-      "From Barbados? Your island's biggest export is Rihanna and colonial nostalgia."
-    ],
-    bridgetown: [
-      "Bridgetown? Where the cruise ships matter more than citizens.",
-      "From Bridgetown? How's living in a UNESCO site overrun by tourists?",
-      "Bridgetown: Where history is preserved for visitors, not residents.",
-      "Oh, Bridgetown? The capital that exists to sell duty-free rum.",
-      "Bridgetown: Where locals avoid downtown because of cruise ship days.",
-      "From Bridgetown? Let me guess, you work in tourism but hate tourists.",
-      "Bridgetown: The only capital where the port is more important than parliament.",
-      "Where 'development' means another jewelry store for cruise passengers.",
-      "Bridgetown: Proof that UNESCO status doesn't pay local bills.",
-      "From Bridgetown? Your city's biggest achievement is being in Rihanna's passport."
-    ]
-  },
-
-  // TRINIDAD AND TOBAGO
-  trinidadandtobago: {
-    generic: [
-      "Trinidad and Tobago? Where the oil money disappeared faster than Carnival costumes.",
-      "From T&T? How's that two-island nation with one-dimensional economy?",
-      "Trinidad and Tobago: Where everyone parties at Carnival then struggles all year.",
-      "Oh, T&T? The country that spent oil money like it was infinite.",
-      "Trinidad and Tobago: Where crime is higher than the soca volume.",
-      "From Trinidad? Let me guess, you're in energy or entertainment.",
-      "T&T: The only country where Carnival is the national retirement plan.",
-      "Where 'diversity' means arguing about Indian vs African food.",
-      "Trinidad and Tobago: Proof that oil wealth doesn't last forever.",
-      "From T&T? Your country's biggest export is Carnival costumes and brain drain."
-    ],
-    port_of_spain: [
-      "Port of Spain? Where the party never stops because reality is too harsh.",
-      "From Port of Spain? How's living in a capital that peaks during Carnival?",
-      "Port of Spain: Where everyone's planning for Carnival or recovering from it.",
-      "Oh, Port of Spain? The city that's vibrant two days a year.",
-      "Port of Spain: Where the savannah is nice but surrounded by crime.",
-      "From Port of Spain? Let me guess, you know which areas to avoid after dark.",
-      "Port of Spain: The only capital where fetes matter more than employment.",
-      "Where 'culture' means steelpan and ignoring problems.",
-      "Port of Spain: Proof that good vibes can't fix bad governance.",
-      "From Port of Spain? Your city's biggest achievement is Carnival, annually."
-    ]
-  },
-
-  // BAHAMAS
-  bahamas: {
-    generic: [
-      "Bahamas? Where the paradise is for tourists, not residents.",
-      "From the Bahamas? How's living in America's expensive beach house?",
-      "Bahamas: Where everyone's in tourism or wishing hurricane season ends it.",
-      "Oh, Bahamas? The country that's just Florida's offshore casino.",
-      "Bahamas: Where Atlantis Resort employs more people than the government.",
-      "From the Bahamas? Let me guess, you serve tourists or avoid them.",
-      "Bahamas: The only country where the fish are smarter than the politicians.",
-      "Where 'development' means another resort foreign-owned resort.",
-      "Bahamas: Proof that 700 islands can't create one functional government.",
-      "From the Bahamas? Your country's biggest export is empty beaches and full casinos."
-    ],
-    nassau: [
-      "Nassau? Where cruise ships dump tourists like toxic waste.",
-      "From Nassau? How's living in a pirate haven turned tourist trap?",
-      "Nassau: Where Bay Street sells Chinese knockoffs to American tourists.",
-      "Oh, Nassau? The capital that exists for duty-free shopping.",
-      "Nassau: Where locals can't afford Paradise Island.",
-      "From Nassau? Let me guess, you work on Paradise Island but live in poverty.",
-      "Nassau: The only capital where straw markets outnumber supermarkets.",
-      "Where 'authentic' means whatever cruise passengers will buy.",
-      "Nassau: Proof that proximity to Florida isn't always good.",
-      "From Nassau? Your city's biggest achievement is convincing tourists it's authentic."
-    ]
-  },
-
-  // FIJI
-  fiji: {
-    generic: [
-      "Fiji? Where the coups are more frequent than the flights.",
-      "From Fiji? How's that military democracy working out?",
-      "Fiji: Where everyone smiles for tourists then fights about ethnicity.",
-      "Oh, Fiji? The country that's just expensive water's homeland.",
-      "Fiji: Where indigenous rights depend on who's couping whom.",
-      "From Fiji? Let me guess, you're in tourism or the military.",
-      "Fiji: The only country where 'Bula' means hello and goodbye to democracy.",
-      "Where 'stability' is measured in months between coups.",
-      "Fiji: Proof that island paradise doesn't mean political paradise.",
-      "From Fiji? Your country's biggest export is water and instability."
-    ],
-    suva: [
-      "Suva? Where it rains more than Seattle but with coup seasons.",
-      "From Suva? How's living in the Pacific's wettest, most coup-prone capital?",
-      "Suva: Where colonial buildings mold in the rain and politics.",
-      "Oh, Suva? The capital that makes you miss the resort islands.",
-      "Suva: Where everyone's either in government or plotting against it.",
-      "From Suva? Let me guess, you're explaining it's the capital, not Nadi.",
-      "Suva: The only capital where rain is more predictable than government.",
-      "Where 'nightlife' ends when the rain starts at 6 PM.",
-      "Suva: Proof that being a capital doesn't mean being visited.",
-      "From Suva? Your city's biggest achievement is not being overthrown this month."
-    ]
-  },
-
-  // PAPUA NEW GUINEA
-  papuanewguinea: {
-    generic: [
-      "Papua New Guinea? Where there's 800 languages but no common sense.",
-      "From PNG? How's living in anthropology's last frontier?",
-      "Papua New Guinea: Where tribal warfare meets modern corruption.",
-      "Oh, PNG? The country that's just Australia's troubled basement.",
-      "Papua New Guinea: Where cannibalism ended recently but the government still eats people.",
-      "From PNG? Let me guess, you're in Port Moresby or fleeing it.",
-      "PNG: The only country where diversity means 800 ways to say 'help'.",
-      "Where 'development' is a word only heard in aid meetings.",
-      "Papua New Guinea: Proof that resources don't create prosperity.",
-      "From PNG? Your country's biggest export is raw materials and refined problems."
-    ],
-    port_moresby: [
-      "Port Moresby? Where the crime rate is higher than the humidity.",
-      "From Port Moresby? How's living in the world's least livable capital?",
-      "Port Moresby: Where expats live in compounds and locals live in fear.",
-      "Oh, Port Moresby? The city that makes Lagos look safe.",
-      "Port Moresby: Where everyone's either a victim or about to be.",
-      "From Port Moresby? Let me guess, you travel in convoys for safety.",
-      "Port Moresby: The only capital where the airport is the safest place.",
-      "Where 'security' means armed guards for grocery shopping.",
-      "Port Moresby: Proof that being a capital doesn't mean being civilized.",
-      "From Port Moresby? Your city's biggest achievement is making other dangerous cities look appealing."
-    ]
-  },
-
-  // SOLOMON ISLANDS
-  solomonislands: {
-    generic: [
-      "Solomon Islands? Where China and Taiwan play tug-of-war with aid money.",
-      "From the Solomons? How's being the Pacific's diplomatic prostitute?",
-      "Solomon Islands: Where logging companies have more power than the government.",
-      "Oh, Solomon Islands? The country that switches recognition for cash.",
-      "Solomon Islands: Where the forests disappear faster than the aid money.",
-      "From the Solomons? Let me guess, you're watching Chinese influence grow.",
-      "Solomon Islands: The only country where riots follow diplomatic switches.",
-      "Where 'development' means selling everything to the highest bidder.",
-      "Solomon Islands: Proof that island nations are geopolitical pawns.",
-      "From the Solomons? Your country's biggest export is logs and sovereignty."
-    ],
-    honiara: [
-      "Honiara? Where the Chinatown burns every few years.",
-      "From Honiara? How's living in the Pacific's most riot-prone capital?",
-      "Honiara: Where ethnic tensions simmer hotter than the weather.",
-      "Oh, Honiara? The capital built on WWII debris and modern dysfunction.",
-      "Honiara: Where everyone knows when the next riot is coming.",
-      "From Honiara? Let me guess, you avoid certain areas and times.",
-      "Honiara: The only capital where the Chinese embassy needs constant guards.",
-      "Where 'stability' means months without burning buildings.",
-      "Honiara: Proof that small capitals can have big problems.",
-      "From Honiara? Your city's biggest achievement is rebuilding after each riot."
-    ]
-  },
-
-  // VANUATU
-  vanuatu: {
-    generic: [
-      "Vanuatu? Where citizenship is for sale and earthquakes are free.",
-      "From Vanuatu? How's living on the Ring of Fire's shakiest democracy?",
-      "Vanuatu: Where everyone's either selling passports or waiting for volcanoes.",
-      "Oh, Vanuatu? The country that's just a tax haven with tsunamis.",
-      "Vanuatu: Where the earth shakes more than the corrupt government.",
-      "From Vanuatu? Let me guess, you're in passport sales or disaster prep.",
-      "Vanuatu: The only country where citizenship costs less than safety.",
-      "Where 'planning' means hoping the volcano doesn't erupt.",
-      "Vanuatu: Proof that paradise comes with natural disasters.",
-      "From Vanuatu? Your country's biggest export is passports and earthquake footage."
-    ],
-    port_vila: [
-      "Port Vila? Where expats buy passports and locals can't buy bread.",
-      "From Port Vila? How's living in the Pacific's passport printing shop?",
-      "Port Vila: Where every other business is citizenship consulting.",
-      "Oh, Port Vila? The capital that exists to sell what shouldn't be sold.",
-      "Port Vila: Where the harbor is full of tax-dodging yachts.",
-      "From Port Vila? Let me guess, you work in 'investment immigration'.",
-      "Port Vila: The only capital where earthquakes do urban planning.",
-      "Where 'development' means another citizenship scheme.",
-      "Port Vila: Proof that selling passports doesn't build nations.",
-      "From Port Vila? Your city's biggest achievement is surviving between disasters."
-    ]
-  },
-
-  // SAMOA
-  samoa: {
-    generic: [
-      "Samoa? Where the time zone change confused even the locals.",
-      "From Samoa? How's living in yesterday or tomorrow, depending on the year?",
-      "Samoa: Where everyone's related and the chief knows it.",
-      "Oh, Samoa? The country that's just American Samoa's less American sibling.",
-      "Samoa: Where fa'a Samoa means tradition trumps everything, including progress.",
-      "From Samoa? Let me guess, you're sending money back from New Zealand.",
-      "Samoa: The only country where changing which side to drive on is recent news.",
-      "Where 'development' respects tradition, meaning it doesn't happen.",
-      "Samoa: Proof that independence doesn't mean economic independence.",
-      "From Samoa? Your country's biggest export is rugby players and remittances."
-    ],
-    apia: [
-      "Apia? Where Robert Louis Stevenson is still the most famous resident.",
-      "From Apia? How's living in a capital that feels like a large village?",
-      "Apia: Where the tsunami rebuilding is still happening.",
-      "Oh, Apia? The capital that floods when someone waters their garden.",
-      "Apia: Where everyone knows everyone's business, unfortunately.",
-      "From Apia? Let me guess, you're related to half the city.",
-      "Apia: The only capital where traditional meetings last longer than parliament.",
-      "Where 'rush hour' is five cars at the same intersection.",
-      "Apia: Proof that being a capital doesn't require traffic lights.",
-      "From Apia? Your city's biggest achievement is confusing tourists about the time zone."
-    ]
-  },
-
-  // TONGA
-  tonga: {
-    generic: [
-      "Tonga? Where the king is fatter than the GDP.",
-      "From Tonga? How's living under the Pacific's last monarchy?",
-      "Tonga: Where everyone's noble or related to someone who claims to be.",
-      "Oh, Tonga? The kingdom that's just a royal family with islands.",
-      "Tonga: Where tradition means the royals stay rich and everyone else doesn't.",
-      "From Tonga? Let me guess, you're in New Zealand or sending money home.",
-      "Tonga: The only country where the monarchy has more weight than democracy, literally.",
-      "Where 'reform' means the king allows slightly more criticism.",
-      "Tonga: Proof that being a kingdom doesn't make you magical.",
-      "From Tonga? Your country's biggest export is rugby players to real countries."
-    ],
-    nukualofa: [
-      "Nuku'alofa? Where the apostrophe is the most exciting part.",
-      "From Nuku'alofa? How's living in a capital that sounds like a sneeze?",
-      "Nuku'alofa: Where the palace is the only building worth noting.",
-      "Oh, Nuku'alofa? The capital that tsunamis use for practice.",
-      "Nuku'alofa: Where everyone's watching the royals waste money.",
-      "From Nuku'alofa? Let me guess, you're planning your move to Auckland.",
-      "Nuku'alofa: The only capital where pigs have right of way.",
-      "Where 'infrastructure' is a word only foreign aid workers use.",
-      "Nuku'alofa: Proof that having a palace doesn't make you important.",
-      "From Nuku'alofa? Your city's biggest achievement is being hard to pronounce."
-    ]
-  },
-
-  // MICRONESIA
-  micronesia: {
-    generic: [
-      "Micronesia? Where the US aid is bigger than the economy.",
-      "From Micronesia? How's being America's forgotten Pacific welfare state?",
-      "Micronesia: Where everyone's either fishing or waiting for US checks.",
-      "Oh, Micronesia? The country that's just American military bases with flags.",
-      "Micronesia: Where independence means dependence on American money.",
-      "From Micronesia? Let me guess, you're using that US passport privilege.",
-      "Micronesia: The only country where Compact money is the compact everything.",
-      "Where 'development' means whatever the US military needs.",
-      "Micronesia: Proof that strategic location beats actual development.",
-      "From Micronesia? Your country's biggest export is strategic military position."
-    ]
-  },
-
-  // PALAU
-  palau: {
-    generic: [
-      "Palau? Where tourists underwater outnumber locals above it.",
-      "From Palau? How's living in a diving destination with no economy?",
-      "Palau: Where jellyfish lakes matter more than human development.",
-      "Oh, Palau? The country that's just an expensive scuba trip.",
-      "Palau: Where Chinese tourists were banned and the economy noticed.",
-      "From Palau? Let me guess, you work in diving or government.",
-      "Palau: The only country where fish have more rights than workers.",
-      "Where 'conservation' means keeping locals poor for tourist photos.",
-      "Palau: Proof that environmental protection doesn't pay bills.",
-      "From Palau? Your country's biggest export is underwater photos and debt."
-    ]
-  },
-
-  // MARSHALL ISLANDS
-  marshallislands: {
-    generic: [
-      "Marshall Islands? Where nuclear testing left more impact than independence.",
-      "From the Marshalls? How's that radiation working out for you?",
-      "Marshall Islands: Where the US tested bombs and now tests climate change.",
-      "Oh, Marshall Islands? The country that's sinking from what America did to it.",
-      "Marshall Islands: Where the compact money barely covers the cancer treatments.",
-      "From the Marshalls? Let me guess, you're worried about sea level and radiation level.",
-      "Marshall Islands: The only country where the past glows and the future drowns.",
-      "Where 'reparations' means not enough for what was done.",
-      "Marshall Islands: Proof that strategic location means being expendable.",
-      "From the Marshalls? Your country's biggest export is lawsuits and radiation data."
-    ]
-  },
-
-  // KIRIBATI
-  kiribati: {
-    generic: [
-      "Kiribati? The country that's drowning while the world watches.",
-      "From Kiribati? How's planning your country's funeral?",
-      "Kiribati: Where climate change isn't debate, it's the tide schedule.",
-      "Oh, Kiribati? The country buying land in Fiji for when yours disappears.",
-      "Kiribati: Where every high tide is an existential crisis.",
-      "From Kiribati? Let me guess, you're learning to swim or already left.",
-      "Kiribati: The only country where elevation is measured in inches.",
-      "Where 'future planning' means which country to flee to.",
-      "Kiribati: Proof that island paradise can become ocean floor.",
-      "From Kiribati? Your country's biggest export is climate change warnings nobody heeds."
-    ]
-  },
-
-  // TUVALU
-  tuvalu: {
-    generic: [
-      "Tuvalu? Where the internet domain is worth more than the country.",
-      "From Tuvalu? How's living on islands that won't exist in 50 years?",
-      "Tuvalu: Where .tv revenue is the only thing keeping you afloat, literally.",
-      "Oh, Tuvalu? The country that's selling its digital space because the physical is drowning.",
-      "Tuvalu: Where everyone's planning their evacuation to New Zealand.",
-      "From Tuvalu? Let me guess, you're grateful for that internet domain money.",
-      "Tuvalu: The only country where Google Earth needs frequent updates as it shrinks.",
-      "Where 'national planning' means negotiating refugee status in advance.",
-      "Tuvalu: Proof that countries can disappear in the digital age.",
-      "From Tuvalu? Your country's biggest export is domain names and desperation."
-    ]
-  },
-
-  // NAURU
-  nauru: {
-    generic: [
-      "Nauru? Where the bird shit money ran out and so did hope.",
-      "From Nauru? How's living on a strip-mined rock in the ocean?",
-      "Nauru: Where phosphate wealth became poverty faster than you can say 'mining'.",
-      "Oh, Nauru? The country that ate itself and sold the scraps.",
-      "Nauru: Where Australian detention centers are the main employer.",
-      "From Nauru? Let me guess, you work for the camps or wish they'd leave.",
-      "Nauru: The only country where the before photos looked better.",
-      "Where 'economy' means whatever Australia pays for refugee storage.",
-      "Nauru: Proof that resource wealth guarantees nothing.",
-      "From Nauru? Your country's biggest export is human rights violations and regret."
-    ]
-  },
-
-  // COOK ISLANDS
-  cookislands: {
-    generic: [
-      "Cook Islands? New Zealand's tax haven with beaches.",
-      "From the Cooks? How's being a country that's not quite a country?",
-      "Cook Islands: Where everyone's either in tourism or financial services, both shady.",
-      "Oh, Cook Islands? The territory that's independent when convenient.",
-      "Cook Islands: Where the population is mostly in New Zealand anyway.",
-      "From the Cooks? Let me guess, you're selling something to tourists or hiding something for criminals.",
-      "Cook Islands: The only place where having New Zealand's protection means enabling tax dodging.",
-      "Where 'culture' is performed for cruise ships twice a week.",
-      "Cook Islands: Proof that paradise can be a front for financial crimes.",
-      "From the Cooks? Your country's biggest export is tax avoidance schemes and black pearls."
-    ]
-  },
-
-  // NIUE
-  niue: {
-    generic: [
-      "Niue? The country with more internet domains than people.",
-      "From Niue? How's living on a rock with Wi-Fi?",
-      "Niue: Where the population fits in a large restaurant.",
-      "Oh, Niue? The country that's one hurricane away from evacuation.",
-      "Niue: Where everyone's related and living in New Zealand.",
-      "From Niue? Let me guess, you're one of the 1,500 people or you're lying.",
-      "Niue: The only country where the phone book is a pamphlet.",
-      "Where 'infrastructure' means the one road around the island.",
-      "Niue: Proof that you can be a country with fewer people than a concert.",
-      "From Niue? Your country's biggest achievement is having more domains than citizens."
-    ]
-  },
-
-  // Generic/Default roasts for any unmatched location
-  default: [
-    "Your location is so irrelevant, even Google Maps just shrugs.",
-    "From there? I'd roast your hometown but it would require me to care about it first.",
-    "Your area is so forgettable, even this roast generator had nothing prepared.",
-    "I'd make fun of where you're from, but I don't want to punch down that far.",
-    "Your location is like a generic brand cereal - technically exists but nobody's first choice.",
-    "Oh, you're from there? That's nice. Anyway...",
-    "Your hometown is the geographic equivalent of elevator music.",
-    "From there? Even your GPS tries to avoid it.",
-    "Your location is so bland, mayonnaise thinks it needs more flavor.",
-    "I'd google your hometown but I don't want that in my search history.",
-    "Your area's so unremarkable, even this burn feels like too much attention.",
-    "From there? The place so boring, even the Wikipedia page is just one sentence.",
-    "Your hometown's like a rest stop - people only go there when they have to.",
-    "The most interesting thing about your location is that you left.",
-    "Your area's claim to fame is people confusing it with somewhere better.",
-    "From there? That explains the personality.",
-    "Your location is what happens when God runs out of ideas.",
-    "I've heard of nowhere, and your town is 20 minutes past that.",
-    "Your hometown's so irrelevant, even COVID skipped it.",
-    "From there? The place where ambition goes to die and mediocrity thrives."
-  ]
-}; Massachusetts? Where everyone thinks they're wicked smaht but can't pronounce the letter R to save their lives.",
+      "Massachusetts? Where everyone thinks they're wicked smaht but can't pronounce the letter R to save their lives.",
       "Let me guess, you think Dunkin' is a personality trait and you've told someone about the Sox within the last hour.",
       "Massachusetts: Where people pay $3,000/month to live in a closet and call it 'character'.",
       "From Mass? Your entire personality is Irish heritage you can't prove and opinions about Tom Brady.",
@@ -2209,7 +608,127 @@ export const roastDatabase = {
     ]
   },
 
-  // NORTH DAKOTA
+  // MONTANA
+  montana: {
+    generic: [
+      "Montana? Where there's more cows than people and the cows have better social lives.",
+      "From Montana? How's living in a state where 'rush hour' is waiting for a herd to cross?",
+      "Montana: Where everyone pretends to be a cowboy but works at a gas station.",
+      "Oh, Montana? The state that's just Wyoming with slightly more people.",
+      "Montana: Where the speed limit is 'reasonable and prudent' because nobody's around to hit.",
+      "From Montana? Let me guess, your neighbor is 50 miles away and you like it that way.",
+      "Montana: The only state where 'Big Sky Country' means 'nothing to look at but sky'.",
+      "Where 'culture' means the annual rodeo and racist uncle's barbecue.",
+      "Montana: Proof that beautiful landscapes can't cure boredom.",
+      "From Montana? Your state's biggest export is people who got tired of talking to cattle."
+    ],
+    billings: [
+      "Billings? Montana's biggest city, which is like being the tallest dwarf.",
+      "From Billings? How's being the metropolitan hub of nowhere?",
+      "Billings: Where the refineries provide both jobs and cancer.",
+      "Oh, Billings? The city that exists because trains needed somewhere to stop.",
+      "Billings: Where everyone's either in oil or wishing there was something else.",
+      "From Billings? Let me guess, you drive to Denver for real entertainment.",
+      "Billings: The only city where the rimrocks are more interesting than downtown.",
+      "Where 'nightlife' means the casino and the Walmart parking lot.",
+      "Billings: Proof that being the biggest doesn't mean being interesting.",
+      "From Billings? Your city's claim to fame is being mentioned in Breaking Bad once."
+    ],
+    missoula: [
+      "Missoula? Where hipsters go to pretend they're outdoorsy.",
+      "From Missoula? How's that liberal bubble in Montana's conservative bathtub?",
+      "Missoula: Where everyone's a writer, artist, or barista serving writers and artists.",
+      "Oh, Missoula? The city that thinks having a university makes it Berkeley.",
+      "Missoula: Where the smoke from wildfires is thicker than the job opportunities.",
+      "From Missoula? Let me guess, you're 'different' from other Montanans.",
+      "Missoula: The only city in Montana where vegans can survive.",
+      "Where 'culture' means craft beer and arguing about wilderness access.",
+      "Missoula: Boulder's dropout sibling who couldn't afford Colorado.",
+      "From Missoula? Your city's biggest achievement is making Bozeman look affordable."
+    ]
+  },
+
+  // IDAHO
+  idaho: {
+    generic: [
+      "Idaho? No, you da ho.",
+      "From Idaho? How's living in America's potato storage facility?",
+      "Idaho: Where the potatoes have more culture than the people.",
+      "Oh, Idaho? The state that's just Eastern Washington's parking lot.",
+      "Idaho: Where everyone's either Mormon, militia, or miserable.",
+      "From Idaho? Let me guess, you're not from Boise so nobody knows where you're from.",
+      "Idaho: The only state where Napoleon Dynamite was a documentary.",
+      "Where 'diversity' means different types of potatoes.",
+      "Idaho: Proof that being shaped like a gun doesn't make you interesting.",
+      "From Idaho? Your state's biggest export is white supremacists and french fries."
+    ],
+    boise: [
+      "Boise? The city that Californians are ruining one overpriced house at a time.",
+      "From Boise? How's pretending to be a real city working out?",
+      "Boise: Where everyone complains about Californians while serving them coffee.",
+      "Oh, Boise? The city that's just Portland's conservative cousin.",
+      "Boise: Where the tech scene is growing faster than the infrastructure.",
+      "From Boise? Let me guess, you can't afford to live there anymore.",
+      "Boise: The only capital where potato is both crop and personality.",
+      "Where 'culture' means whatever Portland did 10 years ago.",
+      "Boise: Proof that cheap housing attracts expensive problems.",
+      "From Boise? Your city went from hidden gem to overpriced rock real quick."
+    ],
+    coeur_dalene: [
+      "Coeur d'Alene? Where white supremacists go for the lake views.",
+      "From CDA? How's living in Idaho's prettiest racist town?",
+      "Coeur d'Alene: Where the lake is beautiful and the politics are ugly.",
+      "Oh, CDA? The city that's just Spokane's vacation home.",
+      "Coeur d'Alene: Where everyone pretends the Aryan Nations headquarters wasn't there.",
+      "From CDA? Let me guess, you're 'one of the good ones' who isn't racist.",
+      "Coeur d'Alene: The only city where militia members have lake houses.",
+      "Where 'diversity' is a four-letter word.",
+      "Coeur d'Alene: Proof that natural beauty attracts unnatural people.",
+      "From CDA? Your city's biggest achievement is making the rest of Idaho look tolerant."
+    ]
+  },
+
+  // IOWA
+  iowa: {
+    generic: [
+      "Iowa? Where corn has more personality than people.",
+      "From Iowa? How's living in America's most skippable state?",
+      "Iowa: Where everyone's nice because there's nothing else to be.",
+      "Oh, Iowa? The state that only matters every four years during caucuses.",
+      "Iowa: Where exciting means the state fair has a new butter sculpture.",
+      "From Iowa? Let me guess, you're explaining it's not Idaho for the thousandth time.",
+      "Iowa: The only state where 'seasoning' is a dirty word.",
+      "Where 'culture' means different ways to prepare corn.",
+      "Iowa: Proof that flat can be both geography and personality.",
+      "From Iowa? Your state's biggest export is young people fleeing to Chicago."
+    ],
+    des_moines: [
+      "Des Moines? The insurance capital where dreams go to get term life.",
+      "From Des Moines? How's living in America's most medium city?",
+      "Des Moines: Where everyone's in insurance or insuring they leave.",
+      "Oh, Des Moines? The city that's just Omaha's even more boring twin.",
+      "Des Moines: Where the most exciting thing is the caucuses every four years.",
+      "From Des Moines? Let me guess, you work at Principal or wish you didn't.",
+      "Des Moines: The only capital where actuaries are the cool kids.",
+      "Where 'nightlife' means Applebee's is open until 10.",
+      "Des Moines: Proof that being a capital doesn't require personality.",
+      "From Des Moines? Your city's skyline looks like a bar graph of mediocrity."
+    ],
+    iowa_city: [
+      "Iowa City? Where the university is the only reason it exists.",
+      "From Iowa City? How's living in Iowa's attempt at having culture?",
+      "Iowa City: Where everyone's a writer because there's nothing else to do.",
+      "Oh, Iowa City? The city that thinks having a writing workshop makes it Paris.",
+      "Iowa City: Where grad students go to develop drinking problems.",
+      "From Iowa City? Let me guess, you're in the Writers' Workshop or serving drinks to them.",
+      "Iowa City: The only city in Iowa where people read books without pictures.",
+      "Where 'culture' means whatever the university imports.",
+      "Iowa City: Proof that education can't overcome location.",
+      "From Iowa City? Your city's biggest achievement is making people famous somewhere else."
+    ]
+  },
+
+  // NORTH DAKOTA (Expanded)
   northdakota: {
     generic: [
       "North Dakota? Where the oil boom went bust and took the last reason to be there.",
@@ -2239,10 +758,22 @@ export const roastDatabase = {
       "Where 'nightlife' means drinking until you forget you live in Fargo.",
       "Fargo: Proof that colleges will put campuses literally anywhere.",
       "From Fargo? Your city's claim to fame is a Coen Brothers movie that mocked you."
+    ],
+    bismarck: [
+      "Bismarck? The capital that everyone forgets is the capital.",
+      "From Bismarck? How's being North Dakota's attempt at having a government?",
+      "Bismarck: Where state employees freeze to death slowly.",
+      "Oh, Bismarck? The city that's just Fargo's boring government cousin.",
+      "Bismarck: Where everyone's either in government or oil, equally soul-crushing.",
+      "From Bismarck? Let me guess, you're counting days until retirement or death.",
+      "Bismarck: The only capital where the river is more interesting than the city.",
+      "Where 'culture' means the casino and chain restaurants.",
+      "Bismarck: Proof that being a capital means nothing in North Dakota.",
+      "From Bismarck? Your city's biggest achievement is not being as depressing as Minot."
     ]
   },
 
-  // SOUTH DAKOTA
+  // SOUTH DAKOTA (Expanded)
   southdakota: {
     generic: [
       "South Dakota? Where Mount Rushmore is the only reason people know you exist.",
@@ -2272,6 +803,18 @@ export const roastDatabase = {
       "Where 'culture' means having both a mall AND a Walmart.",
       "Sioux Falls: Proof that waterfalls can't make a city interesting.",
       "From Sioux Falls? Your city's biggest achievement is being mentioned in credit card fine print."
+    ],
+    rapid_city: [
+      "Rapid City? Where tourists stop before seeing something actually interesting.",
+      "From Rapid City? How's being Mount Rushmore's hotel district?",
+      "Rapid City: Where everyone's in tourism or biker bars.",
+      "Oh, Rapid City? The city that exists solely because tourists need somewhere to sleep.",
+      "Rapid City: Where Sturgis brings culture once a year in leather form.",
+      "From Rapid City? Let me guess, you work at a hotel or a gift shop.",
+      "Rapid City: The only city where presidents' faces carved in rock overshadow everything.",
+      "Where 'local culture' means whatever tourists want to buy.",
+      "Rapid City: Proof that proximity to monuments doesn't make you monumental.",
+      "From Rapid City? Your city is what happens when a rest stop gets ambitious."
     ]
   },
 
@@ -4643,4 +3186,1783 @@ export const roastDatabase = {
       "Bangladesh? Where the floods are annual but the development isn't.",
       "From Bangladesh? How's that overpopulation treating your personal space?",
       "Bangladesh: Where everyone's in textiles or trying to leave.",
-      "Oh,
+      "Oh, Bangladesh? The country that makes India's poverty look manageable.",
+      "Bangladesh: Where climate change and corruption race to destroy the country first.",
+      "From Bangladesh? Let me guess, you're in Dhaka or wishing you weren't.",
+      "Bangladesh: The only country where being underwater is both literal and economic.",
+      "Where 'development' means another garment factory collapse.",
+      "Bangladesh: Proof that independence doesn't guarantee prosperity.",
+      "From Bangladesh? Your country's biggest export is cheap clothes and broken dreams."
+    ],
+    dhaka: [
+      "Dhaka? Where traffic doesn't move and neither does progress.",
+      "From Dhaka? How's living in the world's most densely packed disappointment?",
+      "Dhaka: Where rickshaws move faster than the government.",
+      "Oh, Dhaka? The city that makes Mumbai look spacious.",
+      "Dhaka: Where everyone's stuck in traffic thinking about leaving.",
+      "From Dhaka? Let me guess, your commute is longer than your sleep.",
+      "Dhaka: The only capital where flooding is urban planning.",
+      "Where 'infrastructure' is a word nobody can spell.",
+      "Dhaka: Proof that density doesn't create efficiency.",
+      "From Dhaka? Your city's biggest achievement is making other Asian capitals look organized."
+    ]
+  },
+
+  // SRI LANKA
+  srilanka: {
+    generic: [
+      "Sri Lanka? Where the paradise got repossessed by China.",
+      "From Sri Lanka? How's that economic collapse treating your rupee?",
+      "Sri Lanka: Where politicians bankrupted paradise.",
+      "Oh, Sri Lanka? The country that sold its ports to pay for vanity projects.",
+      "Sri Lanka: Where everyone's fleeing to the Middle East for work.",
+      "From Sri Lanka? Let me guess, you're rationing fuel and hope.",
+      "Sri Lanka: The only country that managed to fail with perfect geography.",
+      "Where 'development' meant debt traps disguised as infrastructure.",
+      "Sri Lanka: Proof that beauty can't overcome corruption.",
+      "From Sri Lanka? Your country's biggest export is people seeking economic refuge."
+    ],
+    colombo: [
+      "Colombo? Where the port is Chinese and the people are broke.",
+      "From Colombo? How's being the capital of a bankrupt paradise?",
+      "Colombo: Where every development project is a debt to China.",
+      "Oh, Colombo? The city that sold its soul for a lotus tower.",
+      "Colombo: Where everyone's planning their escape to Dubai.",
+      "From Colombo? Let me guess, you're in a fuel queue right now.",
+      "Colombo: The only capital where power cuts are more reliable than power.",
+      "Where 'progress' means another Chinese loan.",
+      "Colombo: Proof that coastal beauty can't pay debts.",
+      "From Colombo? Your city's biggest achievement is making the IMF feel needed."
+    ]
+  },
+
+  // NEPAL
+  nepal: {
+    generic: [
+      "Nepal? Where the mountains are high and the GDP is subterranean.",
+      "From Nepal? How's being India's forgotten backyard?",
+      "Nepal: Where everyone's either a guide or guided by poverty.",
+      "Oh, Nepal? The country that's just Everest's base camp.",
+      "Nepal: Where political instability is more consistent than electricity.",
+      "From Nepal? Let me guess, you're in tourism or wishing tourists would come back.",
+      "Nepal: The only country where the gods live higher than the GDP.",
+      "Where 'development' means another hydropower project that won't work.",
+      "Nepal: Proof that beautiful mountains can't feed people.",
+      "From Nepal? Your country's biggest export is Gurkhas and good intentions."
+    ],
+    kathmandu: [
+      "Kathmandu? Where the temples are ancient and so is the infrastructure.",
+      "From Kathmandu? How's living in a valley that's literally and figuratively stuck?",
+      "Kathmandu: Where pollution competes with altitude for breathlessness.",
+      "Oh, Kathmandu? The city that's just a dusty museum with traffic.",
+      "Kathmandu: Where everyone's spiritual but nobody can afford enlightenment.",
+      "From Kathmandu? Let me guess, you wear a mask for dust, not disease.",
+      "Kathmandu: The only capital where earthquakes do urban planning.",
+      "Where 'development' means rebuilding what fell down last time.",
+      "Kathmandu: Proof that being spiritual doesn't pay bills.",
+      "From Kathmandu? Your city's biggest achievement is surviving between disasters."
+    ]
+  },
+
+  // MOROCCO
+  morocco: {
+    generic: [
+      "Morocco? Where the king has a palace in every city while people live in slums.",
+      "From Morocco? How's that monarchy treating your freedom of speech?",
+      "Morocco: Where hash is the biggest export after phosphates.",
+      "Oh, Morocco? The country pretending to be European while in Africa.",
+      "Morocco: Where French is spoken better than human rights.",
+      "From Morocco? Let me guess, you're in tourism or unemployed.",
+      "Morocco: The only African country with an identity crisis.",
+      "Where 'culture' gets sold to tourists in the medina.",
+      "Morocco: Proof that being close to Europe doesn't make you European.",
+      "From Morocco? Your country's biggest export is hash and brain drain to France."
+    ],
+    casablanca: [
+      "Casablanca? Where the movie is more interesting than the city.",
+      "From Casablanca? How's living in Morocco's concrete disappointment?",
+      "Casablanca: Where romance died with urban planning.",
+      "Oh, Casablanca? The city that's just Marseille's uglier cousin.",
+      "Casablanca: Where everyone works in phosphates or poverty.",
+      "From Casablanca? Let me guess, you dream of the Casablanca from the movie.",
+      "Casablanca: The only city where the name is the best part.",
+      "Where 'culture' went to die in traffic.",
+      "Casablanca: Proof that famous names don't make famous cities.",
+      "From Casablanca? Your city's biggest achievement is disappointing tourists expecting romance."
+    ],
+    marrakech: [
+      "Marrakech? Where Instagram influencers go to exploit culture.",
+      "From Marrakech? How's watching your city become a European playground?",
+      "Marrakech: Where every riad is owned by foreigners pricing out locals.",
+      "Oh, Marrakech? The city that sold its soul for tourist dollars.",
+      "Marrakech: Where authenticity is performed hourly for tips.",
+      "From Marrakech? Let me guess, you work in tourism and hate tourists.",
+      "Marrakech: The only city where snake charmers have MBAs.",
+      "Where 'culture' is whatever tourists will pay to see.",
+      "Marrakech: Proof that tourism kills what it claims to preserve.",
+      "From Marrakech? Your city's biggest export is 'authentic' experiences for people who Instagram them."
+    ]
+  },
+
+  // KENYA
+  kenya: {
+    generic: [
+      "Kenya? Where politicians are richer than the country they're looting.",
+      "From Kenya? How's that corruption treating your shillings?",
+      "Kenya: Where everyone's an entrepreneur because employment is mythical.",
+      "Oh, Kenya? The country that's just a safari with a flag.",
+      "Kenya: Where M-Pesa works better than the government.",
+      "From Kenya? Let me guess, you're in tech or trying to leave.",
+      "Kenya: The only country where mobile money is more stable than banks.",
+      "Where 'development' means another mall for the middle class.",
+      "Kenya: Proof that innovation can't overcome corruption.",
+      "From Kenya? Your country's biggest export is marathon runners and broken promises."
+    ],
+    nairobi: [
+      "Nairobi? Where Silicon Savannah meets African reality.",
+      "From Nairobi? How's living in traffic with delusions of being Africa's tech hub?",
+      "Nairobi: Where everyone's a CEO of an app that doesn't work.",
+      "Oh, Nairobi? The city that's just traffic jams with aspirations.",
+      "Nairobi: Where the matatus are more organized than the government.",
+      "From Nairobi? Let me guess, you're stuck in traffic on Thika Road.",
+      "Nairobi: The only capital where 'Nairobbery' is the nickname.",
+      "Where 'innovation' means another money transfer app.",
+      "Nairobi: Proof that calling yourself Silicon Savannah doesn't make it true.",
+      "From Nairobi? Your city's biggest achievement is M-Pesa, and that was 15 years ago."
+    ]
+  },
+
+  // ETHIOPIA
+  ethiopia: {
+    generic: [
+      "Ethiopia? Where the calendar is 7 years behind and development is 70.",
+      "From Ethiopia? How's that ethnic conflict seasoned with famine?",
+      "Ethiopia: Where everyone's proud of never being colonized while being underdeveloped.",
+      "Oh, Ethiopia? The country that's just aid organizations and ancient churches.",
+      "Ethiopia: Where the coffee is great but you can't afford to drink it.",
+      "From Ethiopia? Let me guess, you're fleeing conflict or economic collapse.",
+      "Ethiopia: The only country where pride in history can't feed the present.",
+      "Where 'growth' means building a dam while people starve.",
+      "Ethiopia: Proof that avoiding colonization doesn't guarantee success.",
+      "From Ethiopia? Your country's biggest export is coffee and refugees."
+    ],
+    addis_ababa: [
+      "Addis? Where the AU headquarters is the nicest building by far.",
+      "From Addis? How's living in Africa's diplomatic capital with no diplomacy?",
+      "Addis Ababa: Where altitude is higher than the standard of living.",
+      "Oh, Addis? The city that's just NGO headquarters and poverty.",
+      "Addis Ababa: Where everyone's in development but nothing develops.",
+      "From Addis? Let me guess, you work for an NGO or wish you did.",
+      "Addis: The only capital where donkeys share roads with diplomats.",
+      "Where 'progress' means another Chinese-built project.",
+      "Addis Ababa: Proof that hosting the AU doesn't make you important.",
+      "From Addis? Your city's biggest achievement is being high enough to avoid some disasters."
+    ]
+  },
+
+  // GHANA
+  ghana: {
+    generic: [
+      "Ghana? Where the year of return became the year of reality check.",
+      "From Ghana? How's that beacon of African democracy with rolling blackouts?",
+      "Ghana: Where everyone's an entrepreneur selling the same things.",
+      "Oh, Ghana? The country coasting on being stable by African standards.",
+      "Ghana: Where diasporans come to be disappointed by reality.",
+      "From Ghana? Let me guess, you're in Accra or wishing you were abroad.",
+      "Ghana: The only country where 'dumsor' is both a word and a lifestyle.",
+      "Where 'development' means another mall in Accra.",
+      "Ghana: Proof that stability doesn't equal prosperity.",
+      "From Ghana? Your country's biggest export is false hope to African Americans."
+    ],
+    accra: [
+      "Accra? Where traffic is slower than government progress.",
+      "From Accra? How's living in West Africa's most overrated capital?",
+      "Accra: Where everyone's hustling but nobody's moving.",
+      "Oh, Accra? The city that's just heat, traffic, and disappointed returnees.",
+      "Accra: Where the beaches are dirty and the prices are clean out of reach.",
+      "From Accra? Let me guess, you're stuck in traffic thinking about leaving.",
+      "Accra: The only capital where 'go slow' means traffic and life.",
+      "Where 'culture' is performed for diasporans seeking identity.",
+      "Accra: Proof that being peaceful doesn't mean being prosperous.",
+      "From Accra? Your city's biggest achievement is convincing African Americans it's paradise."
+    ]
+  },
+
+  // ZIMBABWE
+  zimbabwe: {
+    generic: [
+      "Zimbabwe? Where trillion dollar bills couldn't buy bread.",
+      "From Zimbabwe? How's using USD because your currency is a meme?",
+      "Zimbabwe: Where everyone's a billionaire but still broke.",
+      "Oh, Zimbabwe? The country that went from breadbasket to basket case.",
+      "Zimbabwe: Where the land reform reformed nothing but property rights.",
+      "From Zimbabwe? Let me guess, you're in South Africa or trying to get there.",
+      "Zimbabwe: The only country where inflation broke mathematics.",
+      "Where 'sovereignty' means starving independently.",
+      "Zimbabwe: Proof that you can ruin a good thing spectacularly.",
+      "From Zimbabwe? Your country's biggest export is economic refugees and cautionary tales."
+    ],
+    harare: [
+      "Harare? Where the sunshine is constant but electricity isn't.",
+      "From Harare? How's living in a capital that peaked in 1980?",
+      "Harare: Where everyone has a degree but no jobs exist.",
+      "Oh, Harare? The city that Sherman should have burned twice.",
+      "Harare: Where fuel queues are longer than job queues.",
+      "From Harare? Let me guess, you're trading forex on the black market.",
+      "Harare: The only capital where nostalgia is the main industry.",
+      "Where 'development' means remembering when things worked.",
+      "Harare: Proof that capitals can go backwards.",
+      "From Harare? Your city's biggest achievement is making Bulawayo look good."
+    ]
+  },
+
+  // TANZANIA
+  tanzania: {
+    generic: [
+      "Tanzania? Where Kilimanjaro is the highest point literally and figuratively.",
+      "From Tanzania? How's that development at pole pole speed?",
+      "Tanzania: Where everyone's in safari tourism or subsistence farming.",
+      "Oh, Tanzania? The country that's just a stopover to Zanzibar.",
+      "Tanzania: Where Swahili time means nothing happens on time.",
+      "From Tanzania? Let me guess, you work in tourism or NGOs.",
+      "Tanzania: The only country where socialism failed so quietly nobody noticed.",
+      "Where 'progress' moves at the speed of a government office.",
+      "Tanzania: Proof that natural beauty doesn't build economies.",
+      "From Tanzania? Your country's biggest export is safari photos and brain drain."
+    ],
+    dar_es_salaam: [
+      "Dar? Where the heat is more oppressive than the government.",
+      "From Dar? How's living in a capital that Dodoma replaced but forgot?",
+      "Dar es Salaam: Where everyone's sweating through traffic to nowhere.",
+      "Oh, Dar? The city that's just humidity and disappointed expectations.",
+      "Dar es Salaam: Where the port works better than everything else.",
+      "From Dar? Let me guess, you're in traffic wishing you were in Zanzibar.",
+      "Dar: The only city where 'salaam' is ironic given the chaos.",
+      "Where 'development' means another half-finished project.",
+      "Dar es Salaam: Proof that coastal cities can still be boring.",
+      "From Dar? Your city's biggest achievement is not being the capital anymore."
+    ]
+  },
+
+  // UGANDA
+  uganda: {
+    generic: [
+      "Uganda? Where the pearl of Africa needs serious polishing.",
+      "From Uganda? How's that president-for-life situation working out?",
+      "Uganda: Where everyone's young because the government is ancient.",
+      "Oh, Uganda? The country that's just Kampala and problems.",
+      "Uganda: Where homophobia is government policy and development isn't.",
+      "From Uganda? Let me guess, you're under 30 and underemployed.",
+      "Uganda: The only country where the president has been in power longer than most citizens have been alive.",
+      "Where 'democracy' is a word in the constitution nobody reads.",
+      "Uganda: Proof that natural resources can't overcome bad leadership.",
+      "From Uganda? Your country's biggest export is frustrated youth and Nile perch."
+    ],
+    kampala: [
+      "Kampala? Built on seven hills and fourteen types of chaos.",
+      "From Kampala? How's living in Africa's most congested disappointment?",
+      "Kampala: Where boda bodas are more organized than the government.",
+      "Oh, Kampala? The city that's just traffic jams and NGO Land Cruisers.",
+      "Kampala: Where everyone's hustling because formal employment is a myth.",
+      "From Kampala? Let me guess, you're stuck in jam on Entebbe Road.",
+      "Kampala: The only capital where potholes have potholes.",
+      "Where 'planning' is a foreign concept and traffic lights are suggestions.",
+      "Kampala: Proof that being on hills doesn't give you the high ground.",
+      "From Kampala? Your city's biggest achievement is making Nairobi traffic look manageable."
+    ]
+  },
+
+  // ZAMBIA
+  zambia: {
+    generic: [
+      "Zambia? Where the copper left but the poverty stayed.",
+      "From Zambia? How's that commodity curse treating you?",
+      "Zambia: Where everyone's peaceful because they're too tired to fight.",
+      "Oh, Zambia? The country that's just a transit route to somewhere better.",
+      "Zambia: Where load shedding is more reliable than electricity.",
+      "From Zambia? Let me guess, you're in mining or wishing mining still paid.",
+      "Zambia: The only country where Victoria Falls can't wash away the problems.",
+      "Where 'development' means another Chinese loan.",
+      "Zambia: Proof that being peaceful doesn't pay bills.",
+      "From Zambia? Your country's biggest export is copper and educated people to other countries."
+    ],
+    lusaka: [
+      "Lusaka? Where the malls are nicer than the infrastructure.",
+      "From Lusaka? How's living in a capital that feels like a large village?",
+      "Lusaka: Where everyone's in a Land Cruiser because the roads eat small cars.",
+      "Oh, Lusaka? The city that's just sprawl without the urban.",
+      "Lusaka: Where load shedding schedules are more reliable than government.",
+      "From Lusaka? Let me guess, you're at a mall because where else is there?",
+      "Lusaka: The only capital where 'central business district' is an oxymoron.",
+      "Where 'planning' means building wherever there's space.",
+      "Lusaka: Proof that capitals don't need character.",
+      "From Lusaka? Your city's biggest achievement is having South African shops."
+    ]
+  },
+
+  // ANTARCTICA
+  antarctica: {
+    generic: [
+      "Antarctica? Where the penguins have more personality than the researchers.",
+      "From Antarctica? How's that ice-olation treating your social skills?",
+      "Antarctica: Where global warming is job security.",
+      "Oh, Antarctica? The continent that's literally cooler than you.",
+      "Antarctica: Where everyone's either a scientist or a penguin, and the penguins are more interesting.",
+      "From Antarctica? Let me guess, you're fleeing from society or studying ice.",
+      "Antarctica: The only continent where the population drops when it gets cold.",
+      "Where 'neighbor' means someone 500 miles away at another research station.",
+      "Antarctica: Proof that humans will live anywhere to avoid other humans.",
+      "From Antarctica? Your continent's biggest export is climate change data everyone ignores."
+    ]
+  },
+
+  // GREENLAND
+  greenland: {
+    generic: [
+      "Greenland? The biggest lie in geographic naming history.",
+      "From Greenland? How's living in Iceland's less interesting, larger cousin?",
+      "Greenland: Where there's more ice than green and more depression than ice.",
+      "Oh, Greenland? The island that's just Denmark's forgotten freezer.",
+      "Greenland: Where the population is smaller than a medium-sized town.",
+      "From Greenland? Let me guess, you're related to everyone else there.",
+      "Greenland: The only place where melting is economic development.",
+      "Where 'infrastructure' means hoping the ice road doesn't melt this year.",
+      "Greenland: Proof that size doesn't matter when you're frozen.",
+      "From Greenland? Your island's biggest achievement is tricking Trump into wanting to buy it."
+    ]
+  },
+
+  // MALTA
+  malta: {
+    generic: [
+      "Malta? Where the blockchain scams have more substance than the island.",
+      "From Malta? How's living on Europe's money laundering pebble?",
+      "Malta: Where everyone's in online gambling or facilitating tax evasion.",
+      "Oh, Malta? The island that's just Sicily's kidney stone.",
+      "Malta: Where EU passports are for sale and journalism is dangerous.",
+      "From Malta? Let me guess, you work in 'gaming' which means online casinos.",
+      "Malta: The only country where car bombs are investigative journalism.",
+      "Where 'culture' means charging tourists to see old stones.",
+      "Malta: Proof that being small doesn't mean being insignificant to criminals.",
+      "From Malta? Your country's biggest export is shady financial services and dead journalists."
+    ]
+  },
+
+  // CYPRUS
+  cyprus: {
+    generic: [
+      "Cyprus? The island that's been divided longer than your parents' marriage.",
+      "From Cyprus? How's that permanent temporary solution working out?",
+      "Cyprus: Where the beaches are beautiful and the politics are ugly.",
+      "Oh, Cyprus? The island that's just Greece and Turkey's custody battle.",
+      "Cyprus: Where everyone's a lawyer or in money laundering, often both.",
+      "From Cyprus? Let me guess, you're explaining which side you're from.",
+      "Cyprus: The only EU country that's literally broken.",
+      "Where 'reunification' has been coming soon for 50 years.",
+      "Cyprus: Proof that islands can have identity crises too.",
+      "From Cyprus? Your island's biggest achievement is making division profitable."
+    ]
+  },
+
+  // ICELAND
+  iceland: {
+    generic: [
+      "Iceland? Where the volcanoes have more warmth than the people.",
+      "From Iceland? How's that seasonal depression in permanent winter?",
+      "Iceland: Where everyone's related and the dating apps check for it.",
+      "Oh, Iceland? The country that's just expensive emptiness with geysers.",
+      "Iceland: Where the population fits in a stadium and the prices don't fit any budget.",
+      "From Iceland? Let me guess, you're in tourism or fishing, the only two options.",
+      "Iceland: The only country where Northern Lights can't brighten the mood.",
+      "Where 'culture' means fermented shark and disappointment.",
+      "Iceland: Proof that natural beauty can't warm up cold personalities.",
+      "From Iceland? Your country's biggest export is Björk and bankruptcy."
+    ],
+    reykjavik: [
+      "Reykjavik? Where the nightlife is legendary because there's nothing else to do.",
+      "From Reykjavik? How's living in the world's most northern disappointment?",
+      "Reykjavik: Where everyone knows everyone, unfortunately.",
+      "Oh, Reykjavik? The capital that's just colorful houses hiding gray lives.",
+      "Reykjavik: Where the bars are full because home is depressing.",
+      "From Reykjavik? Let me guess, you're drunk to forget you live there.",
+      "Reykjavik: The only capital where summer is a day in July.",
+      "Where 'culture' means drinking until the sun comes up at 3 AM.",
+      "Reykjavik: Proof that being quirky doesn't mean being interesting.",
+      "From Reykjavik? Your city's biggest achievement is convincing tourists it's worth visiting."
+    ]
+  },
+
+  // LUXEMBOURG
+  luxembourg: {
+    generic: [
+      "Luxembourg? Where the banks are bigger than the country.",
+      "From Luxembourg? How's living in Europe's money laundering drive-through?",
+      "Luxembourg: Where everyone's in finance or serving those in finance.",
+      "Oh, Luxembourg? The country that's just Belgium's rich tax haven.",
+      "Luxembourg: Where the GDP per capita is high because the capita is low.",
+      "From Luxembourg? Let me guess, you're in banking or pretending you're not.",
+      "Luxembourg: The only country where crossing it is faster than parking.",
+      "Where 'culture' means whatever three banks can sponsor.",
+      "Luxembourg: Proof that small countries can have big accounts.",
+      "From Luxembourg? Your country's biggest achievement is making tax avoidance look respectable."
+    ]
+  },
+
+  // MONACO
+  monaco: {
+    generic: [
+      "Monaco? Where the cars cost more than most countries' GDP.",
+      "From Monaco? How's living in a tax haven the size of a parking lot?",
+      "Monaco: Where everyone's either a millionaire or serving millionaires.",
+      "Oh, Monaco? The country that's just a casino with a flag.",
+      "Monaco: Where the yachts are bigger than the country.",
+      "From Monaco? Let me guess, you're in debt maintaining appearances.",
+      "Monaco: The only country where the royal family has more members than citizens.",
+      "Where 'culture' means the Grand Prix and gambling.",
+      "Monaco: Proof that money can buy you a country but not class.",
+      "From Monaco? Your country's biggest export is Instagram posts and tax avoidance."
+    ]
+  },
+
+  // LIECHTENSTEIN
+  liechtenstein: {
+    generic: [
+      "Liechtenstein? The country that sounds made up because it basically is.",
+      "From Liechtenstein? How's living in Switzerland's garage?",
+      "Liechtenstein: Where there are more companies registered than people.",
+      "Oh, Liechtenstein? The country that's just a tax loophole with a prince.",
+      "Liechtenstein: Where everyone works in finance or dentures, seriously.",
+      "From Liechtenstein? Let me guess, you're explaining where it is for the thousandth time.",
+      "Liechtenstein: The only country you can accidentally walk through.",
+      "Where 'culture' is whatever Switzerland didn't want.",
+      "Liechtenstein: Proof that you can be a country with fewer people than a concert.",
+      "From Liechtenstein? Your country's biggest achievement is existing despite no one knowing where."
+    ]
+  },
+
+  // ANDORRA
+  andorra: {
+    generic: [
+      "Andorra? Where duty-free shopping is the entire economy.",
+      "From Andorra? How's living in Europe's strip mall?",
+      "Andorra: Where everyone's dodging taxes or selling to those who are.",
+      "Oh, Andorra? The country that's just a road between France and Spain.",
+      "Andorra: Where the mountains are high and the taxes are low.",
+      "From Andorra? Let me guess, you're in 'import/export' which means tax evasion.",
+      "Andorra: The only country where cigarette smuggling is economic policy.",
+      "Where 'culture' means whatever tourists buy duty-free.",
+      "Andorra: Proof that being between two countries doesn't make you one.",
+      "From Andorra? Your country's biggest achievement is making people google 'Is Andorra a real country?'"
+    ]
+  },
+
+  // SAN MARINO
+  sanmarino: {
+    generic: [
+      "San Marino? Italy's tumor that declared independence.",
+      "From San Marino? How's living in a country smaller than most cities?",
+      "San Marino: Where the entire country is a tourist trap on a hill.",
+      "Oh, San Marino? The country that exists because Italy forgot about it.",
+      "San Marino: Where everyone sells stamps and pretends it's an economy.",
+      "From San Marino? Let me guess, your president is your neighbor.",
+      "San Marino: The only country where the gift shop is the GDP.",
+      "Where 'culture' is just being not quite Italian.",
+      "San Marino: Proof that anyone can be a country if Italy's too lazy to annex you.",
+      "From San Marino? Your country's biggest achievement is having more tourists than citizens."
+    ]
+  },
+
+  // VATICAN CITY
+  vatican: {
+    generic: [
+      "Vatican City? Where celibacy is mandatory but scandal is traditional.",
+      "From the Vatican? How's that moral authority working with all those lawsuits?",
+      "Vatican: Where the gold could solve poverty but won't.",
+      "Oh, Vatican? The country that's just a church with a bank account.",
+      "Vatican: Where everyone's holy until the audit starts.",
+      "From the Vatican? Let me guess, you're covering up something.",
+      "Vatican: The only country where the population is 100% male and wonders why that's a problem.",
+      "Where 'culture' means art stolen from civilizations you converted.",
+      "Vatican: Proof that God needs good lawyers.",
+      "From the Vatican? Your country's biggest export is guilt and tax-exempt donations."
+    ]
+  },
+
+  // MONGOLIA
+  mongolia: {
+    generic: [
+      "Mongolia? Where there's more nothing than anywhere else.",
+      "From Mongolia? How's living between Russia and China working out for your independence?",
+      "Mongolia: Where the horses outnumber humans and have better living conditions.",
+      "Oh, Mongolia? The country that peaked with Genghis Khan.",
+      "Mongolia: Where everyone's nomadic because there's nowhere worth staying.",
+      "From Mongolia? Let me guess, you're in mining or herding, the only options.",
+      "Mongolia: The only country where the capital has half the population.",
+      "Where 'culture' means throat singing and fermented mare's milk.",
+      "Mongolia: Proof that having the most land per person doesn't mean prosperity.",
+      "From Mongolia? Your country's biggest export is cashmere and people fleeing to anywhere else."
+    ],
+    ulaanbaatar: [
+      "Ulaanbaatar? The coldest capital with the hottest pollution.",
+      "From UB? How's living in the world's most polluted freezer?",
+      "Ulaanbaatar: Where half of Mongolia crowds into the worst place.",
+      "Oh, Ulaanbaatar? The city that's just Soviet buildings and smog.",
+      "Ulaanbaatar: Where everyone burns coal to survive and dies from burning coal.",
+      "From UB? Let me guess, you can't see across the street in winter.",
+      "Ulaanbaatar: The only capital where -40° is both the temperature and air quality.",
+      "Where 'development' means more gers connected to more pollution.",
+      "Ulaanbaatar: Proof that capitals don't need to be livable.",
+      "From UB? Your city's biggest achievement is making Beijing's air look clean."
+    ]
+  },
+
+  // NORTH KOREA
+  northkorea: {
+    generic: [
+      "North Korea? Where the Supreme Leader is the only one eating supremely.",
+      "From North Korea? How did you even get internet to read this?",
+      "North Korea: Where the 1950s called and want their everything back.",
+      "Oh, North Korea? The country that's just a prison with a flag.",
+      "North Korea: Where the only growth industry is nuclear threats.",
+      "From North Korea? Let me guess, you're not actually from North Korea.",
+      "North Korea: The only country where darkness is visible from space.",
+      "Where 'culture' is whatever the Kim family approves.",
+      "North Korea: Proof that isolation doesn't preserve anything worth preserving.",
+      "From North Korea? Your country's biggest export is threats and refugees."
+    ],
+    pyongyang: [
+      "Pyongyang? Where the buildings are empty but the propaganda is full.",
+      "From Pyongyang? How's living in the world's largest theater production?",
+      "Pyongyang: Where everyone's an actor and the city's a stage.",
+      "Oh, Pyongyang? The capital that's just Potemkin villages with nukes.",
+      "Pyongyang: Where the metro is deeper than the thoughts allowed.",
+      "From Pyongyang? You're definitely not reading this there.",
+      "Pyongyang: The only capital where traffic jams are impossible because there are no cars.",
+      "Where 'architecture' means whatever makes the leader look good.",
+      "Pyongyang: Proof that you can build a capital without capitalism or success.",
+      "From Pyongyang? Your city's biggest achievement is the mass games where humans become pixels."
+    ]
+  },
+
+  // VENEZUELA
+  venezuela: {
+    generic: [
+      "Venezuela? Where millionaires can't afford bread.",
+      "From Venezuela? How's that socialism of the 21st century working out?",
+      "Venezuela: Where oil wealth became everyone's poverty.",
+      "Oh, Venezuela? The country that speedran from rich to ruined.",
+      "Venezuela: Where everyone's a millionaire but millions mean nothing.",
+      "From Venezuela? Let me guess, you're in Miami or trying to get there.",
+      "Venezuela: The only country where inflation broke calculators.",
+      "Where 'currency' is more useful as toilet paper.",
+      "Venezuela: Proof that oil can't fix stupid governance.",
+      "From Venezuela? Your country's biggest export is refugees and cautionary tales."
+    ],
+    caracas: [
+      "Caracas? Where the murder rate competes with the inflation rate.",
+      "From Caracas? How's living in the world's most dangerous capital?",
+      "Caracas: Where everyone's either robbing or being robbed.",
+      "Oh, Caracas? The city where leaving your house is extreme sports.",
+      "Caracas: Where the barrios have better views than your life expectancy.",
+      "From Caracas? Let me guess, you know someone who's been kidnapped.",
+      "Caracas: The only capital where the morgue is busier than the hospitals.",
+      "Where 'security' means how many locks on your door.",
+      "Caracas: Proof that oil money can't buy safety.",
+      "From Caracas? Your city's biggest achievement is making other dangerous cities look safe."
+    ]
+  },
+
+  // COLOMBIA
+  colombia: {
+    generic: [
+      "Colombia? Where the cocaine jokes write themselves.",
+      "From Colombia? How's that reputation from the 80s treating you?",
+      "Colombia: Where everyone's tired of Pablo Escobar references but here we are.",
+      "Oh, Colombia? The country that's beauty and violence in equal measure.",
+      "Colombia: Where the coffee's good but the reputation's bitter.",
+      "From Colombia? Let me guess, you're explaining you're not all drug dealers.",
+      "Colombia: The only country where tourism slogans fight narco stereotypes.",
+      "Where 'progress' means fewer kidnappings than last year.",
+      "Colombia: Proof that Netflix shows don't help country reputation.",
+      "From Colombia? Your country's biggest export is coffee and trying to change the subject from cocaine."
+    ],
+    bogota: [
+      "Bogotá? Where the altitude is high and so is the crime.",
+      "From Bogotá? How's living in a capital built on a swamp and run like one?",
+      "Bogotá: Where traffic is so bad, kidnappings decreased because nobody can move.",
+      "Oh, Bogotá? The city that's just Mexico City's colder, less fun cousin.",
+      "Bogotá: Where everyone's educated but underemployed.",
+      "From Bogotá? Let me guess, you're stuck in traffic complaining about TransMilenio.",
+      "Bogotá: The only capital where rain is more reliable than public transport.",
+      "Where 'culture' happens in malls because the streets aren't safe.",
+      "Bogotá: Proof that altitude doesn't equal attitude.",
+      "From Bogotá? Your city's biggest achievement is making Medellín look good."
+    ],
+    medellin: [
+      "Medellín? Pablo's hometown trying to rebrand with cable cars.",
+      "From Medellín? How's that eternal spring in the city of eternal sin?",
+      "Medellín: Where innovation means finding new ways to avoid cartel history.",
+      "Oh, Medellín? The city where gringos go to pretend they're not sex tourists.",
+      "Medellín: Where everyone's in tech or tourism, fleeing the past.",
+      "From Medellín? Let me guess, you're tired of Narcos references.",
+      "Medellín: The only city where cable cars are public transport and history.",
+      "Where 'transformation' means hipsters replaced hitmen.",
+      "Medellín: Proof that cities can change but stereotypes don't.",
+      "From Medellín? Your city's biggest achievement is convincing people it's safe now."
+    ]
+  },
+
+  // PERU
+  peru: {
+    generic: [
+      "Peru? Where Machu Picchu is the high point literally and figuratively.",
+      "From Peru? How's that political instability seasoned with corruption?",
+      "Peru: Where everyone's proud of the Incas who wouldn't recognize the place.",
+      "Oh, Peru? The country that's just a Machu Picchu delivery system.",
+      "Peru: Where the food's great but the government's indigestible.",
+      "From Peru? Let me guess, you work in tourism or mining.",
+      "Peru: The only country where presidents last less than the food poisoning.",
+      "Where 'culture' means charging tourists to see what conquistadors missed.",
+      "Peru: Proof that great history doesn't guarantee a great present.",
+      "From Peru? Your country's biggest export is quinoa and political chaos."
+    ],
+    lima: [
+      "Lima? Where the fog is thicker than the traffic.",
+      "From Lima? How's living in a desert that forgot it's a desert?",
+      "Lima: Where it never rains but everything's always damp and depressing.",
+      "Oh, Lima? The city built on sand with a shaky foundation.",
+      "Lima: Where the cliffs are beautiful and the inequality is ugly.",
+      "From Lima? Let me guess, you're in Miraflores pretending the rest doesn't exist.",
+      "Lima: The only capital where the beach is there but nobody swims.",
+      "Where 'development' means another mall in San Isidro.",
+      "Lima: Proof that coastal doesn't mean pleasant.",
+      "From Lima? Your city's biggest achievement is making Cusco look organized."
+    ]
+  },
+
+  // ECUADOR
+  ecuador: {
+    generic: [
+      "Ecuador? Where the middle of the world is the middle of nowhere.",
+      "From Ecuador? How's using the dollar because your own currency failed?",
+      "Ecuador: Where everyone's plan B is moving to Spain.",
+      "Oh, Ecuador? The country that's just the Galapagos Islands' mainland disappointment.",
+      "Ecuador: Where being on the equator doesn't make you central to anything.",
+      "From Ecuador? Let me guess, you're in Quito, Guayaquil, or gone.",
+      "Ecuador: The only country where the roses are beautiful and everything else is thorny.",
+      "Where 'stability' is measured in months between protests.",
+      "Ecuador: Proof that perfect geography doesn't guarantee success.",
+      "From Ecuador? Your country's biggest export is flowers and people seeking better lives."
+    ],
+    quito: [
+      "Quito? Where the altitude is higher than the employment rate.",
+      "From Quito? How's living in a city stretched thinner than the oxygen?",
+      "Quito: Where colonial beauty meets modern dysfunction.",
+      "Oh, Quito? The capital that's literally and figuratively hard to breathe in.",
+      "Quito: Where everyone's protesting something but nothing changes.",
+      "From Quito? Let me guess, you're out of breath and out of patience.",
+      "Quito: The only capital where the view is better than the reality.",
+      "Where 'planning' means building wherever the mountain allows.",
+      "Quito: Proof that being a UNESCO site doesn't pay bills.",
+      "From Quito? Your city's biggest achievement is making Guayaquil look stable."
+    ],
+    guayaquil: [
+      "Guayaquil? Where the heat is oppressive and so is the crime.",
+      "From Guayaquil? How's living in Ecuador's sweaty armpit?",
+      "Guayaquil: Where everyone's either in shipping or shipping out.",
+      "Oh, Guayaquil? The city that's just a port with delusions.",
+      "Guayaquil: Where the humidity is 100% and so is the chance of being robbed.",
+      "From Guayaquil? Let me guess, you're planning your escape to Quito or abroad.",
+      "Guayaquil: The only city where iguanas have more rights than pedestrians.",
+      "Where 'culture' went to die in the heat.",
+      "Guayaquil: Proof that being the biggest doesn't mean being the best.",
+      "From Guayaquil? Your city's biggest achievement is making Quito look exciting."
+    ]
+  },
+
+  // BOLIVIA
+  bolivia: {
+    generic: [
+      "Bolivia? Where the altitude is high but the GDP is underground.",
+      "From Bolivia? How's being landlocked and luck-blocked?",
+      "Bolivia: Where everyone's protesting because what else is there to do?",
+      "Oh, Bolivia? The country that lost its coastline and never got over it.",
+      "Bolivia: Where the president changes more often than the weather.",
+      "From Bolivia? Let me guess, you're in La Paz or trying to breathe elsewhere.",
+      "Bolivia: The only country where oxygen bars make economic sense.",
+      "Where 'development' is as rare as sea-level air.",
+      "Bolivia: Proof that having resources doesn't mean having results.",
+      "From Bolivia? Your country's biggest export is lithium and unfulfilled potential."
+    ],
+    la_paz: [
+      "La Paz? Where the government is as dysfunctional as the oxygen levels.",
+      "From La Paz? How's living in a city where breathing is an achievement?",
+      "La Paz: Where cable cars are the only things that work properly.",
+      "Oh, La Paz? The capital so high it forgot how to develop.",
+      "La Paz: Where protests are more common than oxygen molecules.",
+      "From La Paz? Let me guess, you're dizzy from altitude or politics.",
+      "La Paz: The only capital where walking upstairs is an extreme sport.",
+      "Where 'heights' refers to altitude, not achievements.",
+      "La Paz: Proof that being unique doesn't mean being functional.",
+      "From La Paz? Your city's biggest achievement is making people appreciate sea level."
+    ]
+  },
+
+  // PARAGUAY
+  paraguay: {
+    generic: [
+      "Paraguay? South America's forgotten middle child.",
+      "From Paraguay? How's being the continent's most irrelevant country?",
+      "Paraguay: Where corruption is the only efficient system.",
+      "Oh, Paraguay? The country that exists because Brazil and Argentina forgot to finish fighting over it.",
+      "Paraguay: Where everyone's smuggling something or someone.",
+      "From Paraguay? Let me guess, you're explaining where Paraguay is.",
+      "Paraguay: The only country where being landlocked is the least of the problems.",
+      "Where 'economy' means whatever falls off trucks from Brazil.",
+      "Paraguay: Proof that surviving wars doesn't mean thriving in peace.",
+      "From Paraguay? Your country's biggest export is electricity and anonymity."
+    ],
+    asuncion: [
+      "Asunción? The capital that everyone assumes is somewhere else.",
+      "From Asunción? How's living in South America's most forgettable capital?",
+      "Asunción: Where the heat is stifling and so is the progress.",
+      "Oh, Asunción? The city that makes Montevideo look thrilling.",
+      "Asunción: Where everyone's in contraband or government, same thing.",
+      "From Asunción? Let me guess, you're sweating and smuggling.",
+      "Asunción: The only capital where the river is more famous than the city.",
+      "Where 'development' means a new shopping mall for contraband goods.",
+      "Asunción: Proof that being a capital doesn't require being memorable.",
+      "From Asunción? Your city's biggest achievement is existing despite irrelevance."
+    ]
+  },
+
+  // URUGUAY
+  uruguay: {
+    generic: [
+      "Uruguay? Argentina's boring appendix that thinks it's Switzerland.",
+      "From Uruguay? How's pretending to be European while being in South America?",
+      "Uruguay: Where everyone's old because the young people left.",
+      "Oh, Uruguay? The country that's just Buenos Aires' retirement home.",
+      "Uruguay: Where progressive politics can't mask the provincial mindset.",
+      "From Uruguay? Let me guess, you're proud of being boring and stable.",
+      "Uruguay: The only country where excitement is illegal after 10 PM.",
+      "Where 'culture' means mate and complaining about Argentina.",
+      "Uruguay: Proof that being peaceful doesn't mean being interesting.",
+      "From Uruguay? Your country's biggest export is football players who succeed elsewhere."
+    ],
+    montevideo: [
+      "Montevideo? Buenos Aires' depressed little brother.",
+      "From Montevideo? How's living in a capital that feels like a suburb?",
+      "Montevideo: Where the architecture is frozen in time and so is everything else.",
+      "Oh, Montevideo? The city that's just sadness by the sea.",
+      "Montevideo: Where everyone's nostalgic for a past that wasn't that great.",
+      "From Montevideo? Let me guess, you're drinking mate and discussing leaving.",
+      "Montevideo: The only capital where the cemetery is the liveliest place.",
+      "Where 'nightlife' means walking on the rambla alone.",
+      "Montevideo: Proof that coastal location doesn't guarantee vibrancy.",
+      "From Montevideo? Your city's biggest achievement is being calmer than Buenos Aires."
+    ]
+  },
+
+  // CHILE
+  chile: {
+    generic: [
+      "Chile? Where the country is thinner than the social safety net.",
+      "From Chile? How's that neoliberal paradise working for the 99%?",
+      "Chile: Where the earthquakes are less shocking than the inequality.",
+      "Oh, Chile? The country that's just a mining operation with a flag.",
+      "Chile: Where everyone's protesting because the Chicago Boys experiment failed.",
+      "From Chile? Let me guess, you're in Santiago or skiing away from problems.",
+      "Chile: The only country shaped like a natural disaster.",
+      "Where 'success' means being Latin America's most unequal success story.",
+      "Chile: Proof that GDP growth doesn't mean quality of life.",
+      "From Chile? Your country's biggest export is copper and discontent."
+    ],
+    santiago: [
+      "Santiago? Where the smog is thicker than the social mobility.",
+      "From Santiago? How's living in a bowl of pollution and inequality?",
+      "Santiago: Where the Andes are beautiful but you can't see them through smog.",
+      "Oh, Santiago? The city that's just LA with Spanish and worse air.",
+      "Santiago: Where everyone's protesting in Plaza Italia or fleeing to Providencia.",
+      "From Santiago? Let me guess, you're in a mall because the streets are chaos.",
+      "Santiago: The only capital where the metro burns during protests.",
+      "Where 'development' means another tower in Las Condes.",
+      "Santiago: Proof that mountains can't contain urban sprawl or discontent.",
+      "From Santiago? Your city's biggest achievement is making other Latin capitals look equal."
+    ]
+  },
+
+  // CUBA
+  cuba: {
+    generic: [
+      "Cuba? Where the cars are vintage and so is the government.",
+      "From Cuba? How's that revolution working out 60 years later?",
+      "Cuba: Where everyone's a doctor but nobody has medicine.",
+      "Oh, Cuba? The country that's a museum with beaches.",
+      "Cuba: Where the cigars are good but you can't afford them.",
+      "From Cuba? Let me guess, you're in Miami or dreaming of it.",
+      "Cuba: The only country where time stopped in 1959.",
+      "Where 'equality' means everyone's equally poor except the party.",
+      "Cuba: Proof that free healthcare doesn't help if there's no food.",
+      "From Cuba? Your country's biggest export is refugees and nostalgia."
+    ],
+    havana: [
+      "Havana? Where the buildings are falling faster than the regime.",
+      "From Havana? How's living in a crumbling museum?",
+      "Havana: Where every building is historic because nothing new gets built.",
+      "Oh, Havana? The city that's just Instagram backgrounds for tourists.",
+      "Havana: Where the music is lively because it drowns out the despair.",
+      "From Havana? Let me guess, you're hustling tourists or hustling to leave.",
+      "Havana: The only capital where decay is called 'authentic charm'.",
+      "Where 'restoration' means whatever tourists will pay to see.",
+      "Havana: Proof that being photogenic doesn't mean being livable.",
+      "From Havana? Your city's biggest achievement is looking good while falling apart."
+    ]
+  },
+
+  // JAMAICA
+  jamaica: {
+    generic: [
+      "Jamaica? Where the weed is better than the economy.",
+      "From Jamaica? How's that 'no problem' attitude with all those problems?",
+      "Jamaica: Where everyone's relaxed because there's no opportunity to stress about.",
+      "Oh, Jamaica? The country that's just a resort with a flag.",
+      "Jamaica: Where the music is legendary but the development isn't.",
+      "From Jamaica? Let me guess, you're in tourism or trying to leave.",
+      "Jamaica: The only country where the exchange rate is higher than the employment rate.",
+      "Where 'culture' gets packaged and sold to cruise ships.",
+      "Jamaica: Proof that having Bob Marley doesn't solve economic problems.",
+      "From Jamaica? Your country's biggest export is reggae and brain drain."
+    ],
+    kingston: [
+      "Kingston? Where the music is good but the violence is worse.",
+      "From Kingston? How's living in the Caribbean's most dangerous capital?",
+      "Kingston: Where uptown and downtown might as well be different countries.",
+      "Oh, Kingston? The city that tourists avoid for good reason.",
+      "Kingston: Where everyone's either making music or making problems.",
+      "From Kingston? Let me guess, you know which areas to avoid (most of them).",
+      "Kingston: The only capital where the embassy district is the safest part.",
+      "Where 'culture' happens behind security gates.",
+      "Kingston: Proof that being a cultural capital doesn't mean being safe.",
+      "From Kingston? Your city's biggest achievement is producing music that makes people forget about the murder rate."
+    ]
+  },
+
+  // HAITI
+  haiti: {
+    generic: [
+      "Haiti? Where the earthquake was the second-worst disaster after the government.",
+      "From Haiti? How's being the Western Hemisphere's cautionary tale?",
+      "Haiti: Where NGOs have more power than the government.",
+      "Oh, Haiti? The country that's been 'rebuilding' since 1804.",
+      "Haiti: Where everyone's resilient because what's the alternative?",
+      "From Haiti? Let me guess, you're in the diaspora or trying to join it.",
+      "Haiti: The only country where cholera was an improvement from the UN.",
+      "Where 'aid' means keeping people dependent, not developing.",
+      "Haiti: Proof that independence doesn't guarantee prosperity.",
+      "From Haiti? Your country's biggest export is tragedy and talented people fleeing it."
+    ],
+    port_au_prince: [
+      "Port-au-Prince? Where the prince left and took all hope with him.",
+      "From Port-au-Prince? How's living in rubble that calls itself a capital?",
+      "Port-au-Prince: Where the earthquake cleanup is still waiting to start.",
+      "Oh, Port-au-Prince? The city that makes other disaster zones look planned.",
+      "Port-au-Prince: Where the UN had more infrastructure than the government.",
+      "From Port-au-Prince? Let me guess, you're behind several sets of walls.",
+      "Port-au-Prince: The only capital where tent cities are permanent architecture.",
+      "Where 'development' means another NGO headquarters.",
+      "Port-au-Prince: Proof that capitals can exist without functioning.",
+      "From Port-au-Prince? Your city's biggest achievement is still standing, barely."
+    ]
+  },
+
+  // DOMINICAN REPUBLIC
+  dominicanrepublic: {
+    generic: [
+      "Dominican Republic? Where the resorts are nice and everything else isn't.",
+      "From DR? How's living in Haiti's slightly more successful sibling?",
+      "Dominican Republic: Where tourism thrives and locals survive.",
+      "Oh, DR? The country that's just Puerto Rico without the US passport.",
+      "Dominican Republic: Where everyone's in baseball or tourism.",
+      "From DR? Let me guess, you work in a resort or wish you didn't.",
+      "Dominican Republic: The only country where the all-inclusive doesn't include locals.",
+      "Where 'development' means another resort on stolen beach land.",
+      "Dominican Republic: Proof that tourism doesn't trickle down.",
+      "From DR? Your country's biggest export is baseball players and broken dreams."
+    ],
+    santo_domingo: [
+      "Santo Domingo? The oldest city acting like it matters.",
+      "From Santo Domingo? How's living in history that doesn't pay bills?",
+      "Santo Domingo: Where Columbus started ruining everything.",
+      "Oh, Santo Domingo? The capital that tourists skip to hit the beaches.",
+      "Santo Domingo: Where colonial history meets modern dysfunction.",
+      "From Santo Domingo? Let me guess, you work in government or tourism.",
+      "Santo Domingo: The only capital where the past is more developed than the present.",
+      "Where 'culture' means charging tourists to see old buildings.",
+      "Santo Domingo: Proof that being first doesn't mean being best.",
+      "From Santo Domingo? Your city's biggest achievement happened 500 years ago."
+    ]
+  },
+
+  // COSTA RICA
+  costarica: {
+    generic: [
+      "Costa Rica? Where 'Pura Vida' means 'purely expensive for locals'.",
+      "From Costa Rica? How's being Central America's retirement home for gringos?",
+      "Costa Rica: Where the sloths move faster than the bureaucracy.",
+      "Oh, Costa Rica? The country that sold its soul to ecotourism.",
+      "Costa Rica: Where everyone's in tourism or getting priced out by it.",
+      "From Costa Rica? Let me guess, you can't afford to live where you grew up.",
+      "Costa Rica: The only country where Americans go to ruin another healthcare system.",
+      "Where 'paradise' means paradise for foreigners with dollars.",
+      "Costa Rica: Proof that eco-friendly doesn't mean local-friendly.",
+      "From Costa Rica? Your country's biggest export is residency permits to retirees."
+    ],
+    san_jose: [
+      "San José? Where the traffic is worse than the crime, barely.",
+      "From San José? How's living in Central America's most boring capital?",
+      "San José: Where everyone passes through but nobody wants to stay.",
+      "Oh, San José? The city that exists just to have a capital.",
+      "San José: Where the best thing is the airport to leave.",
+      "From San José? Let me guess, you avoid downtown after dark.",
+      "San José: The only capital where the suburbs are safer and more interesting.",
+      "Where 'culture' fled to the coasts with the tourists.",
+      "San José: Proof that being a capital doesn't require character.",
+      "From San José? Your city's biggest achievement is having an international airport."
+    ]
+  },
+
+  // PANAMA
+  panama: {
+    generic: [
+      "Panama? Where the canal is straighter than the government.",
+      "From Panama? How's being the world's money laundering department?",
+      "Panama: Where the papers leaked but the problems didn't.",
+      "Oh, Panama? The country that's just a canal with a banking sector.",
+      "Panama: Where everyone's in finance or facilitating someone who is.",
+      "From Panama? Let me guess, you work in 'import/export' *wink wink*.",
+      "Panama: The only country where shell companies outnumber actual companies.",
+      "Where 'discretion' is the national motto.",
+      "Panama: Proof that strategic location beats actual development.",
+      "From Panama? Your country's biggest export is financial secrecy and scandals."
+    ],
+    panama_city: [
+      "Panama City? Where the skyline is money laundering made manifest.",
+      "From Panama City? How's living in the Dubai of Central America?",
+      "Panama City: Where every building is a shell company with windows.",
+      "Oh, Panama City? The city built on secrets and tax evasion.",
+      "Panama City: Where the rich hide money and the poor just hide.",
+      "From Panama City? Let me guess, you work in 'financial services'.",
+      "Panama City: The only capital where the buildings are taller than the morals.",
+      "Where 'banking' means asking no questions.",
+      "Panama City: Proof that dirty money builds clean buildings.",
+      "From Panama City? Your city's biggest achievement is making Swiss banking look transparent."
+    ]
+  },
+
+  // HONDURAS
+  honduras: {
+    generic: [
+      "Honduras? Where the murder rate competes with the poverty rate.",
+      "From Honduras? How's being the country everyone migrates through to escape?",
+      "Honduras: Where MS-13 provides more services than the government.",
+      "Oh, Honduras? The country that's just a cautionary tale with borders.",
+      "Honduras: Where everyone's planning their route to the US border.",
+      "From Honduras? Let me guess, you're in a caravan or planning to join one.",
+      "Honduras: The only country where coup d'état is a seasonal event.",
+      "Where 'governance' is a theoretical concept.",
+      "Honduras: Proof that beautiful beaches can't hide ugly realities.",
+      "From Honduras? Your country's biggest export is asylum seekers and coffee."
+    ],
+    tegucigalpa: [
+      "Tegucigalpa? Even the name sounds like giving up.",
+      "From Tegucigalpa? How's living in a capital nobody can pronounce or locate?",
+      "Tegucigalpa: Where the hills are steep and the crime rate's steeper.",
+      "Oh, Tegucigalpa? The city that makes San Pedro Sula look safe.",
+      "Tegucigalpa: Where everyone's either in government or running from it.",
+      "From Tegucigalpa? Let me guess, you know which neighborhoods to avoid (all of them).",
+      "Tegucigalpa: The only capital where the embassy district is a fortress.",
+      "Where 'development' means another mall for the rich to hide in.",
+      "Tegucigalpa: Proof that being a capital doesn't mean being functional.",
+      "From Tegucigalpa? Your city's biggest achievement is not being San Pedro Sula."
+    ]
+  },
+
+  // GUATEMALA
+  guatemala: {
+    generic: [
+      "Guatemala? Where the volcanoes are less explosive than the politics.",
+      "From Guatemala? How's that eternal spring with eternal corruption?",
+      "Guatemala: Where Mayan ruins are in better shape than current infrastructure.",
+      "Oh, Guatemala? The country that's just Mexico's poorer, smaller sibling.",
+      "Guatemala: Where everyone's indigenous until it's time for political representation.",
+      "From Guatemala? Let me guess, you're in the capital or coffee farming.",
+      "Guatemala: The only country where child labor is in the coffee you're drinking.",
+      "Where 'development' means another mall in Zone 10.",
+      "Guatemala: Proof that natural beauty can't overcome human ugliness.",
+      "From Guatemala? Your country's biggest export is coffee picked by children."
+    ],
+    guatemala_city: [
+      "Guatemala City? Where zones are numbered because names require creativity.",
+      "From Guatemala City? How's living in Central America's most dangerous capital?",
+      "Guatemala City: Where Zone 10 is nice and everywhere else is dice.",
+      "Oh, Guatemala City? The city that sprawls like the inequality.",
+      "Guatemala City: Where everyone's in a gated community or wishing they were.",
+      "From Guatemala City? Let me guess, you don't leave your zone after dark.",
+      "Guatemala City: The only capital where addresses are based on survival odds.",
+      "Where 'public transport' means chicken buses and prayers.",
+      "Guatemala City: Proof that capitals can be dangerous and boring simultaneously.",
+      "From Guatemala City? Your city's biggest achievement is making other Central American capitals look safe."
+    ]
+  },
+
+  // EL SALVADOR
+  elsalvador: {
+    generic: [
+      "El Salvador? Where Bitcoin is legal tender but hope is counterfeit.",
+      "From El Salvador? How's that cryptocurrency experiment in a country without electricity?",
+      "El Salvador: Where the gangs had more organization than the government.",
+      "Oh, El Salvador? The country that's just a murder statistic with borders.",
+      "El Salvador: Where everyone's family is split between home and LA.",
+      "From El Salvador? Let me guess, your cousins send remittances from the US.",
+      "El Salvador: The only country where pupusas are thicker than opportunities.",
+      "Where 'progress' means the murder rate dropped to only horrifying.",
+      "El Salvador: Proof that being small doesn't mean your problems are.",
+      "From El Salvador? Your country's biggest export is gang members and refugees."
+    ],
+    san_salvador: [
+      "San Salvador? Where the savior forgot to save anything.",
+      "From San Salvador? How's living in a capital named ironically?",
+      "San Salvador: Where earthquakes do urban planning better than the government.",
+      "Oh, San Salvador? The city surrounded by volcanoes and gang territories.",
+      "San Salvador: Where everyone's either in a mall or mourning someone.",
+      "From San Salvador? Let me guess, you measure distance in traffic and danger levels.",
+      "San Salvador: The only capital where Bitcoin ATMs outnumber regular ATMs.",
+      "Where 'development' means another fortified shopping center.",
+      "San Salvador: Proof that holy names don't guarantee holy outcomes.",
+      "From San Salvador? Your city's biggest achievement is surviving another day."
+    ]
+  },
+
+  // NICARAGUA
+  nicaragua: {
+    generic: [
+      "Nicaragua? Where the Sandinistas became what they fought against.",
+      "From Nicaragua? How's that revolutionary dream turned nightmare?",
+      "Nicaragua: Where Ortega's third term lasted longer than your patience.",
+      "Oh, Nicaragua? The country that's just a dictator's playground with volcanoes.",
+      "Nicaragua: Where protests are met with bullets and promises with silence.",
+      "From Nicaragua? Let me guess, you're whispering this or already in Costa Rica.",
+      "Nicaragua: The only country where the canal is imaginary but the repression is real.",
+      "Where 'democracy' is a word they stopped pretending to care about.",
+      "Nicaragua: Proof that revolutionaries make the worst leaders.",
+      "From Nicaragua? Your country's biggest export is refugees and broken dreams."
+    ],
+    managua: [
+      "Managua? The capital that an earthquake improved.",
+      "From Managua? How's living in a city that never recovered from 1972?",
+      "Managua: Where the lake is polluted and the politics are dirtier.",
+      "Oh, Managua? The city that forgot what city planning means.",
+      "Managua: Where directions are given by where things used to be.",
+      "From Managua? Let me guess, you navigate by defunct landmarks.",
+      "Managua: The only capital where the center is empty because it's safer that way.",
+      "Where 'architecture' means whatever survived the earthquake.",
+      "Managua: Proof that some cities shouldn't be rebuilt.",
+      "From Managua? Your city's biggest achievement is making Tegucigalpa look organized."
+    ]
+  },
+
+  // BELIZE
+  belize: {
+    generic: [
+      "Belize? Where the reef is dying faster than the economy.",
+      "From Belize? How's being Central America's forgotten English speaker?",
+      "Belize: Where everyone's in tourism or trying to launder money.",
+      "Oh, Belize? The country that's just Guatemala's beachfront property.",
+      "Belize: Where the best thing is barrier reef and it's bleaching.",
+      "From Belize? Let me guess, you work with tourists or wish they'd leave.",
+      "Belize: The only country where being a tax haven is plan A through Z.",
+      "Where 'development' means another resort owned by foreigners.",
+      "Belize: Proof that speaking English doesn't make you prosperous.",
+      "From Belize? Your country's biggest export is citizenship to criminals."
+    ],
+    belize_city: [
+      "Belize City? Where the hurricane cleanup from 1961 isn't finished.",
+      "From Belize City? How's living in a city that probably shouldn't exist?",
+      "Belize City: Where the crime rate competes with the humidity.",
+      "Oh, Belize City? The city built below sea level with below-average planning.",
+      "Belize City: Where everyone's trying to get to the islands or inland.",
+      "From Belize City? Let me guess, you're explaining it's not the capital anymore.",
+      "Belize City: The only city where being former capital was a promotion.",
+      "Where 'infrastructure' is a suggestion ignored since independence.",
+      "Belize City: Proof that coastal doesn't mean pleasant.",
+      "From Belize City? Your city's biggest achievement is no longer being the capital."
+    ]
+  },
+
+  // GUYANA
+  guyana: {
+    generic: [
+      "Guyana? Where the oil discovery will definitely not lead to corruption, right?",
+      "From Guyana? How's being South America's English-speaking oddity?",
+      "Guyana: Where everyone's Indo-Guyanese or Afro-Guyanese but never just Guyanese.",
+      "Oh, Guyana? The country that's just Jonestown's most famous location.",
+      "Guyana: Where the jungle is thick and the racial tension thicker.",
+      "From Guyana? Let me guess, you're in Georgetown or the diaspora.",
+      "Guyana: The only country where the suicide rate competes with the emigration rate.",
+      "Where 'development' means waiting for oil money to trickle down.",
+      "Guyana: Proof that oil discoveries don't instantly fix countries.",
+      "From Guyana? Your country's biggest export is people fleeing to Brooklyn."
+    ],
+    georgetown: [
+      "Georgetown? Where the seawall holds back more than just water.",
+      "From Georgetown? How's living below sea level with above-average crime?",
+      "Georgetown: Where colonial architecture rots in the tropical humidity.",
+      "Oh, Georgetown? The city that floods when someone spits.",
+      "Georgetown: Where everyone's planning their move to New York.",
+      "From Georgetown? Let me guess, you're related to half of Richmond Hill, Queens.",
+      "Georgetown: The only capital where the canals smell worse than the politics.",
+      "Where 'infrastructure' means Dutch systems from when they cared.",
+      "Georgetown: Proof that being a capital doesn't mean being functional.",
+      "From Georgetown? Your city's biggest achievement is producing New Yorkers."
+    ]
+  },
+
+  // SURINAME
+  suriname: {
+    generic: [
+      "Suriname? Where Dutch is spoken but the Dutch don't visit.",
+      "From Suriname? How's being South America's forgotten Dutch experiment?",
+      "Suriname: Where the diversity is beautiful but the economy is ugly.",
+      "Oh, Suriname? The country that's just French Guiana's less successful neighbor.",
+      "Suriname: Where everyone speaks five languages but can't talk their way to prosperity.",
+      "From Suriname? Let me guess, you're in Paramaribo or Amsterdam.",
+      "Suriname: The only country where the rainforest is worth more than the government.",
+      "Where 'development' means another Chinese loan for nothing useful.",
+      "Suriname: Proof that independence doesn't guarantee success.",
+      "From Suriname? Your country's biggest export is people to the Netherlands."
+    ],
+    paramaribo: [
+      "Paramaribo? Where the wooden buildings last longer than political stability.",
+      "From Paramaribo? How's living in a UNESCO site that's falling apart?",
+      "Paramaribo: Where Dutch colonial architecture meets tropical decay.",
+      "Oh, Paramaribo? The capital that feels like a village with pretensions.",
+      "Paramaribo: Where everyone's connected because there's only 500,000 people.",
+      "From Paramaribo? Let me guess, your family reunion is the whole country.",
+      "Paramaribo: The only capital where traffic jams involve 10 cars.",
+      "Where 'nightlife' means the one club everyone goes to.",
+      "Paramaribo: Proof that being unique doesn't mean being successful.",
+      "From Paramaribo? Your city's biggest achievement is being a UNESCO site nobody visits."
+    ]
+  },
+
+  // FRENCH GUIANA
+  frenchguiana: {
+    generic: [
+      "French Guiana? Where France launches rockets and dumps prisoners.",
+      "From French Guiana? How's being Europe's space port and forgotten colony?",
+      "French Guiana: Where the European Space Agency matters more than locals.",
+      "Oh, French Guiana? The place that's just France's tropical storage unit.",
+      "French Guiana: Where you use euros in the jungle.",
+      "From French Guiana? Let me guess, you work at the space center or wish you did.",
+      "French Guiana: The only place where French bureaucracy meets Amazon inefficiency.",
+      "Where 'development' means another rocket launch pad.",
+      "French Guiana: Proof that being part of France doesn't mean being French.",
+      "From French Guiana? Your territory's biggest export is satellites and sadness."
+    ],
+    cayenne: [
+      "Cayenne? Spicier name than the actual city.",
+      "From Cayenne? How's living in France's most tropical disappointment?",
+      "Cayenne: Where French prices meet South American wages.",
+      "Oh, Cayenne? The capital of nowhere important.",
+      "Cayenne: Where the pepper has more fame than the place.",
+      "From Cayenne? Let me guess, you're counting days until you can move to mainland France.",
+      "Cayenne: The only capital where Devil's Island was the most interesting part.",
+      "Where 'culture' is whatever France forgot to take back.",
+      "Cayenne: Proof that French colonialism is alive and well.",
+      "From Cayenne? Your city's biggest achievement is being where paprika isn't from."
+    ]
+  },
+
+  // BARBADOS
+  barbados: {
+    generic: [
+      "Barbados? Where Rihanna is the entire economy.",
+      "From Barbados? How's living on Britain's favorite Caribbean playground?",
+      "Barbados: Where everyone's either serving tourists or pretending to be British.",
+      "Oh, Barbados? The island that thinks it's too good for the rest of the Caribbean.",
+      "Barbados: Where the beaches are white but the colonial mindset is whiter.",
+      "From Barbados? Let me guess, you work in tourism or offshore banking.",
+      "Barbados: The only country where independence meant keeping the Queen.",
+      "Where 'culture' is cricket and whatever tourists expect.",
+      "Barbados: Proof that perfect beaches don't guarantee perfect society.",
+      "From Barbados? Your island's biggest export is Rihanna and colonial nostalgia."
+    ],
+    bridgetown: [
+      "Bridgetown? Where the cruise ships matter more than citizens.",
+      "From Bridgetown? How's living in a UNESCO site overrun by tourists?",
+      "Bridgetown: Where history is preserved for visitors, not residents.",
+      "Oh, Bridgetown? The capital that exists to sell duty-free rum.",
+      "Bridgetown: Where locals avoid downtown because of cruise ship days.",
+      "From Bridgetown? Let me guess, you work in tourism but hate tourists.",
+      "Bridgetown: The only capital where the port is more important than parliament.",
+      "Where 'development' means another jewelry store for cruise passengers.",
+      "Bridgetown: Proof that UNESCO status doesn't pay local bills.",
+      "From Bridgetown? Your city's biggest achievement is being in Rihanna's passport."
+    ]
+  },
+
+  // TRINIDAD AND TOBAGO
+  trinidadandtobago: {
+    generic: [
+      "Trinidad and Tobago? Where the oil money disappeared faster than Carnival costumes.",
+      "From T&T? How's that two-island nation with one-dimensional economy?",
+      "Trinidad and Tobago: Where everyone parties at Carnival then struggles all year.",
+      "Oh, T&T? The country that spent oil money like it was infinite.",
+      "Trinidad and Tobago: Where crime is higher than the soca volume.",
+      "From Trinidad? Let me guess, you're in energy or entertainment.",
+      "T&T: The only country where Carnival is the national retirement plan.",
+      "Where 'diversity' means arguing about Indian vs African food.",
+      "Trinidad and Tobago: Proof that oil wealth doesn't last forever.",
+      "From T&T? Your country's biggest export is Carnival costumes and brain drain."
+    ],
+    port_of_spain: [
+      "Port of Spain? Where the party never stops because reality is too harsh.",
+      "From Port of Spain? How's living in a capital that peaks during Carnival?",
+      "Port of Spain: Where everyone's planning for Carnival or recovering from it.",
+      "Oh, Port of Spain? The city that's vibrant two days a year.",
+      "Port of Spain: Where the savannah is nice but surrounded by crime.",
+      "From Port of Spain? Let me guess, you know which areas to avoid after dark.",
+      "Port of Spain: The only capital where fetes matter more than employment.",
+      "Where 'culture' means steelpan and ignoring problems.",
+      "Port of Spain: Proof that good vibes can't fix bad governance.",
+      "From Port of Spain? Your city's biggest achievement is Carnival, annually."
+    ]
+  },
+
+  // BAHAMAS
+  bahamas: {
+    generic: [
+      "Bahamas? Where the paradise is for tourists, not residents.",
+      "From the Bahamas? How's living in America's expensive beach house?",
+      "Bahamas: Where everyone's in tourism or wishing hurricane season ends it.",
+      "Oh, Bahamas? The country that's just Florida's offshore casino.",
+      "Bahamas: Where Atlantis Resort employs more people than the government.",
+      "From the Bahamas? Let me guess, you serve tourists or avoid them.",
+      "Bahamas: The only country where the fish are smarter than the politicians.",
+      "Where 'development' means another resort foreign-owned resort.",
+      "Bahamas: Proof that 700 islands can't create one functional government.",
+      "From the Bahamas? Your country's biggest export is empty beaches and full casinos."
+    ],
+    nassau: [
+      "Nassau? Where cruise ships dump tourists like toxic waste.",
+      "From Nassau? How's living in a pirate haven turned tourist trap?",
+      "Nassau: Where Bay Street sells Chinese knockoffs to American tourists.",
+      "Oh, Nassau? The capital that exists for duty-free shopping.",
+      "Nassau: Where locals can't afford Paradise Island.",
+      "From Nassau? Let me guess, you work on Paradise Island but live in poverty.",
+      "Nassau: The only capital where straw markets outnumber supermarkets.",
+      "Where 'authentic' means whatever cruise passengers will buy.",
+      "Nassau: Proof that proximity to Florida isn't always good.",
+      "From Nassau? Your city's biggest achievement is convincing tourists it's authentic."
+    ]
+  },
+
+  // FIJI
+  fiji: {
+    generic: [
+      "Fiji? Where the coups are more frequent than the flights.",
+      "From Fiji? How's that military democracy working out?",
+      "Fiji: Where everyone smiles for tourists then fights about ethnicity.",
+      "Oh, Fiji? The country that's just expensive water's homeland.",
+      "Fiji: Where indigenous rights depend on who's couping whom.",
+      "From Fiji? Let me guess, you're in tourism or the military.",
+      "Fiji: The only country where 'Bula' means hello and goodbye to democracy.",
+      "Where 'stability' is measured in months between coups.",
+      "Fiji: Proof that island paradise doesn't mean political paradise.",
+      "From Fiji? Your country's biggest export is water and instability."
+    ],
+    suva: [
+      "Suva? Where it rains more than Seattle but with coup seasons.",
+      "From Suva? How's living in the Pacific's wettest, most coup-prone capital?",
+      "Suva: Where colonial buildings mold in the rain and politics.",
+      "Oh, Suva? The capital that makes you miss the resort islands.",
+      "Suva: Where everyone's either in government or plotting against it.",
+      "From Suva? Let me guess, you're explaining it's the capital, not Nadi.",
+      "Suva: The only capital where rain is more predictable than government.",
+      "Where 'nightlife' ends when the rain starts at 6 PM.",
+      "Suva: Proof that being a capital doesn't mean being visited.",
+      "From Suva? Your city's biggest achievement is not being overthrown this month."
+    ]
+  },
+
+  // PAPUA NEW GUINEA
+  papuanewguinea: {
+    generic: [
+      "Papua New Guinea? Where there's 800 languages but no common sense.",
+      "From PNG? How's living in anthropology's last frontier?",
+      "Papua New Guinea: Where tribal warfare meets modern corruption.",
+      "Oh, PNG? The country that's just Australia's troubled basement.",
+      "Papua New Guinea: Where cannibalism ended recently but the government still eats people.",
+      "From PNG? Let me guess, you're in Port Moresby or fleeing it.",
+      "PNG: The only country where diversity means 800 ways to say 'help'.",
+      "Where 'development' is a word only heard in aid meetings.",
+      "Papua New Guinea: Proof that resources don't create prosperity.",
+      "From PNG? Your country's biggest export is raw materials and refined problems."
+    ],
+    port_moresby: [
+      "Port Moresby? Where the crime rate is higher than the humidity.",
+      "From Port Moresby? How's living in the world's least livable capital?",
+      "Port Moresby: Where expats live in compounds and locals live in fear.",
+      "Oh, Port Moresby? The city that makes Lagos look safe.",
+      "Port Moresby: Where everyone's either a victim or about to be.",
+      "From Port Moresby? Let me guess, you travel in convoys for safety.",
+      "Port Moresby: The only capital where the airport is the safest place.",
+      "Where 'security' means armed guards for grocery shopping.",
+      "Port Moresby: Proof that being a capital doesn't mean being civilized.",
+      "From Port Moresby? Your city's biggest achievement is making other dangerous cities look appealing."
+    ]
+  },
+
+  // SOLOMON ISLANDS
+  solomonislands: {
+    generic: [
+      "Solomon Islands? Where China and Taiwan play tug-of-war with aid money.",
+      "From the Solomons? How's being the Pacific's diplomatic prostitute?",
+      "Solomon Islands: Where logging companies have more power than the government.",
+      "Oh, Solomon Islands? The country that switches recognition for cash.",
+      "Solomon Islands: Where the forests disappear faster than the aid money.",
+      "From the Solomons? Let me guess, you're watching Chinese influence grow.",
+      "Solomon Islands: The only country where riots follow diplomatic switches.",
+      "Where 'development' means selling everything to the highest bidder.",
+      "Solomon Islands: Proof that island nations are geopolitical pawns.",
+      "From the Solomons? Your country's biggest export is logs and sovereignty."
+    ],
+    honiara: [
+      "Honiara? Where the Chinatown burns every few years.",
+      "From Honiara? How's living in the Pacific's most riot-prone capital?",
+      "Honiara: Where ethnic tensions simmer hotter than the weather.",
+      "Oh, Honiara? The capital built on WWII debris and modern dysfunction.",
+      "Honiara: Where everyone knows when the next riot is coming.",
+      "From Honiara? Let me guess, you avoid certain areas and times.",
+      "Honiara: The only capital where the Chinese embassy needs constant guards.",
+      "Where 'stability' means months without burning buildings.",
+      "Honiara: Proof that small capitals can have big problems.",
+      "From Honiara? Your city's biggest achievement is rebuilding after each riot."
+    ]
+  },
+
+  // VANUATU
+  vanuatu: {
+    generic: [
+      "Vanuatu? Where citizenship is for sale and earthquakes are free.",
+      "From Vanuatu? How's living on the Ring of Fire's shakiest democracy?",
+      "Vanuatu: Where everyone's either selling passports or waiting for volcanoes.",
+      "Oh, Vanuatu? The country that's just a tax haven with tsunamis.",
+      "Vanuatu: Where the earth shakes more than the corrupt government.",
+      "From Vanuatu? Let me guess, you're in passport sales or disaster prep.",
+      "Vanuatu: The only country where citizenship costs less than safety.",
+      "Where 'planning' means hoping the volcano doesn't erupt.",
+      "Vanuatu: Proof that paradise comes with natural disasters.",
+      "From Vanuatu? Your country's biggest export is passports and earthquake footage."
+    ],
+    port_vila: [
+      "Port Vila? Where expats buy passports and locals can't buy bread.",
+      "From Port Vila? How's living in the Pacific's passport printing shop?",
+      "Port Vila: Where every other business is citizenship consulting.",
+      "Oh, Port Vila? The capital that exists to sell what shouldn't be sold.",
+      "Port Vila: Where the harbor is full of tax-dodging yachts.",
+      "From Port Vila? Let me guess, you work in 'investment immigration'.",
+      "Port Vila: The only capital where earthquakes do urban planning.",
+      "Where 'development' means another citizenship scheme.",
+      "Port Vila: Proof that selling passports doesn't build nations.",
+      "From Port Vila? Your city's biggest achievement is surviving between disasters."
+    ]
+  },
+
+  // SAMOA
+  samoa: {
+    generic: [
+      "Samoa? Where the time zone change confused even the locals.",
+      "From Samoa? How's living in yesterday or tomorrow, depending on the year?",
+      "Samoa: Where everyone's related and the chief knows it.",
+      "Oh, Samoa? The country that's just American Samoa's less American sibling.",
+      "Samoa: Where fa'a Samoa means tradition trumps everything, including progress.",
+      "From Samoa? Let me guess, you're sending money back from New Zealand.",
+      "Samoa: The only country where changing which side to drive on is recent news.",
+      "Where 'development' respects tradition, meaning it doesn't happen.",
+      "Samoa: Proof that independence doesn't mean economic independence.",
+      "From Samoa? Your country's biggest export is rugby players and remittances."
+    ],
+    apia: [
+      "Apia? Where Robert Louis Stevenson is still the most famous resident.",
+      "From Apia? How's living in a capital that feels like a large village?",
+      "Apia: Where the tsunami rebuilding is still happening.",
+      "Oh, Apia? The capital that floods when someone waters their garden.",
+      "Apia: Where everyone knows everyone's business, unfortunately.",
+      "From Apia? Let me guess, you're related to half the city.",
+      "Apia: The only capital where traditional meetings last longer than parliament.",
+      "Where 'rush hour' is five cars at the same intersection.",
+      "Apia: Proof that being a capital doesn't require traffic lights.",
+      "From Apia? Your city's biggest achievement is confusing tourists about the time zone."
+    ]
+  },
+
+  // TONGA
+  tonga: {
+    generic: [
+      "Tonga? Where the king is fatter than the GDP.",
+      "From Tonga? How's living under the Pacific's last monarchy?",
+      "Tonga: Where everyone's noble or related to someone who claims to be.",
+      "Oh, Tonga? The kingdom that's just a royal family with islands.",
+      "Tonga: Where tradition means the royals stay rich and everyone else doesn't.",
+      "From Tonga? Let me guess, you're in New Zealand or sending money home.",
+      "Tonga: The only country where the monarchy has more weight than democracy, literally.",
+      "Where 'reform' means the king allows slightly more criticism.",
+      "Tonga: Proof that being a kingdom doesn't make you magical.",
+      "From Tonga? Your country's biggest export is rugby players to real countries."
+    ],
+    nukualofa: [
+      "Nuku'alofa? Where the apostrophe is the most exciting part.",
+      "From Nuku'alofa? How's living in a capital that sounds like a sneeze?",
+      "Nuku'alofa: Where the palace is the only building worth noting.",
+      "Oh, Nuku'alofa? The capital that tsunamis use for practice.",
+      "Nuku'alofa: Where everyone's watching the royals waste money.",
+      "From Nuku'alofa? Let me guess, you're planning your move to Auckland.",
+      "Nuku'alofa: The only capital where pigs have right of way.",
+      "Where 'infrastructure' is a word only foreign aid workers use.",
+      "Nuku'alofa: Proof that having a palace doesn't make you important.",
+      "From Nuku'alofa? Your city's biggest achievement is being hard to pronounce."
+    ]
+  },
+
+  // MICRONESIA
+  micronesia: {
+    generic: [
+      "Micronesia? Where the US aid is bigger than the economy.",
+      "From Micronesia? How's being America's forgotten Pacific welfare state?",
+      "Micronesia: Where everyone's either fishing or waiting for US checks.",
+      "Oh, Micronesia? The country that's just American military bases with flags.",
+      "Micronesia: Where independence means dependence on American money.",
+      "From Micronesia? Let me guess, you're using that US passport privilege.",
+      "Micronesia: The only country where Compact money is the compact everything.",
+      "Where 'development' means whatever the US military needs.",
+      "Micronesia: Proof that strategic location beats actual development.",
+      "From Micronesia? Your country's biggest export is strategic military position."
+    ]
+  },
+
+  // PALAU
+  palau: {
+    generic: [
+      "Palau? Where tourists underwater outnumber locals above it.",
+      "From Palau? How's living in a diving destination with no economy?",
+      "Palau: Where jellyfish lakes matter more than human development.",
+      "Oh, Palau? The country that's just an expensive scuba trip.",
+      "Palau: Where Chinese tourists were banned and the economy noticed.",
+      "From Palau? Let me guess, you work in diving or government.",
+      "Palau: The only country where fish have more rights than workers.",
+      "Where 'conservation' means keeping locals poor for tourist photos.",
+      "Palau: Proof that environmental protection doesn't pay bills.",
+      "From Palau? Your country's biggest export is underwater photos and debt."
+    ]
+  },
+
+  // MARSHALL ISLANDS
+  marshallislands: {
+    generic: [
+      "Marshall Islands? Where nuclear testing left more impact than independence.",
+      "From the Marshalls? How's that radiation working out for you?",
+      "Marshall Islands: Where the US tested bombs and now tests climate change.",
+      "Oh, Marshall Islands? The country that's sinking from what America did to it.",
+      "Marshall Islands: Where the compact money barely covers the cancer treatments.",
+      "From the Marshalls? Let me guess, you're worried about sea level and radiation level.",
+      "Marshall Islands: The only country where the past glows and the future drowns.",
+      "Where 'reparations' means not enough for what was done.",
+      "Marshall Islands: Proof that strategic location means being expendable.",
+      "From the Marshalls? Your country's biggest export is lawsuits and radiation data."
+    ]
+  },
+
+  // KIRIBATI
+  kiribati: {
+    generic: [
+      "Kiribati? The country that's drowning while the world watches.",
+      "From Kiribati? How's planning your country's funeral?",
+      "Kiribati: Where climate change isn't debate, it's the tide schedule.",
+      "Oh, Kiribati? The country buying land in Fiji for when yours disappears.",
+      "Kiribati: Where every high tide is an existential crisis.",
+      "From Kiribati? Let me guess, you're learning to swim or already left.",
+      "Kiribati: The only country where elevation is measured in inches.",
+      "Where 'future planning' means which country to flee to.",
+      "Kiribati: Proof that island paradise can become ocean floor.",
+      "From Kiribati? Your country's biggest export is climate change warnings nobody heeds."
+    ]
+  },
+
+  // TUVALU
+  tuvalu: {
+    generic: [
+      "Tuvalu? Where the internet domain is worth more than the country.",
+      "From Tuvalu? How's living on islands that won't exist in 50 years?",
+      "Tuvalu: Where .tv revenue is the only thing keeping you afloat, literally.",
+      "Oh, Tuvalu? The country that's selling its digital space because the physical is drowning.",
+      "Tuvalu: Where everyone's planning their evacuation to New Zealand.",
+      "From Tuvalu? Let me guess, you're grateful for that internet domain money.",
+      "Tuvalu: The only country where Google Earth needs frequent updates as it shrinks.",
+      "Where 'national planning' means negotiating refugee status in advance.",
+      "Tuvalu: Proof that countries can disappear in the digital age.",
+      "From Tuvalu? Your country's biggest export is domain names and desperation."
+    ]
+  },
+
+  // NAURU
+  nauru: {
+    generic: [
+      "Nauru? Where the bird shit money ran out and so did hope.",
+      "From Nauru? How's living on a strip-mined rock in the ocean?",
+      "Nauru: Where phosphate wealth became poverty faster than you can say 'mining'.",
+      "Oh, Nauru? The country that ate itself and sold the scraps.",
+      "Nauru: Where Australian detention centers are the main employer.",
+      "From Nauru? Let me guess, you work for the camps or wish they'd leave.",
+      "Nauru: The only country where the before photos looked better.",
+      "Where 'economy' means whatever Australia pays for refugee storage.",
+      "Nauru: Proof that resource wealth guarantees nothing.",
+      "From Nauru? Your country's biggest export is human rights violations and regret."
+    ]
+  },
+
+  // COOK ISLANDS
+  cookislands: {
+    generic: [
+      "Cook Islands? New Zealand's tax haven with beaches.",
+      "From the Cooks? How's being a country that's not quite a country?",
+      "Cook Islands: Where everyone's either in tourism or financial services, both shady.",
+      "Oh, Cook Islands? The territory that's independent when convenient.",
+      "Cook Islands: Where the population is mostly in New Zealand anyway.",
+      "From the Cooks? Let me guess, you're selling something to tourists or hiding something for criminals.",
+      "Cook Islands: The only place where having New Zealand's protection means enabling tax dodging.",
+      "Where 'culture' is performed for cruise ships twice a week.",
+      "Cook Islands: Proof that paradise can be a front for financial crimes.",
+      "From the Cooks? Your country's biggest export is tax avoidance schemes and black pearls."
+    ]
+  },
+
+  // NIUE
+  niue: {
+    generic: [
+      "Niue? The country with more internet domains than people.",
+      "From Niue? How's living on a rock with Wi-Fi?",
+      "Niue: Where the population fits in a large restaurant.",
+      "Oh, Niue? The country that's one hurricane away from evacuation.",
+      "Niue: Where everyone's related and living in New Zealand.",
+      "From Niue? Let me guess, you're one of the 1,500 people or you're lying.",
+      "Niue: The only country where the phone book is a pamphlet.",
+      "Where 'infrastructure' means the one road around the island.",
+      "Niue: Proof that you can be a country with fewer people than a concert.",
+      "From Niue? Your country's biggest achievement is having more domains than citizens."
+    ]
+  },
+
+  // REGIONAL ROASTS
+
+  // MIDWEST (Generic)
+  midwest: {
+    generic: [
+      "From the Midwest? Where 'spicy' means black pepper and emotions are illegal.",
+      "The Midwest: Where everyone's passive-aggressive and proud of it.",
+      "Midwest: Where 'ope' is a word and seasoning is a sin.",
+      "Oh, the Midwest? Where excitement goes to die in a cornfield.",
+      "From the Midwest? Let me guess, you apologize when other people bump into you.",
+      "The Midwest: Where casseroles are cuisine and depression is hereditary.",
+      "Midwest: The only region where mayonnaise is considered exotic.",
+      "Where 'culture' means different Lutheran churches.",
+      "The Midwest: Proof that niceness and blandness are related.",
+      "From the Midwest? Your region's biggest export is repressed emotions and corn syrup."
+    ]
+  },
+
+  // NEW ENGLAND (Generic)
+  newengland: {
+    generic: [
+      "New England? Where everyone thinks old buildings make them sophisticated.",
+      "From New England? How's that superiority complex based on colonial history?",
+      "New England: Where fall foliage can't hide the stick up everyone's ass.",
+      "Oh, New England? The region that peaked in 1776.",
+      "New England: Where everyone's a historian about things that don't matter anymore.",
+      "From New England? Let me guess, you have opinions about proper clam chowder.",
+      "New England: The only region where snobbery is considered heritage.",
+      "Where 'culture' means anything older than your racist grandparents.",
+      "New England: Proof that being first doesn't mean being best.",
+      "From New England? Your region's biggest export is condescension and overpriced education."
+    ]
+  },
+
+  // THE SOUTH (Generic - Additional)
+  south: {
+    generic: [
+      "The South? Where 'heritage' is code for 'we lost but won't admit it'.",
+      "From the South? How's that Southern hospitality covering up the Southern hostility?",
+      "The South: Where everything's fried, including brain cells.",
+      "Oh, the South? Where progress moves slower than molasses in January.",
+      "The South: Where everyone's blessed but nobody's educated.",
+      "From the South? Let me guess, you're not racist but...",
+      "The South: The only region where the past is more alive than the future.",
+      "Where 'culture' means whatever happened before 1865.",
+      "The South: Proof that losing a war doesn't stop you from flying the flag.",
+      "From the South? Your region's biggest export is diabetes and denial."
+    ]
+  },
+
+  // PACIFIC NORTHWEST (Generic - Additional)
+  pacificnorthwest: {
+    generic: [
+      "Pacific Northwest? Where depression has better PR than anywhere else.",
+      "From the PNW? How's that seasonal affective disorder you call a personality?",
+      "Pacific Northwest: Where everyone's outdoorsy on Instagram but inside on Netflix.",
+      "Oh, the PNW? Where passive-aggression is the regional language.",
+      "Pacific Northwest: Where coffee can't cure the existential dread.",
+      "From the PNW? Let me guess, you're 'not really into labels' but have 47 dietary restrictions.",
+      "Pacific Northwest: The only region where rain is a personality trait.",
+      "Where 'culture' means microbreweries and macroaggression.",
+      "Pacific Northwest: Proof that natural beauty can't overcome social awkwardness.",
+      "From the PNW? Your region's biggest export is tech bros and suicide rates."
+    ]
+  },
+
+  // SOUTHWEST (Generic)
+  southwest: {
+    generic: [
+      "The Southwest? Where everything's on fire, literally and politically.",
+      "From the Southwest? How's that desert heat frying what's left of your brain?",
+      "Southwest: Where water rights are worth more than human rights.",
+      "Oh, the Southwest? The region that's just Mexico's stolen upper half.",
+      "Southwest: Where everyone's either retired, Republican, or running from the law.",
+      "From the Southwest? Let me guess, you have opinions about the border wall.",
+      "Southwest: The only region where cacti have more personality than people.",
+      "Where 'culture' means appropriated Native American art and tex-mex.",
+      "Southwest: Proof that manifest destiny was a mistake.",
+      "From the Southwest? Your region's biggest export is heat stroke and xenophobia."
+    ]
+  },
+
+  // SCANDINAVIA (Generic)
+  scandinavia: {
+    generic: [
+      "Scandinavia? Where everyone's depressed but has free healthcare for it.",
+      "From Scandinavia? How's that darkness treating your already dark soul?",
+      "Scandinavia: Where suicide rates compete with happiness rankings.",
+      "Oh, Scandinavia? Where everyone's beautiful, rich, and dead inside.",
+      "Scandinavia: Where social interaction is considered assault.",
+      "From Scandinavia? Let me guess, you're 'hygge' which means 'depressed but cozy'.",
+      "Scandinavia: The only region where small talk is a crime.",
+      "Where 'culture' means minimalism because emotions are too much.",
+      "Scandinavia: Proof that perfect societies are perfectly boring.",
+      "From Scandinavia? Your region's biggest export is death metal and seasonal depression."
+    ]
+  },
+
+  // EASTERN EUROPE (Generic)
+  easterneurope: {
+    generic: [
+      "Eastern Europe? Where the Soviet Union left but the depression stayed.",
+      "From Eastern Europe? How's that post-communist hangover treating you?",
+      "Eastern Europe: Where everyone's angry and has good reason to be.",
+      "Oh, Eastern Europe? The region that's Europe's forgotten middle child.",
+      "Eastern Europe: Where corruption is tradition and tradition is corruption.",
+      "From Eastern Europe? Let me guess, you're in IT or planning to leave.",
+      "Eastern Europe: The only region where pessimism is optimistic.",
+      "Where 'culture' means whatever survived the Soviets.",
+      "Eastern Europe: Proof that independence doesn't guarantee prosperity.",
+      "From Eastern Europe? Your region's biggest export is programmers and prostitutes."
+    ]
+  },
+
+  // CENTRAL AMERICA (Generic)
+  centralamerica: {
+    generic: [
+      "Central America? Where the US practices imperialism like it's still the 1980s.",
+      "From Central America? How's being America's drug highway treating you?",
+      "Central America: Where everyone's either in a caravan or selling to tourists.",
+      "Oh, Central America? The region that's just Mexico's poorer cousins.",
+      "Central America: Where democracy is a suggestion and violence is a promise.",
+      "From Central America? Let me guess, your family's split between here and the US.",
+      "Central America: The only region where the CIA has more influence than governments.",
+      "Where 'culture' gets packaged and sold to cruise ships.",
+      "Central America: Proof that proximity to the US isn't a blessing.",
+      "From Central America? Your region's biggest export is refugees and regrets."
+    ]
+  },
+
+  // CARIBBEAN (Generic)
+  caribbean: {
+    generic: [
+      "The Caribbean? Where paradise is for tourists and poverty is for locals.",
+      "From the Caribbean? How's watching rich people vacation in your misery?",
+      "Caribbean: Where every island is a tax haven or tourist trap, sometimes both.",
+      "Oh, the Caribbean? Where hurricanes do urban planning.",
+      "Caribbean: Where the beaches are white but the colonialism is whiter.",
+      "From the Caribbean? Let me guess, you work in tourism and hate tourists.",
+      "Caribbean: The only region where rum can't drown out the inequality.",
+      "Where 'culture' is whatever tourists expect to see.",
+      "Caribbean: Proof that paradise is a marketing term.",
+      "From the Caribbean? Your region's biggest export is offshore accounts and onshore poverty."
+    ]
+  },
+
+  // MIDDLE EAST (Generic)
+  middleeast: {
+    generic: [
+      "Middle East? Where ancient history meets modern tragedy.",
+      "From the Middle East? How's that eternal conflict treating your mental health?",
+      "Middle East: Where oil is thicker than blood but blood is cheaper.",
+      "Oh, the Middle East? The region that's been 'stabilizing' since biblical times.",
+      "Middle East: Where everyone claims God's on their side of the property dispute.",
+      "From the Middle East? Let me guess, you're tired of explaining your country isn't a war zone.",
+      "Middle East: The only region where peace talks last longer than wars.",
+      "Where 'culture' survives despite everyone's best efforts to destroy it.",
+      "Middle East: Proof that holy land doesn't mean peaceful land.",
+      "From the Middle East? Your region's biggest export is oil and conflict footage."
+    ]
+  },
+
+  // OCEANIA (Generic)
+  oceania: {
+    generic: [
+      "Oceania? Where everything's trying to kill you, especially the cost of living.",
+      "From Oceania? How's being the world's most isolated developed region?",
+      "Oceania: Where the wildlife is deadly and the internet is deadlier.",
+      "Oh, Oceania? The region that's just Australia and some islands Australia forgot about.",
+      "Oceania: Where everyone's laid back because they're too far from anywhere to matter.",
+      "From Oceania? Let me guess, you're explaining you're not Australian.",
+      "Oceania: The only region where 'neighbor' means a 3-hour flight away.",
+      "Where 'culture' is whatever survived British colonization.",
+      "Oceania: Proof that isolation doesn't mean independence.",
+      "From Oceania? Your region's biggest export is actors pretending to be American."
+    ]
+  },
+
+  // Generic/Default roasts for any unmatched location
+  default: [
+    "Your location is so irrelevant, even Google Maps just shrugs.",
+    "From there? I'd roast your hometown but it would require me to care about it first.",
+    "Your area is so forgettable, even this roast generator had nothing prepared.",
+    "I'd make fun of where you're from, but I don't want to punch down that far.",
+    "Your location is like a generic brand cereal - technically exists but nobody's first choice.",
+    "Oh, you're from there? That's nice. Anyway...",
+    "Your hometown is the geographic equivalent of elevator music.",
+    "From there? Even your GPS tries to avoid it.",
+    "Your location is so bland, mayonnaise thinks it needs more flavor.",
+    "I'd google your hometown but I don't want that in my search history.",
+    "Your area's so unremarkable, even this burn feels like too much attention.",
+    "From there? The place so boring, even the Wikipedia page is just one sentence.",
+    "Your hometown's like a rest stop - people only go there when they have to.",
+    "The most interesting thing about your location is that you left.",
+    "Your area's claim to fame is people confusing it with somewhere better.",
+    "From there? That explains the personality.",
+    "Your location is what happens when God runs out of ideas.",
+    "I've heard of nowhere, and your town is 20 minutes past that.",
+    "Your hometown's so irrelevant, even COVID skipped it.",
+    "From there? The place where ambition goes to die and mediocrity thrives."
+  ]
+};
