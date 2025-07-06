@@ -18,7 +18,7 @@ export const roastDatabase = {
       "Massachusetts: Where everyone's Catholic but only goes to church for weddings and funerals.",
       "From Mass? You probably own 12 Patriots jerseys but can't throw a spiral.",
       "Massachusetts: Where the weather sucks, the roads suck more, but at least you're not Connecticut.",
-      "The only state where Dropkick Murphys is considered classical music."
+      "The only state where Dropkick Murphys is considered classical music.",
     ],
     boston: [
       "Boston? The city that peaked in 1776 and won't shut up about it.",
@@ -35,8 +35,8 @@ export const roastDatabase = {
       "Boston: Where gentrification is so bad even the rats need roommates.",
       "From Boston? You definitely have strong opinions about which Dunkin' has the best coffee.",
       "Boston: The only city where a college degree is a personality trait and everyone has three.",
-      "Where everyone's 'from Southie' until you ask them which street they grew up on."
-    ]
+      "Where everyone's 'from Southie' until you ask them which street they grew up on.",
+    ],
   },
 
   // RHODE ISLAND
@@ -56,7 +56,7 @@ export const roastDatabase = {
       "The state that exists solely so Massachusetts has somewhere to dump their garbage.",
       "Rhode Island: Where everyone's related but nobody admits it.",
       "From Rhode Island? Your biggest flex is having the longest name for the smallest state.",
-      "Rhode Island: Connecticut's even smaller, even more forgotten sibling."
+      "Rhode Island: Connecticut's even smaller, even more forgotten sibling.",
     ],
     providence: [
       "Providence? The city that's just Boston's rebound after Worcester didn't work out.",
@@ -68,8 +68,8 @@ export const roastDatabase = {
       "Providence: The only city where WaterFire is considered a major cultural event.",
       "Where 'nightlife' means Federal Hill restaurants that close at 9 PM.",
       "Providence: Boston's practice squad that never made it to the big leagues.",
-      "From Providence? Your city's biggest achievement is being mentioned in Family Guy occasionally."
-    ]
+      "From Providence? Your city's biggest achievement is being mentioned in Family Guy occasionally.",
+    ],
   },
 
   // CONNECTICUT
@@ -89,7 +89,7 @@ export const roastDatabase = {
       "The state where every town thinks it's the 'real' Connecticut.",
       "Connecticut: New York's storage unit for rich people who hate fun.",
       "From Connecticut? You definitely have a lacrosse stick gathering dust somewhere.",
-      "Connecticut: Where the only culture is arguing about whether you're New England or Tri-State."
+      "Connecticut: Where the only culture is arguing about whether you're New England or Tri-State.",
     ],
     hartford: [
       "Hartford? The insurance capital where dreams go to get denied coverage.",
@@ -101,8 +101,8 @@ export const roastDatabase = {
       "Hartford: The only capital city that most people can't identify on a map.",
       "Where 'urban renewal' has been 'coming soon' since 1965.",
       "Hartford: Springfield's slightly classier, equally depressing twin.",
-      "From Hartford? Your city's biggest achievement is making actuarial science look exciting by comparison."
-    ]
+      "From Hartford? Your city's biggest achievement is making actuarial science look exciting by comparison.",
+    ],
   },
 
   // NEW HAMPSHIRE
@@ -122,7 +122,7 @@ export const roastDatabase = {
       "The state where everyone's a rugged individualist who depends on Massachusetts for jobs.",
       "New Hampshire: Maine's less interesting neighbor that people drive through quickly.",
       "From New Hampshire? You definitely have strong opinions about Massachusetts drivers.",
-      "New Hampshire: Where the mountains are beautiful and the people are suspicious of everything."
+      "New Hampshire: Where the mountains are beautiful and the people are suspicious of everything.",
     ],
     manchester: [
       "Manchester? New Hampshire's attempt at having a real city, and it shows.",
@@ -134,8 +134,8 @@ export const roastDatabase = {
       "Manchester: The only city where the airport is the most exciting thing.",
       "Where 'culture' means a minor league baseball team and chain restaurants.",
       "Manchester: Boston's forgotten storage closet.",
-      "From Manchester? Your city's claim to fame is being mentioned in The West Wing once."
-    ]
+      "From Manchester? Your city's claim to fame is being mentioned in The West Wing once.",
+    ],
   },
 
   // MAINE
@@ -150,7 +150,7 @@ export const roastDatabase = {
       "Maine: The only state where Bean boots to a wedding is considered formal.",
       "Where 'culture' means arguing about which lobster shack is authentic.",
       "Maine: New Hampshire's more expensive, less relevant sibling.",
-      "From Maine? Your state's biggest achievement is Stephen King novels that nobody finishes."
+      "From Maine? Your state's biggest achievement is Stephen King novels that nobody finishes.",
     ],
     portland: [
       "Portland, Maine? The city trying so hard to be Portland, Oregon but with worse weather.",
@@ -162,8 +162,8 @@ export const roastDatabase = {
       "Portland: The only city where gentrification means adding a Starbucks.",
       "Where 'artisanal' means overpriced and 'local' means your cousin made it.",
       "Portland: Seattle's less successful, more pretentious cousin.",
-      "From Portland, Maine? Your city peaked when it was featured in a food magazine once."
-    ]
+      "From Portland, Maine? Your city peaked when it was featured in a food magazine once.",
+    ],
   },
 
   // VERMONT
@@ -178,7 +178,7 @@ export const roastDatabase = {
       "Vermont: The only state where being carbon neutral is a personality trait.",
       "Where everyone drives a Subaru to their organic farm job.",
       "Vermont: Proof that you can be liberal and boring at the same time.",
-      "From Vermont? Your state's biggest export is sanctimonious college students."
+      "From Vermont? Your state's biggest export is sanctimonious college students.",
     ],
     burlington: [
       "Burlington? The city where every college kid thinks they discovered socialism.",
@@ -190,8 +190,8 @@ export const roastDatabase = {
       "Burlington: The only city where being sustainable means you can't afford not to be.",
       "Where 'culture' means farmer's markets and pretentious coffee shops.",
       "Burlington: Portland's less cool, more pretentious cousin who went to liberal arts school.",
-      "From Burlington? Your city's idea of diversity is having both IPA and stout on tap."
-    ]
+      "From Burlington? Your city's idea of diversity is having both IPA and stout on tap.",
+    ],
   },
 
   // MARYLAND
@@ -211,7 +211,7 @@ export const roastDatabase = {
       "The state that exists to make Virginia feel better about itself.",
       "Maryland: Where everyone claims Baltimore or DC but lives in Columbia.",
       "From Maryland? You definitely have opinions about crab cakes and all of them are wrong.",
-      "Maryland: The DMV's least memorable letter."
+      "Maryland: The DMV's least memorable letter.",
     ],
     baltimore: [
       "Baltimore? The city where The Wire was a documentary, not a drama.",
@@ -228,7 +228,7 @@ export const roastDatabase = {
       "The city where gentrification can't even get a foothold.",
       "Baltimore: Proof that having a port doesn't make you important anymore.",
       "From Baltimore? You definitely know which neighborhoods to avoid, which is most of them.",
-      "Baltimore: Where 'urban decay' isn't a phase, it's a permanent state."
+      "Baltimore: Where 'urban decay' isn't a phase, it's a permanent state.",
     ],
     annapolis: [
       "Annapolis? The city that thinks having a Naval Academy makes it relevant.",
@@ -240,8 +240,8 @@ export const roastDatabase = {
       "Annapolis: The only capital where tourists outnumber government workers.",
       "Where 'historic' means overpriced and 'charming' means tiny.",
       "Annapolis: DC's nautical-themed retirement home.",
-      "From Annapolis? Your city's biggest achievement is being Maryland's prettiest irrelevant town."
-    ]
+      "From Annapolis? Your city's biggest achievement is being Maryland's prettiest irrelevant town.",
+    ],
   },
 
   // WASHINGTON DC
@@ -261,8 +261,8 @@ export const roastDatabase = {
       "The city where ambition goes to become bureaucracy.",
       "DC: Where the metro catches fire more often than political careers.",
       "From DC? You definitely have opinions about which quadrant is 'real DC'.",
-      "DC: New York's less fun cousin who went to Georgetown and never left."
-    ]
+      "DC: New York's less fun cousin who went to Georgetown and never left.",
+    ],
   },
 
   // DELAWARE
@@ -282,7 +282,7 @@ export const roastDatabase = {
       "The state that's basically three counties pretending to matter.",
       "Delaware: Where everyone works for a bank that's technically headquartered in their garage.",
       "From Delaware? Your state motto should be 'Delaware: You've probably driven through us'.",
-      "Delaware: The geographic equivalent of terms and conditions - technically important but nobody cares."
+      "Delaware: The geographic equivalent of terms and conditions - technically important but nobody cares.",
     ],
     wilmington: [
       "Wilmington? The city that's just Philadelphia's chemical spill.",
@@ -294,8 +294,8 @@ export const roastDatabase = {
       "Wilmington: The only city where 'revitalization' has been happening since 1982.",
       "Where the train station is the nicest building because everyone's trying to leave.",
       "Wilmington: Baltimore's even smaller, even more forgotten cousin.",
-      "From Wilmington? Your city's biggest achievement is being mentioned when people list Biden's career."
-    ]
+      "From Wilmington? Your city's biggest achievement is being mentioned when people list Biden's career.",
+    ],
   },
 
   // WEST VIRGINIA
@@ -315,7 +315,7 @@ export const roastDatabase = {
       "The state where hope goes to die in a mine shaft.",
       "West Virginia: America's sacrificial lamb to the coal industry.",
       "From West Virginia? You definitely have a cousin who's also your neighbor.",
-      "West Virginia: Because someone had to be last in everything."
+      "West Virginia: Because someone had to be last in everything.",
     ],
     charleston: [
       "Charleston? Not the good one in South Carolina, the forgotten one in West Virginia.",
@@ -327,8 +327,8 @@ export const roastDatabase = {
       "Charleston: The only capital city that makes Harrisburg look exciting.",
       "Where 'nightlife' means the Walmart is open until 11.",
       "Charleston: Huntington's slightly more important, equally depressing sibling.",
-      "From Charleston? Your city's biggest achievement is not being Huntington."
-    ]
+      "From Charleston? Your city's biggest achievement is not being Huntington.",
+    ],
   },
 
   // VIRGINIA
@@ -348,7 +348,7 @@ export const roastDatabase = {
       "The state that can't decide if it's Southern, Mid-Atlantic, or just confused.",
       "Virginia: Where everyone in NoVA works in DC and everyone else resents NoVA.",
       "From Virginia? You definitely have a Confederate ancestor you don't talk about.",
-      "Virginia: Maryland's more pretentious, less interesting neighbor."
+      "Virginia: Maryland's more pretentious, less interesting neighbor.",
     ],
     richmond: [
       "Richmond? The city that was the Confederate capital and never got over it.",
@@ -360,7 +360,7 @@ export const roastDatabase = {
       "Richmond: The only city where craft breweries outnumber job opportunities.",
       "Where 'culture' means arguing about which statue to take down next.",
       "Richmond: DC's racist uncle who got into craft beer.",
-      "From Richmond? Your city's biggest achievement is making Norfolk look progressive."
+      "From Richmond? Your city's biggest achievement is making Norfolk look progressive.",
     ],
     norfolk: [
       "Norfolk? The city that's just a naval base with delusions of being more.",
@@ -372,8 +372,8 @@ export const roastDatabase = {
       "Norfolk: The only city where 'culture' means ships and strip clubs.",
       "Where every bar is a military dive and every apartment is overpriced.",
       "Norfolk: Virginia Beach's ugly, practical sibling.",
-      "From Norfolk? Your city's biggest achievement is not being Portsmouth."
-    ]
+      "From Norfolk? Your city's biggest achievement is not being Portsmouth.",
+    ],
   },
 
   // ARKANSAS
@@ -393,7 +393,7 @@ export const roastDatabase = {
       "The state where 'progressive' means having all your teeth.",
       "Arkansas: America's reminder that we can always sink lower.",
       "From Arkansas? You definitely have a relative who married their relative.",
-      "Arkansas: Because someone had to make Alabama look educated."
+      "Arkansas: Because someone had to make Alabama look educated.",
     ],
     little_rock: [
       "Little Rock? Big name, little impact, rock-bottom expectations.",
@@ -405,8 +405,8 @@ export const roastDatabase = {
       "Little Rock: The only capital that makes Jackson, Mississippi look thriving.",
       "Where 'downtown revitalization' means one new chain restaurant every five years.",
       "Little Rock: Proof that being a capital doesn't mean being capital-worthy.",
-      "From Little Rock? Your city's biggest achievement was being in history textbooks once."
-    ]
+      "From Little Rock? Your city's biggest achievement was being in history textbooks once.",
+    ],
   },
 
   // MISSISSIPPI
@@ -426,7 +426,7 @@ export const roastDatabase = {
       "The state that's basically a cautionary tale about what happens without progress.",
       "Mississippi: America's reminder that reconstruction failed.",
       "From Mississippi? You definitely can't spell your state without autocorrect.",
-      "Mississippi: Because someone had to be worst at everything."
+      "Mississippi: Because someone had to be worst at everything.",
     ],
     jackson: [
       "Jackson? The city where the water's brown and the future's darker.",
@@ -438,8 +438,8 @@ export const roastDatabase = {
       "Jackson: The only capital where 'infrastructure' is a foreign word.",
       "Where potholes are so big they have their own zip codes.",
       "Jackson: Proof that being a capital city means nothing in Mississippi.",
-      "From Jackson? Your city's biggest achievement is making other Mississippi cities look functional."
-    ]
+      "From Jackson? Your city's biggest achievement is making other Mississippi cities look functional.",
+    ],
   },
 
   // MISSOURI
@@ -459,7 +459,7 @@ export const roastDatabase = {
       "The state where compromise means everyone's equally unhappy.",
       "Missouri: America's DMZ between civilization and whatever Kansas is.",
       "From Missouri? You definitely tell people you're from 'the Kansas City side' or 'the St. Louis side'.",
-      "Missouri: Because Iowa needed someone to look down on."
+      "Missouri: Because Iowa needed someone to look down on.",
     ],
     st_louis: [
       "St. Louis? The city where the Arch is the only thing that hasn't been shot at.",
@@ -476,7 +476,7 @@ export const roastDatabase = {
       "The city that peaked when it hosted the World's Fair in 1904.",
       "St. Louis: Proof that having an iconic monument doesn't make you iconic.",
       "From St. Louis? You definitely have a concealed carry permit and use it.",
-      "St. Louis: Where 'city pride' means pretending the county isn't safer."
+      "St. Louis: Where 'city pride' means pretending the county isn't safer.",
     ],
     kansas_city: [
       "Kansas City? The city so boring it needs two states to claim it.",
@@ -493,8 +493,8 @@ export const roastDatabase = {
       "The city that thinks having jazz history makes up for having no future.",
       "Kansas City: St. Louis's equally depressing twin on the other side of the state.",
       "From Kansas City? You definitely argue about BBQ like it's a religion.",
-      "Kansas City: Because someone had to make Omaha look exciting."
-    ]
+      "Kansas City: Because someone had to make Omaha look exciting.",
+    ],
   },
 
   // KANSAS
@@ -514,7 +514,7 @@ export const roastDatabase = {
       "The state that makes Nebraska look like a thrill ride.",
       "Kansas: America's waiting room between places that matter.",
       "From Kansas? You definitely have more guns than books.",
-      "Kansas: Because God needed somewhere to put all the nothing."
+      "Kansas: Because God needed somewhere to put all the nothing.",
     ],
     wichita: [
       "Wichita? The biggest city in Kansas, which is like being the tallest building in a cornfield.",
@@ -526,8 +526,8 @@ export const roastDatabase = {
       "Wichita: The only city where a new Applebee's makes the front page.",
       "Where 'nightlife' means the Walmart stays open past 10.",
       "Wichita: Proof that size doesn't equal significance.",
-      "From Wichita? Your city's biggest achievement is being mentioned in that White Stripes song."
-    ]
+      "From Wichita? Your city's biggest achievement is being mentioned in that White Stripes song.",
+    ],
   },
 
   // OKLAHOMA
@@ -547,7 +547,7 @@ export const roastDatabase = {
       "The state that exists to make Texas feel better about itself.",
       "Oklahoma: America's trailer park with oil wells.",
       "From Oklahoma? You definitely have a storm shelter and diabetes.",
-      "Oklahoma: Because someone had to be worse than Arkansas."
+      "Oklahoma: Because someone had to be worse than Arkansas.",
     ],
     oklahoma_city: [
       "Oklahoma City? The city that's just Dallas with depression and worse weather.",
@@ -559,7 +559,7 @@ export const roastDatabase = {
       "Oklahoma City: The only city where a bombing memorial is the main tourist attraction.",
       "Where 'culture' means chain restaurants and churches the size of airports.",
       "Oklahoma City: Proof that oil money can't buy taste or planning.",
-      "From OKC? Your city's biggest achievement is being slightly less boring than Tulsa."
+      "From OKC? Your city's biggest achievement is being slightly less boring than Tulsa.",
     ],
     tulsa: [
       "Tulsa? The city that burned down Black Wall Street and never recovered morally.",
@@ -571,8 +571,8 @@ export const roastDatabase = {
       "Tulsa: The only city where 'revitalization' means painting murals on abandoned buildings.",
       "Where the race massacre museum is more lively than downtown.",
       "Tulsa: Proof that you can't build a future while hiding from your past.",
-      "From Tulsa? Your city's claim to fame is a massacre and mediocrity."
-    ]
+      "From Tulsa? Your city's claim to fame is a massacre and mediocrity.",
+    ],
   },
 
   // NEBRASKA
@@ -592,7 +592,7 @@ export const roastDatabase = {
       "The state that exists so I-80 has somewhere to go through.",
       "Nebraska: America's sensory deprivation chamber.",
       "From Nebraska? You definitely think Runza is cuisine.",
-      "Nebraska: Because Iowa needed to feel superior to someone."
+      "Nebraska: Because Iowa needed to feel superior to someone.",
     ],
     omaha: [
       "Omaha? The city that Warren Buffett made famous by never leaving it.",
@@ -604,8 +604,8 @@ export const roastDatabase = {
       "Omaha: The only city where the zoo is genuinely the most exciting thing.",
       "Where 'nightlife' means Applebee's stays open until 11.",
       "Omaha: Proof that being the biggest city in Nebraska means nothing.",
-      "From Omaha? Your city's biggest achievement is hosting the College World Series nobody watches."
-    ]
+      "From Omaha? Your city's biggest achievement is hosting the College World Series nobody watches.",
+    ],
   },
 
   // MONTANA
@@ -620,7 +620,7 @@ export const roastDatabase = {
       "Montana: The only state where 'Big Sky Country' means 'nothing to look at but sky'.",
       "Where 'culture' means the annual rodeo and racist uncle's barbecue.",
       "Montana: Proof that beautiful landscapes can't cure boredom.",
-      "From Montana? Your state's biggest export is people who got tired of talking to cattle."
+      "From Montana? Your state's biggest export is people who got tired of talking to cattle.",
     ],
     billings: [
       "Billings? Montana's biggest city, which is like being the tallest dwarf.",
@@ -632,7 +632,7 @@ export const roastDatabase = {
       "Billings: The only city where the rimrocks are more interesting than downtown.",
       "Where 'nightlife' means the casino and the Walmart parking lot.",
       "Billings: Proof that being the biggest doesn't mean being interesting.",
-      "From Billings? Your city's claim to fame is being mentioned in Breaking Bad once."
+      "From Billings? Your city's claim to fame is being mentioned in Breaking Bad once.",
     ],
     missoula: [
       "Missoula? Where hipsters go to pretend they're outdoorsy.",
@@ -644,8 +644,8 @@ export const roastDatabase = {
       "Missoula: The only city in Montana where vegans can survive.",
       "Where 'culture' means craft beer and arguing about wilderness access.",
       "Missoula: Boulder's dropout sibling who couldn't afford Colorado.",
-      "From Missoula? Your city's biggest achievement is making Bozeman look affordable."
-    ]
+      "From Missoula? Your city's biggest achievement is making Bozeman look affordable.",
+    ],
   },
 
   // IDAHO
@@ -660,7 +660,7 @@ export const roastDatabase = {
       "Idaho: The only state where Napoleon Dynamite was a documentary.",
       "Where 'diversity' means different types of potatoes.",
       "Idaho: Proof that being shaped like a gun doesn't make you interesting.",
-      "From Idaho? Your state's biggest export is white supremacists and french fries."
+      "From Idaho? Your state's biggest export is white supremacists and french fries.",
     ],
     boise: [
       "Boise? The city that Californians are ruining one overpriced house at a time.",
@@ -672,7 +672,7 @@ export const roastDatabase = {
       "Boise: The only capital where potato is both crop and personality.",
       "Where 'culture' means whatever Portland did 10 years ago.",
       "Boise: Proof that cheap housing attracts expensive problems.",
-      "From Boise? Your city went from hidden gem to overpriced rock real quick."
+      "From Boise? Your city went from hidden gem to overpriced rock real quick.",
     ],
     coeur_dalene: [
       "Coeur d'Alene? Where white supremacists go for the lake views.",
@@ -684,8 +684,8 @@ export const roastDatabase = {
       "Coeur d'Alene: The only city where militia members have lake houses.",
       "Where 'diversity' is a four-letter word.",
       "Coeur d'Alene: Proof that natural beauty attracts unnatural people.",
-      "From CDA? Your city's biggest achievement is making the rest of Idaho look tolerant."
-    ]
+      "From CDA? Your city's biggest achievement is making the rest of Idaho look tolerant.",
+    ],
   },
 
   // IOWA
@@ -700,7 +700,7 @@ export const roastDatabase = {
       "Iowa: The only state where 'seasoning' is a dirty word.",
       "Where 'culture' means different ways to prepare corn.",
       "Iowa: Proof that flat can be both geography and personality.",
-      "From Iowa? Your state's biggest export is young people fleeing to Chicago."
+      "From Iowa? Your state's biggest export is young people fleeing to Chicago.",
     ],
     des_moines: [
       "Des Moines? The insurance capital where dreams go to get term life.",
@@ -712,7 +712,7 @@ export const roastDatabase = {
       "Des Moines: The only capital where actuaries are the cool kids.",
       "Where 'nightlife' means Applebee's is open until 10.",
       "Des Moines: Proof that being a capital doesn't require personality.",
-      "From Des Moines? Your city's skyline looks like a bar graph of mediocrity."
+      "From Des Moines? Your city's skyline looks like a bar graph of mediocrity.",
     ],
     iowa_city: [
       "Iowa City? Where the university is the only reason it exists.",
@@ -724,8 +724,8 @@ export const roastDatabase = {
       "Iowa City: The only city in Iowa where people read books without pictures.",
       "Where 'culture' means whatever the university imports.",
       "Iowa City: Proof that education can't overcome location.",
-      "From Iowa City? Your city's biggest achievement is making people famous somewhere else."
-    ]
+      "From Iowa City? Your city's biggest achievement is making people famous somewhere else.",
+    ],
   },
 
   // NORTH DAKOTA (Expanded)
@@ -745,7 +745,7 @@ export const roastDatabase = {
       "The state that exists because maps looked weird with just one Dakota.",
       "North Dakota: America's storage unit for nuclear weapons and sadness.",
       "From North Dakota? You definitely have more guns than neighbors.",
-      "North Dakota: Because someone had to make Alaska feel populated."
+      "North Dakota: Because someone had to make Alaska feel populated.",
     ],
     fargo: [
       "Fargo? The city famous for a movie that wasn't even filmed there.",
@@ -757,7 +757,7 @@ export const roastDatabase = {
       "Fargo: The only city where negative temperatures last longer than relationships.",
       "Where 'nightlife' means drinking until you forget you live in Fargo.",
       "Fargo: Proof that colleges will put campuses literally anywhere.",
-      "From Fargo? Your city's claim to fame is a Coen Brothers movie that mocked you."
+      "From Fargo? Your city's claim to fame is a Coen Brothers movie that mocked you.",
     ],
     bismarck: [
       "Bismarck? The capital that everyone forgets is the capital.",
@@ -769,8 +769,8 @@ export const roastDatabase = {
       "Bismarck: The only capital where the river is more interesting than the city.",
       "Where 'culture' means the casino and chain restaurants.",
       "Bismarck: Proof that being a capital means nothing in North Dakota.",
-      "From Bismarck? Your city's biggest achievement is not being as depressing as Minot."
-    ]
+      "From Bismarck? Your city's biggest achievement is not being as depressing as Minot.",
+    ],
   },
 
   // SOUTH DAKOTA (Expanded)
@@ -790,7 +790,7 @@ export const roastDatabase = {
       "The state that exists so motorcyclists have somewhere to congregate annually.",
       "South Dakota: America's drive-through museum.",
       "From South Dakota? You definitely have strong opinions about North Dakota like anyone cares.",
-      "South Dakota: Because North Dakota needed to feel better about something."
+      "South Dakota: Because North Dakota needed to feel better about something.",
     ],
     sioux_falls: [
       "Sioux Falls? The city named after falling water in a state that's falling apart.",
@@ -802,7 +802,7 @@ export const roastDatabase = {
       "Sioux Falls: The only city where 'rush hour' is three cars at the same intersection.",
       "Where 'culture' means having both a mall AND a Walmart.",
       "Sioux Falls: Proof that waterfalls can't make a city interesting.",
-      "From Sioux Falls? Your city's biggest achievement is being mentioned in credit card fine print."
+      "From Sioux Falls? Your city's biggest achievement is being mentioned in credit card fine print.",
     ],
     rapid_city: [
       "Rapid City? Where tourists stop before seeing something actually interesting.",
@@ -814,8 +814,8 @@ export const roastDatabase = {
       "Rapid City: The only city where presidents' faces carved in rock overshadow everything.",
       "Where 'local culture' means whatever tourists want to buy.",
       "Rapid City: Proof that proximity to monuments doesn't make you monumental.",
-      "From Rapid City? Your city is what happens when a rest stop gets ambitious."
-    ]
+      "From Rapid City? Your city is what happens when a rest stop gets ambitious.",
+    ],
   },
 
   // WYOMING
@@ -835,7 +835,7 @@ export const roastDatabase = {
       "The state that Dick Cheney is from, which explains everything.",
       "Wyoming: America's screensaver.",
       "From Wyoming? You definitely have more guns than neighbors, which isn't hard.",
-      "Wyoming: Because someone had to make Montana look densely populated."
+      "Wyoming: Because someone had to make Montana look densely populated.",
     ],
     cheyenne: [
       "Cheyenne? The capital city that's smaller than most towns.",
@@ -847,8 +847,8 @@ export const roastDatabase = {
       "Cheyenne: The only capital city where tumbleweeds have voting rights.",
       "Where 'urban planning' is an oxymoron.",
       "Cheyenne: Proof that being a capital doesn't require actual people.",
-      "From Cheyenne? Your city's biggest achievement is being between two places people actually go."
-    ]
+      "From Cheyenne? Your city's biggest achievement is being between two places people actually go.",
+    ],
   },
 
   // ALASKA
@@ -868,7 +868,7 @@ export const roastDatabase = {
       "The state where everyone has a pilot's license because roads are optional.",
       "Alaska: America's drunk uncle who lives in a cabin.",
       "From Alaska? You definitely have a story about a bear that nobody believes.",
-      "Alaska: Because someone looked at Siberia and thought 'we should buy that'."
+      "Alaska: Because someone looked at Siberia and thought 'we should buy that'.",
     ],
     anchorage: [
       "Anchorage? The city where half of Alaska's population huddles for warmth.",
@@ -880,8 +880,8 @@ export const roastDatabase = {
       "Anchorage: The only city where 'traffic' means waiting for a moose to move.",
       "Where 'nightlife' happens at 2 PM in December.",
       "Anchorage: Proof that humans will live literally anywhere.",
-      "From Anchorage? Your city's biggest achievement is having running water year-round."
-    ]
+      "From Anchorage? Your city's biggest achievement is having running water year-round.",
+    ],
   },
 
   // HAWAII
@@ -901,7 +901,7 @@ export const roastDatabase = {
       "The state that's slowly sinking, economically and literally.",
       "Hawaii: America's colonial guilt in island form.",
       "From Hawaii? You definitely work three jobs or have rich parents.",
-      "Hawaii: Because manifest destiny needed a vacation home."
+      "Hawaii: Because manifest destiny needed a vacation home.",
     ],
     honolulu: [
       "Honolulu? Where paradise meets parking nightmare.",
@@ -913,8 +913,8 @@ export const roastDatabase = {
       "Honolulu: The only city where homeless camps have ocean views.",
       "Where 'rush hour' lasts all day because there's only one highway.",
       "Honolulu: Proof that island living isn't always paradise.",
-      "From Honolulu? Your city's biggest achievement is convincing tourists it's still Hawaiian."
-    ]
+      "From Honolulu? Your city's biggest achievement is convincing tourists it's still Hawaiian.",
+    ],
   },
 
   // PUERTO RICO
@@ -934,7 +934,7 @@ export const roastDatabase = {
       "The territory that's too American for independence, too Latino for statehood.",
       "Puerto Rico: America's tropical storage unit for pharmaceutical companies.",
       "From Puerto Rico? You definitely have relatives in New York who send money back.",
-      "Puerto Rico: Because colonialism needed a modern rebrand."
+      "Puerto Rico: Because colonialism needed a modern rebrand.",
     ],
     san_juan: [
       "San Juan? Where cruise ships matter more than residents.",
@@ -946,8 +946,8 @@ export const roastDatabase = {
       "San Juan: The only capital where the fort is in better shape than the schools.",
       "Where 'infrastructure' means whatever didn't break in the last hurricane.",
       "San Juan: Proof that being a capital doesn't mean having capital.",
-      "From San Juan? Your city's biggest achievement is staying photogenic while falling apart."
-    ]
+      "From San Juan? Your city's biggest achievement is staying photogenic while falling apart.",
+    ],
   },
 
   // TEXAS (Expanded)
@@ -967,7 +967,7 @@ export const roastDatabase = {
       "The state that's one bad winter away from becoming a third-world country.",
       "Texas: Where property taxes are higher than California but at least you can shoot your problems.",
       "From Texas? Your truck's lift kit costs more than most people's entire cars.",
-      "Texas: Where 'y'all' is singular, 'all y'all' is plural, and education is optional."
+      "Texas: Where 'y'all' is singular, 'all y'all' is plural, and education is optional.",
     ],
     austin: [
       "Austin? The city trying so hard to be weird it became basic.",
@@ -989,7 +989,7 @@ export const roastDatabase = {
       "From Austin? The city where every bar is a tech networking event in disguise.",
       "Austin: Where the tacos are good but you'll wait longer than a DMV visit.",
       "Austin: California's refugee camp with BBQ.",
-      "From Austin? How's that live music capital working out with all venues becoming condos?"
+      "From Austin? How's that live music capital working out with all venues becoming condos?",
     ],
     dallas: [
       "Dallas? Where everyone pretends to be an oil tycoon but actually works in insurance.",
@@ -1006,7 +1006,7 @@ export const roastDatabase = {
       "The city that's just Houston with worse food and better PR.",
       "Dallas: Where everyone leases a BMW they can't afford to impress people they don't like.",
       "From Dallas? Your neighborhood is definitely named something pretentious like 'Lakewood Heights Estates'.",
-      "Dallas: Fort Worth's embarrassing sibling who went to private school."
+      "Dallas: Fort Worth's embarrassing sibling who went to private school.",
     ],
     houston: [
       "Houston? The city built on a swamp and it shows every time it drizzles.",
@@ -1028,7 +1028,7 @@ export const roastDatabase = {
       "From Houston? Where every highway is under construction until the heat death of the universe.",
       "Houston: The only city where 'zoning laws' is a foreign concept.",
       "Houston: Where you need a boat for rain and a car for your car.",
-      "From Houston? Your city's so spread out, GPS satellites get tired."
+      "From Houston? Your city's so spread out, GPS satellites get tired.",
     ],
     san_antonio: [
       "San Antonio? The city whose entire economy runs on disappointing tourists at the Alamo.",
@@ -1045,7 +1045,7 @@ export const roastDatabase = {
       "The city where everyone claims their grandmother makes the best tamales.",
       "San Antonio: Austin without the music, Houston without the jobs, Dallas without the money.",
       "From San Antonio? You definitely have diabetes and a Spurs jersey from 2005.",
-      "San Antonio: Where the heat makes you lazy and the food makes you fat."
+      "San Antonio: Where the heat makes you lazy and the food makes you fat.",
     ],
     fort_worth: [
       "Fort Worth? Dallas's cowboy-cosplaying little brother with an inferiority complex.",
@@ -1057,7 +1057,7 @@ export const roastDatabase = {
       "Fort Worth: The only city where 'culture' means a museum district nobody visits.",
       "Where everyone drives a truck to their cubicle job.",
       "Fort Worth: Dallas's less successful sibling who peaked in high school.",
-      "From Fort Worth? Your city's entire identity is 'we're not Dallas' and cows."
+      "From Fort Worth? Your city's entire identity is 'we're not Dallas' and cows.",
     ],
     el_paso: [
       "El Paso? The city so far from Texas, it's basically New Mexico with a identity crisis.",
@@ -1069,8 +1069,8 @@ export const roastDatabase = {
       "El Paso: The only Texas city where green chile is more popular than BBQ.",
       "Where 'mountain time' means you're literally and figuratively behind the rest of Texas.",
       "El Paso: Proof that Texas is too big to have a coherent identity.",
-      "From El Paso? Your city is what happens when Texas and Mexico have a baby and abandon it."
-    ]
+      "From El Paso? Your city is what happens when Texas and Mexico have a baby and abandon it.",
+    ],
   },
 
   // CALIFORNIA (Expanded)
@@ -1090,7 +1090,7 @@ export const roastDatabase = {
       "The state where your yoga mat costs more than most people's rent.",
       "California: Where everyone's gluten-free by choice but brain-free by nature.",
       "From California? You definitely have opinions about which freeway is slightly less terrible.",
-      "California: The only state that's literally and figuratively on fire."
+      "California: The only state that's literally and figuratively on fire.",
     ],
     los_angeles: [
       "LA? The city where everyone's an actor/model/influencer but actually works at Starbucks.",
@@ -1112,7 +1112,7 @@ export const roastDatabase = {
       "From LA? The city where 'I'm working on a project' means 'I'm unemployed but optimistic'.",
       "Los Angeles: Where everyone's gluten-free, dairy-free, and responsibility-free.",
       "LA: The only city where people Uber to their cars.",
-      "From LA? How many failed actors does it take to serve one overpriced salad?"
+      "From LA? How many failed actors does it take to serve one overpriced salad?",
     ],
     san_francisco: [
       "San Francisco? Must be nice coding your way through life while stepping over human feces.",
@@ -1134,7 +1134,7 @@ export const roastDatabase = {
       "From SF? The city where everyone's disrupting everything except their own privilege.",
       "San Francisco: Where dogs have health insurance but teachers need three jobs.",
       "SF: The only city where a startup for an app that's just a button raised $50 million.",
-      "From San Francisco? Your city gentrified so hard even the fog is unaffordable."
+      "From San Francisco? Your city gentrified so hard even the fog is unaffordable.",
     ],
     san_diego: [
       "San Diego? It's like LA's boring younger brother who goes to bed at 9 PM.",
@@ -1151,7 +1151,7 @@ export const roastDatabase = {
       "The city where everyone surfs but nobody actually catches waves.",
       "San Diego: Where Comic-Con is the only interesting thing that happens all year.",
       "From San Diego? You definitely wear flip-flops to formal events.",
-      "San Diego: Tijuana's boring neighbor who calls the cops on parties."
+      "San Diego: Tijuana's boring neighbor who calls the cops on parties.",
     ],
     oakland: [
       "Oakland? SF's younger sibling who actually has street cred but nobody respects.",
@@ -1168,7 +1168,7 @@ export const roastDatabase = {
       "Where everyone's an 'artist' but really just sells weed.",
       "Oakland: The city where your rent money goes to a landlord in China.",
       "From Oakland? You probably moved there 2 years ago and now gatekeep who's a 'real' Oakland resident.",
-      "Oakland: Where the lake smells like sewage but people still jog around it pretending it's nice."
+      "Oakland: Where the lake smells like sewage but people still jog around it pretending it's nice.",
     ],
     sacramento: [
       "Sacramento? The capital nobody remembers is the capital.",
@@ -1180,7 +1180,7 @@ export const roastDatabase = {
       "Sacramento: The only capital city that makes Albany look exciting.",
       "Where 'culture' means the annual state fair and chain restaurants.",
       "Sacramento: Proof that being a capital doesn't make you capital-worthy.",
-      "From Sacramento? Your city is what happens when bureaucracy becomes a place."
+      "From Sacramento? Your city is what happens when bureaucracy becomes a place.",
     ],
     fresno: [
       "Fresno? The armpit of California's Central Valley.",
@@ -1192,7 +1192,7 @@ export const roastDatabase = {
       "Fresno: The only city where 100°F is considered mild weather.",
       "Where 'entertainment' means driving 3 hours to somewhere interesting.",
       "Fresno: Proof that not all of California is paradise.",
-      "From Fresno? Your city's biggest export is people trying to leave Fresno."
+      "From Fresno? Your city's biggest export is people trying to leave Fresno.",
     ],
     san_jose: [
       "San Jose? Silicon Valley's boring bedroom community.",
@@ -1204,8 +1204,8 @@ export const roastDatabase = {
       "San Jose: The largest city nobody visits on purpose.",
       "Where 'nightlife' means coding until 2 AM.",
       "San Jose: Proof that tech money can't buy a soul.",
-      "From San Jose? Your city's motto should be 'At least we're not Fresno'."
-    ]
+      "From San Jose? Your city's motto should be 'At least we're not Fresno'.",
+    ],
   },
 
   // NEW YORK (Expanded)
@@ -1225,7 +1225,7 @@ export const roastDatabase = {
       "The state that gave us Trump and still acts superior to everyone else.",
       "New York: Where being an asshole is considered 'keeping it real'.",
       "From New York? You definitely judge every city by how late the bars stay open.",
-      "New York: The only state where 'upstate' means anything north of the Bronx."
+      "New York: The only state where 'upstate' means anything north of the Bronx.",
     ],
     nyc: [
       "NYC? Let me guess, you've mentioned you're from New York within 5 minutes of every conversation you've ever had.",
@@ -1247,7 +1247,7 @@ export const roastDatabase = {
       "From NYC? The city where $100K is the new poverty line.",
       "New York: Where rats have rent control and humans don't.",
       "NYC: The only city where people pay $4000/month to hear their neighbor's every thought.",
-      "From NYC? How's that hustle culture working out for your mental health?"
+      "From NYC? How's that hustle culture working out for your mental health?",
     ],
     brooklyn: [
       "Brooklyn? Oh, you were into it before it was cool, right?",
@@ -1269,7 +1269,7 @@ export const roastDatabase = {
       "From Brooklyn? Which small town in Ohio did you abandon to find yourself here?",
       "Brooklyn: Where everyone's creative but nobody creates anything but debt.",
       "Brooklyn: The borough where 'vintage' means last year and 'artisanal' means overpriced.",
-      "From Brooklyn? Your personality is just your neighborhood and dietary restrictions."
+      "From Brooklyn? Your personality is just your neighborhood and dietary restrictions.",
     ],
     queens: [
       "Queens? The borough that everyone forgets exists until they need to catch a flight.",
@@ -1286,7 +1286,7 @@ export const roastDatabase = {
       "The borough that's just Long Island in denial.",
       "Queens: Where Flushing is ironically the shittiest neighborhood name for the best food.",
       "From Queens? You definitely have a 45-minute commute to a job that pays like you live in Ohio.",
-      "Queens: Manhattan's storage unit for immigrants and airports."
+      "Queens: Manhattan's storage unit for immigrants and airports.",
     ],
     bronx: [
       "The Bronx? The borough that gave us hip-hop and the Yankees, and hasn't done much since.",
@@ -1298,7 +1298,7 @@ export const roastDatabase = {
       "The Bronx: The only borough where being from there is still considered tough.",
       "Where 'culture' means the Yankees and whatever J.Lo is doing.",
       "The Bronx: Manhattan's angrier, more authentic sibling.",
-      "From the Bronx? You definitely have stories that end with 'but that's the Bronx for you'."
+      "From the Bronx? You definitely have stories that end with 'but that's the Bronx for you'.",
     ],
     staten_island: [
       "Staten Island? New York's forgotten borough that everyone wishes would float away.",
@@ -1310,7 +1310,7 @@ export const roastDatabase = {
       "Staten Island: The only borough that voted for Trump and wonders why nobody likes them.",
       "Where 'culture' means Italian-American stereotypes and strip malls.",
       "Staten Island: Proof that being part of NYC doesn't make you NYC.",
-      "From Staten Island? Your borough is where New Yorkers go to feel like they're in Ohio."
+      "From Staten Island? Your borough is where New Yorkers go to feel like they're in Ohio.",
     ],
     buffalo: [
       "Buffalo? The city that makes Detroit look optimistic.",
@@ -1327,7 +1327,7 @@ export const roastDatabase = {
       "The city that peaked when McKinley got shot there.",
       "Buffalo: Where everyone's an alcoholic but they call it 'handling winter'.",
       "From Buffalo? Your city's main export is depressed college graduates.",
-      "Buffalo: Proof that God has abandoned New York State."
+      "Buffalo: Proof that God has abandoned New York State.",
     ],
     rochester: [
       "Rochester? Kodak's corpse that refuses to be buried.",
@@ -1339,7 +1339,7 @@ export const roastDatabase = {
       "Rochester: The only city where 'culture' means remembering when things were better.",
       "Where the universities are good but graduates flee immediately.",
       "Rochester: Proof that company towns die when the company does.",
-      "From Rochester? Your city's biggest achievement is being mentioned in The Office once."
+      "From Rochester? Your city's biggest achievement is being mentioned in The Office once.",
     ],
     syracuse: [
       "Syracuse? Where it snows so much even the snow gets depressed.",
@@ -1351,7 +1351,7 @@ export const roastDatabase = {
       "Syracuse: The only city where basketball season is the only season that matters.",
       "Where 'economic development' means another call center opened.",
       "Syracuse: Buffalo's even more forgotten sibling.",
-      "From Syracuse? Your city's claim to fame is having the worst weather in America."
+      "From Syracuse? Your city's claim to fame is having the worst weather in America.",
     ],
     albany: [
       "Albany? The capital that everyone forgets is the capital.",
@@ -1363,8 +1363,289 @@ export const roastDatabase = {
       "Albany: The only capital that makes Sacramento look exciting.",
       "Where 'culture' means whatever filters up from NYC.",
       "Albany: Proof that being a capital doesn't make you important.",
-      "From Albany? Your city's biggest achievement is being between NYC and Montreal."
-    ]
+      "From Albany? Your city's biggest achievement is being between NYC and Montreal.",
+    ],
+  },
+  // OHIO
+  ohio: {
+    generic: [
+      "Ohio? The state so boring, astronauts literally fled the planet to get away.",
+      "From Ohio? How's living in America's test market for mediocrity?",
+      "Ohio: Where dreams go to get a sensible job and a mortgage.",
+      "Oh, Ohio? The state that's just a giant suburb pretending to matter.",
+      "Ohio: Where the most exciting thing is leaving for somewhere else.",
+      "From Ohio? Let me guess, you have strong opinions about corn and absolutely nothing else.",
+      "Ohio: The only state where 'Hell is Real' is an actual billboard and lifestyle.",
+      "Where 'culture' means choosing between Skyline and Gold Star chili.",
+      "Ohio: Proof that being in the middle doesn't make you important.",
+      "From Ohio? Your state's biggest export is presidents who disappointed everyone.",
+      "Ohio: Where the weather can't decide what it wants and neither can the people.",
+      "The state that's basically just cornfields with depression.",
+      "Ohio: America's flyover state that even planes try to avoid.",
+      "From Ohio? You definitely tell people you're 'from near Cleveland/Cincinnati/Columbus'.",
+      "Ohio: Because someone had to make Indiana look interesting.",
+    ],
+    columbus: [
+      "Columbus? The capital city that everyone forgets is the capital.",
+      "From Columbus? How's living in Ohio's attempt at having a real city?",
+      "Columbus: Where Ohio State is the only reason anyone under 30 exists.",
+      "Oh, Columbus? The city that's just a college town with delusions of grandeur.",
+      "Columbus: Where everyone works for Nationwide or wishes they didn't.",
+      "From Columbus? Let me guess, you're either a Buckeye or wrong.",
+      "Columbus: The only city where the test market is the main market.",
+      "Where 'culture' means whatever corporate chains test here first.",
+      "Columbus: Proof that being the biggest city doesn't mean being interesting.",
+      "From Columbus? Your city's biggest achievement is having a zoo Jack Hanna made famous.",
+    ],
+    cleveland: [
+      "Cleveland? The city whose river caught fire and it wasn't even the worst part.",
+      "From Cleveland? How's that 'Renaissance' that's been coming for 40 years?",
+      "Cleveland: Where LeBron leaving twice hurt less than daily existence.",
+      "Oh, Cleveland? The city that makes Detroit say 'at least we're not Cleveland'.",
+      "Cleveland: Where the Browns' performance matches the city's outlook.",
+      "From Cleveland? Let me guess, you're explaining it's 'actually getting better now'.",
+      "Cleveland: The only city where the tourism slogan was 'At least we're not Detroit'.",
+      "Where 'culture' means the Rock Hall and clinical depression.",
+      "Cleveland: Proof that you can't polish a rust belt.",
+      "From Cleveland? Your city's biggest export is comedians who joke about leaving Cleveland.",
+    ],
+    cincinnati: [
+      "Cincinnati? The city that thinks it's Southern but Ohio won't let it leave.",
+      "From Cincinnati? How's that identity crisis working out?",
+      "Cincinnati: Where the chili has chocolate and the people have no taste.",
+      "Oh, Cincinnati? The city that's just Kentucky's hat.",
+      "Cincinnati: Where everyone pretends Skyline Chili is food.",
+      "From Cincinnati? Let me guess, you have strong opinions about your weird spaghetti sauce.",
+      "Cincinnati: The only city where 'culture' means arguing about chili recipes.",
+      "Where the best thing is being close to Kentucky bourbon.",
+      "Cincinnati: Proof that being on a river doesn't make you important anymore.",
+      "From Cincinnati? Your city's biggest achievement is making Cleveland look progressive.",
+    ],
+  },
+
+  // UTAH
+  utah: {
+    generic: [
+      "Utah? Where the mountains are high and the alcohol content is low.",
+      "From Utah? How's living in America's theocracy?",
+      "Utah: Where everyone's either Mormon or explaining why they live there anyway.",
+      "Oh, Utah? The state where separation of church and state is a foreign concept.",
+      "Utah: Where you need a family tree chart to order a beer.",
+      "From Utah? Let me guess, you're the rebellious one with only 3 kids.",
+      "Utah: The only state where coffee is contraband and wives are collectible.",
+      "Where 'nightlife' ends at 9 PM and 'diversity' means different levels of Mormon.",
+      "Utah: Proof that beautiful landscapes can't overcome weird liquor laws.",
+      "From Utah? Your state's biggest export is missionaries and repressed teenagers.",
+      "Utah: Where the Great Salt Lake is dying and so is the separation of church and state.",
+      "The state where everyone's nice because they're not allowed to be anything else.",
+      "Utah: Where 'porn shoulders' are scandalous but polygamy was traditional.",
+      "From Utah? You definitely have a secret coffee addiction.",
+      "Utah: Because someone had to make Idaho look wild.",
+    ],
+    salt_lake_city: [
+      "Salt Lake City? Where the lake is salty and the nightlife is saltier.",
+      "From SLC? How's living in the Vatican City of Mormonism?",
+      "Salt Lake City: Where the temple has more influence than city hall.",
+      "Oh, SLC? The city where you need a membership to have fun.",
+      "Salt Lake City: Where everyone's either LDS or wishes the bars stayed open later.",
+      "From SLC? Let me guess, you know which restaurants have 'real' drinks.",
+      "Salt Lake City: The only capital where the church owns more land than the government.",
+      "Where 'diversity' means both Mormon and Jack Mormon.",
+      "Salt Lake City: Proof that theocracy can have good skiing.",
+      "From SLC? Your city's biggest achievement is hosting Olympics while banning fun.",
+    ],
+    provo: [
+      "Provo? Where BYU students go to get married at 19.",
+      "From Provo? How's that eternal marriage working out?",
+      "Provo: Where the honor code is stricter than federal law.",
+      "Oh, Provo? The city where showing ankles is considered foreplay.",
+      "Provo: Where everyone's engaged by sophomore year or considered an old maid.",
+      "From Provo? Let me guess, you're married with 4 kids or a social pariah.",
+      "Provo: The only city where the police blotter is about honor code violations.",
+      "Where 'nightlife' means group dates and Disney movies.",
+      "Provo: Proof that you can have a university without critical thinking.",
+      "From Provo? Your city's biggest export is sexually frustrated return missionaries.",
+    ],
+  },
+
+  // NEW MEXICO
+  newmexico: {
+    generic: [
+      "New Mexico? Where Breaking Bad is the most honest tourism ad ever made.",
+      "From New Mexico? How's living in America's forgotten desert?",
+      "New Mexico: Where the aliens in Roswell are the most normal residents.",
+      "Oh, New Mexico? The state that has to specify it's in the USA.",
+      "New Mexico: Where everyone's either cooking meth or green chile, sometimes both.",
+      "From New Mexico? Let me guess, you're tired of explaining you don't need a passport.",
+      "New Mexico: The only state where nuclear testing improved some areas.",
+      "Where 'culture' means choosing red or green chile on everything.",
+      "New Mexico: Proof that being first to have nukes doesn't make you first in anything else.",
+      "From New Mexico? Your state's biggest export is Breaking Bad tourism and disappointment.",
+      "New Mexico: Where the Land of Enchantment is code for 'Land of Entrapment'.",
+      "The state where Georgia O'Keeffe painted bones because that's all there was.",
+      "New Mexico: Where DWI is a cultural tradition.",
+      "From New Mexico? You definitely have a cousin who was an extra in Breaking Bad.",
+      "New Mexico: Because someone had to make Arizona look humid.",
+    ],
+    albuquerque: [
+      "Albuquerque? Where everyone's trying to find Walter White's house.",
+      "From ABQ? How's living in America's high-altitude meth lab?",
+      "Albuquerque: Where the balloons are hot air and so are the job prospects.",
+      "Oh, Albuquerque? The city that's just Route 66's bathroom break.",
+      "Albuquerque: Where Breaking Bad was a documentary, not drama.",
+      "From ABQ? Let me guess, you're in the film industry (as an extra).",
+      "Albuquerque: The only city where turquoise jewelry outnumbers job opportunities.",
+      "Where 'culture' means the balloon fiesta and Better Call Saul tours.",
+      "Albuquerque: Proof that having a famous TV show doesn't improve reality.",
+      "From ABQ? Your city's biggest achievement is making people think meth labs are tourist attractions.",
+    ],
+    santa_fe: [
+      "Santa Fe? Where trust fund artists go to find themselves and lose money.",
+      "From Santa Fe? How's that adobe architecture hiding the poverty?",
+      "Santa Fe: Where everything's turquoise and overpriced.",
+      "Oh, Santa Fe? The city that's just Sedona for people who think they're sophisticated.",
+      "Santa Fe: Where Georgia O'Keeffe is still the most interesting resident and she's dead.",
+      "From Santa Fe? Let me guess, you're an artist or serving artists overpriced lattes.",
+      "Santa Fe: The only city where 'authentic' means marked up 500%.",
+      "Where 'culture' is performed for tourists who buy dream catchers made in China.",
+      "Santa Fe: Proof that you can't paint over economic problems with turquoise.",
+      "From Santa Fe? Your city's biggest export is fake Native American art to guilty liberals.",
+    ],
+  },
+
+  // INDIANA
+  indiana: {
+    generic: [
+      "Indiana? Where excitement goes to die in a cornfield.",
+      "From Indiana? How's living in America's drive-through state?",
+      "Indiana: Where the most interesting thing is the Indianapolis 500, one day a year.",
+      "Oh, Indiana? The state that's just Ohio without the personality.",
+      "Indiana: Where everyone's a Hoosier but nobody knows what that means.",
+      "From Indiana? Let me guess, you're in corn, insurance, or denial.",
+      "Indiana: The only state where meth labs outnumber attractions.",
+      "Where 'culture' means the Indy 500 and diabetes.",
+      "Indiana: Proof that being in the middle of everything means being nothing.",
+      "From Indiana? Your state's biggest export is boredom and basketball players.",
+      "Indiana: Where Mike Pence makes perfect sense.",
+      "The state where forward thinking is considered suspicious.",
+      "Indiana: Where Gary exists to make the rest look good by comparison.",
+      "From Indiana? You definitely have more guns than books.",
+      "Indiana: Because someone had to make Ohio look cosmopolitan.",
+    ],
+    indianapolis: [
+      "Indianapolis? Where the cars go in circles because there's nowhere else to go.",
+      "From Indy? How's living in a city that exists for one race?",
+      "Indianapolis: Where the speedway is fast but the city isn't.",
+      "Oh, Indianapolis? The city that's just a giant suburb with a racetrack.",
+      "Indianapolis: Where everyone works in insurance or healthcare, equally exciting.",
+      "From Indy? Let me guess, you've never actually been to the 500.",
+      "Indianapolis: The only city where 'downtown' is a relative term.",
+      "Where 'culture' means the month of May and then nothing.",
+      "Indianapolis: Proof that being a state capital doesn't require personality.",
+      "From Indy? Your city's biggest achievement is hosting cars driving in circles.",
+    ],
+    gary: [
+      "Gary? Where the American Dream went to die and decompose.",
+      "From Gary? How's living in America's most famous ghost town?",
+      "Gary: Where the population decline is the only thing growing.",
+      "Oh, Gary? The city that makes Detroit look like a success story.",
+      "Gary: Where the Jackson 5 escaped from and never looked back.",
+      "From Gary? Let me guess, you're either leaving or lying about being from there.",
+      "Gary: The only city where urban explorers outnumber residents.",
+      "Where 'redevelopment' has been coming since the 1970s.",
+      "Gary: Proof that steel rusts and so do dreams.",
+      "From Gary? Your city's biggest export is cautionary tales and the Jackson 5.",
+    ],
+  },
+
+  // MINNESOTA
+  minnesota: {
+    generic: [
+      "Minnesota? Where 'Minnesota Nice' is code for passive-aggressive.",
+      "From Minnesota? How's that Scandinavian depression disguised as politeness?",
+      "Minnesota: Where it's too cold to be mean to your face.",
+      "Oh, Minnesota? The state that's just Canada's wannabe little brother.",
+      "Minnesota: Where everyone's Lutheran and hiding their true feelings.",
+      "From Minnesota? Let me guess, you say 'ope' and apologize for existing.",
+      "Minnesota: The only state where hot dish is cuisine and emotion is a sin.",
+      "Where 'diversity' means Norwegians AND Swedes.",
+      "Minnesota: Proof that being nice and being real are mutually exclusive.",
+      "From Minnesota? Your state's biggest export is passive aggression and Prince.",
+      "Minnesota: Where the lakes are plentiful and the seasoning is not.",
+      "The state where ketchup is considered spicy.",
+      "Minnesota: Where everyone's too polite to mention the suicide rates.",
+      "From Minnesota? You definitely have a cabin 'up north' you mention constantly.",
+      "Minnesota: Because someone had to make Wisconsin look exciting.",
+    ],
+    minneapolis: [
+      "Minneapolis? Where the winters are long and the protests are longer.",
+      "From Minneapolis? How's that progressive paradise working out?",
+      "Minneapolis: Where everyone bikes in -20° to prove they're tough.",
+      "Oh, Minneapolis? The city that burned itself to make a point.",
+      "Minneapolis: Where the Twin Cities hate each other like actual siblings.",
+      "From Minneapolis? Let me guess, you're too cool for St. Paul.",
+      "Minneapolis: The only city where gentrification and riots compete for blocks.",
+      "Where 'Minnesota Nice' meets 'Minneapolis Ice'.",
+      "Minneapolis: Proof that liberal cities can still have racist cops.",
+      "From Minneapolis? Your city's biggest achievement is making St. Paul look stable.",
+    ],
+    st_paul: [
+      "St. Paul? Minneapolis's boring bureaucratic twin.",
+      "From St. Paul? How's being the capital nobody remembers is the capital?",
+      "St. Paul: Where state employees go to slowly freeze.",
+      "Oh, St. Paul? The city that's just Minneapolis's less attractive sibling.",
+      "St. Paul: Where everyone wishes they lived in Minneapolis.",
+      "From St. Paul? Let me guess, you're defensive about not being Minneapolis.",
+      "St. Paul: The only capital where the best thing is being next to a better city.",
+      "Where 'culture' means whatever Minneapolis didn't want.",
+      "St. Paul: Proof that being a twin doesn't mean being equal.",
+      "From St. Paul? Your city's biggest achievement is having lower rent than Minneapolis.",
+    ],
+  },
+
+  // WISCONSIN
+  wisconsin: {
+    generic: [
+      "Wisconsin? Where alcoholism is a state pastime and cheese is a food group.",
+      "From Wisconsin? How's that functioning alcoholism you call culture?",
+      "Wisconsin: Where everyone's drunk, dairy-filled, and in denial.",
+      "Oh, Wisconsin? The state that's just a giant drunk tailgate.",
+      "Wisconsin: Where beer is cheaper than water and it shows.",
+      "From Wisconsin? Let me guess, you're drunk right now.",
+      "Wisconsin: The only state where DUIs are still misdemeanors because everyone has one.",
+      "Where 'culture' means different ways to eat cheese and get drunk.",
+      "Wisconsin: Proof that you can't build a society on beer and dairy.",
+      "From Wisconsin? Your state's biggest export is cheese and liver disease.",
+      "Wisconsin: Where the Packers are more important than education.",
+      "The state where 'Wisconsin Nice' means 'drunk but friendly'.",
+      "Wisconsin: Where every meal is a heart attack waiting to happen.",
+      "From Wisconsin? You definitely have a DUI and a Packers tattoo.",
+      "Wisconsin: Because someone had to make Minnesota look sober.",
+    ],
+    milwaukee: [
+      "Milwaukee? Where the beer made it famous and the segregation keeps it infamous.",
+      "From Milwaukee? How's living in America's most segregated city?",
+      "Milwaukee: Where everyone's either drunk or making others drunk.",
+      "Oh, Milwaukee? The city that's just Chicago's drunk, racist uncle.",
+      "Milwaukee: Where the breweries are integrated but the neighborhoods aren't.",
+      "From Milwaukee? Let me guess, you live in the suburbs and work downtown.",
+      "Milwaukee: The only city where beer can't wash away the racial tension.",
+      "Where 'culture' means breweries and pretending racism doesn't exist.",
+      "Milwaukee: Proof that beer can't solve systemic problems.",
+      "From Milwaukee? Your city's biggest achievement is making beer while being the worst place for Black Americans.",
+    ],
+    madison: [
+      "Madison? Where college liberals pretend Wisconsin isn't conservative.",
+      "From Madison? How's that liberal bubble in a red state?",
+      "Madison: Where everyone's progressive until they graduate.",
+      "Oh, Madison? The city that's just Berkeley for people who like snow.",
+      "Madison: Where the protests are constant and the results are minimal.",
+      "From Madison? Let me guess, you're a student or never left after college.",
+      "Madison: The only city where the capitol is less important than the campus.",
+      "Where 'culture' means farmers markets and forgetting the rest of Wisconsin exists.",
+      "Madison: Proof that college towns can't change entire states.",
+      "From Madison? Your city's biggest achievement is irritating the rest of Wisconsin.",
+    ],
   },
 
   // FLORIDA (Expanded)
@@ -1384,7 +1665,7 @@ export const roastDatabase = {
       "The state that's just a retirement home with a meth lab in the garage.",
       "Florida: Where everyone's on bath salts, including the alligators.",
       "From Florida? You definitely have a DUI and an alligator story.",
-      "Florida: God's waiting room with a Disney World gift shop."
+      "Florida: God's waiting room with a Disney World gift shop.",
     ],
     miami: [
       "Miami? The city where everyone pretends to be rich on Instagram but lives with 6 roommates.",
@@ -1406,7 +1687,7 @@ export const roastDatabase = {
       "From Miami? The city where crypto bros go to launder their personalities.",
       "Miami: Where the only thing faker than the people is the skyline.",
       "Miami: The city where everyone's a CEO of a company that doesn't exist.",
-      "From Miami? How's that 'Miami time' working out for actual employment?"
+      "From Miami? How's that 'Miami time' working out for actual employment?",
     ],
     orlando: [
       "Orlando? Oh, you mean Disney's parking lot?",
@@ -1428,7 +1709,7 @@ export const roastDatabase = {
       "From Orlando? The city that's one hurricane away from becoming Atlantis.",
       "Orlando: Where the humidity is more oppressive than working for the Mouse.",
       "Orlando: The only city where grown adults fight about Star Wars in public.",
-      "From Orlando? Your entire economy is built on fictional characters and it shows."
+      "From Orlando? Your entire economy is built on fictional characters and it shows.",
     ],
     tampa: [
       "Tampa? Jacksonville's trashy sister with a strip club addiction.",
@@ -1445,7 +1726,7 @@ export const roastDatabase = {
       "Where 'nightlife' means getting drunk at a chain restaurant.",
       "Tampa: St. Petersburg's ugly sibling across the bridge.",
       "From Tampa? You definitely have a boat you use twice a year.",
-      "Tampa: Where the only culture is bacterial."
+      "Tampa: Where the only culture is bacterial.",
     ],
     jacksonville: [
       "Jacksonville? The city so boring even Florida Man avoids it.",
@@ -1462,7 +1743,7 @@ export const roastDatabase = {
       "The city that's just a giant suburb with no actual city.",
       "Jacksonville: Where dreams go to get a DUI.",
       "From Jacksonville? Your city is what happens when a truck stop becomes self-aware.",
-      "Jacksonville: Proof that not all of Florida can be fun."
+      "Jacksonville: Proof that not all of Florida can be fun.",
     ],
     tallahassee: [
       "Tallahassee? The capital nobody remembers is in Florida.",
@@ -1474,7 +1755,7 @@ export const roastDatabase = {
       "Tallahassee: The only capital that feels like a small town with big town traffic.",
       "Where 'culture' means football season and that's it.",
       "Tallahassee: Proof that being a capital doesn't make you relevant.",
-      "From Tallahassee? Your city's biggest achievement is not being Jacksonville."
+      "From Tallahassee? Your city's biggest achievement is not being Jacksonville.",
     ],
     fort_lauderdale: [
       "Fort Lauderdale? Miami's boring older sibling who goes to bed at 10 PM.",
@@ -1486,7 +1767,7 @@ export const roastDatabase = {
       "Fort Lauderdale: The only city where the beach is nice but the people are beige.",
       "Where 'nightlife' means wine bars that close at 11.",
       "Fort Lauderdale: Miami's retirement community.",
-      "From Fort Lauderdale? Your city's biggest flex is having an airport people use to go to Miami."
+      "From Fort Lauderdale? Your city's biggest flex is having an airport people use to go to Miami.",
     ],
     naples: [
       "Naples? Where rich people go to die slowly in the sun.",
@@ -1498,8 +1779,8 @@ export const roastDatabase = {
       "Naples: The only city where 8 PM is considered late night.",
       "Where 'culture' means which country club has the best buffet.",
       "Naples: Proof that money can't buy a personality.",
-      "From Naples? Your city's biggest event is when someone under 65 visits."
-    ]
+      "From Naples? Your city's biggest event is when someone under 65 visits.",
+    ],
   },
 
   // COLORADO (Expanded)
@@ -1519,7 +1800,7 @@ export const roastDatabase = {
       "The state where 'Native' bumper stickers are made in China.",
       "Colorado: Where everyone complains about transplants while being one.",
       "From Colorado? Your entire identity is elevation and THC percentage.",
-      "Colorado: Where the mountains are beautiful and the people are insufferable."
+      "Colorado: Where the mountains are beautiful and the people are insufferable.",
     ],
     denver: [
       "Denver? The city where everyone's a transplant but hates other transplants.",
@@ -1536,7 +1817,7 @@ export const roastDatabase = {
       "The city where everyone's 'outdoorsy' but drives everywhere.",
       "Denver: Boulder's less successful, more stoned sibling.",
       "From Denver? Your neighborhood was 'up and coming' when you moved in and still is.",
-      "Denver: Where the air is thin and so are the personalities."
+      "Denver: Where the air is thin and so are the personalities.",
     ],
     boulder: [
       "Boulder? The city where trust funds go to do yoga.",
@@ -1553,7 +1834,7 @@ export const roastDatabase = {
       "The city where diversity means different shades of white.",
       "Boulder: Where your dog eats better than most Americans.",
       "From Boulder? Your idea of struggle is when Whole Foods runs out of kombucha.",
-      "Boulder: Proof that money can't buy self-awareness."
+      "Boulder: Proof that money can't buy self-awareness.",
     ],
     colorado_springs: [
       "Colorado Springs? Where the military meets meth in God's country.",
@@ -1570,7 +1851,7 @@ export const roastDatabase = {
       "The city that proves you can have legal weed and still be boring.",
       "Colorado Springs: Where everyone's wife sells essential oils.",
       "From Colorado Springs? Your city is just a giant strip mall with a nice view.",
-      "Colorado Springs: Because someone had to make Denver look progressive."
+      "Colorado Springs: Because someone had to make Denver look progressive.",
     ],
     fort_collins: [
       "Fort Collins? Boulder's less pretentious cousin who still tries too hard.",
@@ -1582,7 +1863,7 @@ export const roastDatabase = {
       "Fort Collins: The only city where having 50 breweries counts as diversity.",
       "Where 'culture' means drunk college kids and craft beer snobs.",
       "Fort Collins: Denver's boring younger sibling who went to state school.",
-      "From Fort Collins? Your city's biggest achievement is being mentioned as 'near Denver'."
+      "From Fort Collins? Your city's biggest achievement is being mentioned as 'near Denver'.",
     ],
     aspen: [
       "Aspen? Where the 1% go to pretend they're outdoorsy.",
@@ -1594,8 +1875,70 @@ export const roastDatabase = {
       "Aspen: The only city where the help has to commute from another time zone.",
       "Where 'local' means you've been priced out for only 5 years.",
       "Aspen: Proof that money can buy mountains but not class.",
-      "From Aspen? Your city's biggest export is Instagram posts from people who don't live there."
-    ]
+      "From Aspen? Your city's biggest export is Instagram posts from people who don't live there.",
+    ],
+  },
+
+  // NEVADA
+  nevada: {
+    generic: [
+      "Nevada? Where everything that's illegal elsewhere comes to die with dignity.",
+      "From Nevada? How's living in America's adult playground treating your soul?",
+      "Nevada: Where the desert is less empty than people's bank accounts after visiting.",
+      "Oh, Nevada? The state that exists solely because Utah needed somewhere to sin.",
+      "Nevada: Where prostitution is legal but hope is criminal.",
+      "From Nevada? Let me guess, you work in gaming, entertainment, or 'entertainment'.",
+      "Nevada: The only state where losing everything is a tourist attraction.",
+      "Where 'culture' means whatever happens between poker hands.",
+      "Nevada: Proof that you can legalize everything and still be miserable.",
+      "From Nevada? Your state's biggest export is broken dreams and STDs.",
+      "Nevada: Where the house always wins and the people always lose.",
+      "The state that's just California's ashtray with slot machines.",
+      "Nevada: Where nuclear testing left less damage than casino tourism.",
+      "From Nevada? You definitely know someone who lost their house at a blackjack table.",
+      "Nevada: Because someone had to make Utah look reasonable.",
+    ],
+    las_vegas: [
+      "Las Vegas? Where dignity goes to die in neon lights.",
+      "From Vegas? How's living in Satan's snow globe?",
+      "Las Vegas: Where everyone's either serving drinks, taking clothes off, or losing money.",
+      "Oh, Vegas? The city that's just a giant toilet with a light show.",
+      "Las Vegas: Where 'what happens here stays here' because nobody wants to remember.",
+      "From Vegas? Let me guess, you work nights and sleep through the shame.",
+      "Las Vegas: The only city where divorce attorneys have drive-through service.",
+      "Where 'culture' is Cirque du Soleil performing for drunk accountants.",
+      "Las Vegas: Proof that you can't build paradise on vice and buffets.",
+      "From Vegas? Your city's biggest achievement is convincing people losing money is entertainment.",
+      "Las Vegas: Where the water runs out faster than the tourists' money.",
+      "The city that's dying of thirst in every possible way.",
+      "Las Vegas: A monument to humanity's worst impulses with a Bellagio fountain.",
+      "From Vegas? You definitely have stories that end with 'and that's why I don't drink tequila anymore'.",
+      "Las Vegas: Where the American Dream goes to get alcohol poisoning.",
+    ],
+    reno: [
+      "Reno? Las Vegas's methed-out little brother.",
+      "From Reno? How's being the 'Biggest Little Disappointment' in the world?",
+      "Reno: Where people go when they can't afford to lose money in Vegas.",
+      "Oh, Reno? The city that's just Vegas without the budget for shame.",
+      "Reno: Where divorces outnumber marriages and everybody's fine with that.",
+      "From Reno? Let me guess, you tell people you're 'near Tahoe'.",
+      "Reno: The only city where being a bail bondsman is a growth industry.",
+      "Where 'nightlife' means which casino has the cheapest drinks.",
+      "Reno: Proof that you can be the biggest little city and still be irrelevant.",
+      "From Reno? Your city's biggest achievement is being mentioned in Johnny Cash songs about failure.",
+    ],
+    henderson: [
+      "Henderson? Las Vegas's boring suburb where dealers go to raise kids.",
+      "From Henderson? How's pretending you don't live in Vegas?",
+      "Henderson: Where Vegas residents move when they have children and regrets.",
+      "Oh, Henderson? The city that exists because even Vegas needs suburbs.",
+      "Henderson: Where everyone works on the Strip but lives in denial.",
+      "From Henderson? Let me guess, you have a normal job but your neighbor's a stripper.",
+      "Henderson: The only city where suburban normalcy feels like rebellion.",
+      "Where 'family-friendly' means the casinos are a 20-minute drive.",
+      "Henderson: Proof that you can't escape Vegas just by moving to the suburbs.",
+      "From Henderson? Your city's biggest achievement is having chain restaurants instead of casinos.",
+    ],
   },
 
   // PACIFIC NORTHWEST (Expanded)
@@ -1615,7 +1958,7 @@ export const roastDatabase = {
       "The state where everyone's 'polite' but nobody's actually nice.",
       "Washington: Where depression is a personality trait.",
       "From Washington? You definitely own 17 rain jackets but refuse to use an umbrella.",
-      "Washington: Oregon's more successful but equally miserable sibling."
+      "Washington: Oregon's more successful but equally miserable sibling.",
     ],
     seattle: [
       "Seattle? The city where the Seattle Freeze isn't about the weather.",
@@ -1632,7 +1975,7 @@ export const roastDatabase = {
       "The city that ruined coffee for the rest of America.",
       "Seattle: Where everyone has a therapist but nobody has friends.",
       "From Seattle? You definitely own a Subaru you can't parallel park.",
-      "Seattle: San Francisco without the weather or personality."
+      "Seattle: San Francisco without the weather or personality.",
     ],
     spokane: [
       "Spokane? Seattle's meth-head cousin that everyone pretends doesn't exist.",
@@ -1649,7 +1992,7 @@ export const roastDatabase = {
       "The city that exists solely to make people appreciate Seattle.",
       "Spokane: Where the most culture you'll find is in the yogurt aisle.",
       "From Spokane? You definitely have a lifted truck and a criminal record.",
-      "Spokane: Because Eastern Washington needed a capital of sadness."
+      "Spokane: Because Eastern Washington needed a capital of sadness.",
     ],
     tacoma: [
       "Tacoma? Seattle's smelly little brother with an inferiority complex.",
@@ -1661,7 +2004,7 @@ export const roastDatabase = {
       "Tacoma: The only city where the smell of success is literally sulfur.",
       "Where 'culture' means that glass museum everyone visits once.",
       "Tacoma: Proof that being near Seattle doesn't make you Seattle.",
-      "From Tacoma? Your city's biggest achievement is being mentioned in a Neko Case song."
+      "From Tacoma? Your city's biggest achievement is being mentioned in a Neko Case song.",
     ],
     vancouver_wa: [
       "Vancouver? No, not the good one in Canada, the one in Washington nobody asked for.",
@@ -1673,8 +2016,8 @@ export const roastDatabase = {
       "Vancouver, WA: The only city that makes Tacoma look like it has an identity.",
       "Where 'culture' means driving to Portland.",
       "Vancouver: Proof that tax benefits can't create a personality.",
-      "From Vancouver, WA? Your city exists solely to confuse people and avoid taxes."
-    ]
+      "From Vancouver, WA? Your city exists solely to confuse people and avoid taxes.",
+    ],
   },
 
   oregon: {
@@ -1693,7 +2036,7 @@ export const roastDatabase = {
       "The state where 'Keep It Weird' means 'Keep It White'.",
       "Oregon: Where everyone's an environmentalist who drives everywhere.",
       "From Oregon? Your personality is either 'Portland' or 'not Portland'.",
-      "Oregon: Proof that you can be progressive and backwards at the same time."
+      "Oregon: Proof that you can be progressive and backwards at the same time.",
     ],
     portland: [
       "Portland? The city where young people go to retire.",
@@ -1710,7 +2053,7 @@ export const roastDatabase = {
       "The city where protesting is a hobby and employment is optional.",
       "Portland: Where strip clubs per capita outnumber jobs.",
       "From Portland? Your city is what happens when a liberal arts college becomes sentient.",
-      "Portland: Proof that you can put a bird on it but you can't put a job on it."
+      "Portland: Proof that you can put a bird on it but you can't put a job on it.",
     ],
     eugene: [
       "Eugene? Portland's hippie cousin who never left the 70s.",
@@ -1722,7 +2065,7 @@ export const roastDatabase = {
       "Eugene: The only city where granola isn't just breakfast, it's a lifestyle.",
       "Where 'culture' means outdoor concerts you can smell from three miles away.",
       "Eugene: Salem's more stoned, less functional sibling.",
-      "From Eugene? Your city's biggest achievement is making Portland look corporate."
+      "From Eugene? Your city's biggest achievement is making Portland look corporate.",
     ],
     salem: [
       "Salem? Oregon's capital that everyone forgets is the capital.",
@@ -1734,7 +2077,7 @@ export const roastDatabase = {
       "Salem: The only capital city that makes Olympia look exciting.",
       "Where 'culture' means the state fair once a year.",
       "Salem: Proof that being a capital doesn't mean being interesting.",
-      "From Salem? Your city's biggest achievement is having a Trader Joe's."
+      "From Salem? Your city's biggest achievement is having a Trader Joe's.",
     ],
     bend: [
       "Bend? Where rich Californians go to cosplay as outdoorsy.",
@@ -1746,7 +2089,7 @@ export const roastDatabase = {
       "Bend: The only city where 'local' means you moved there 5 years ago.",
       "Where 'affordable' used to be the selling point, now it's just a memory.",
       "Bend: Proof that outdoor access can't prevent gentrification.",
-      "From Bend? Your city went from cool to bougie faster than you can say 'brewery'."
+      "From Bend? Your city went from cool to bougie faster than you can say 'brewery'.",
     ],
     medford: [
       "Medford? Oregon's meth capital with a Shakespeare festival nearby.",
@@ -1758,8 +2101,8 @@ export const roastDatabase = {
       "Medford: The only city where the pear orchards are more cultured than the people.",
       "Where 'entertainment' means driving to Ashland.",
       "Medford: Proof that not all of Oregon is quirky and cool.",
-      "From Medford? Your city is what happens when rural meets rock bottom."
-    ]
+      "From Medford? Your city is what happens when rural meets rock bottom.",
+    ],
   },
 
   // ILLINOIS (Expanded)
@@ -1779,7 +2122,7 @@ export const roastDatabase = {
       "The state that makes Wisconsin look well-run.",
       "Illinois: Where property taxes are higher than the Willis Tower.",
       "From Illinois? You definitely have opinions about which suburb is 'basically Chicago'.",
-      "Illinois: Because someone had to make Indiana look good."
+      "Illinois: Because someone had to make Indiana look good.",
     ],
     chicago: [
       "Chicago? The city that puts ketchup on hot dogs and calls it culture.",
@@ -1796,7 +2139,7 @@ export const roastDatabase = {
       "The city that thinks putting meat in a dish makes it pizza.",
       "Chicago: Where everyone's from the 'Southside' until you ask which part.",
       "From Chicago? You definitely own a Cubs jersey but can't name five current players.",
-      "Chicago: LA's weather with Detroit's crime rate."
+      "Chicago: LA's weather with Detroit's crime rate.",
     ],
     springfield: [
       "Springfield? The city famous for Lincoln and The Simpsons, both fictional at this point.",
@@ -1808,7 +2151,7 @@ export const roastDatabase = {
       "Springfield: The only capital where the most exciting thing is the state fair.",
       "Where 'culture' means Lincoln sites and sadness.",
       "Springfield: Proof that being a capital doesn't make you capital-worthy.",
-      "From Springfield? Your city's biggest achievement is being Homer Simpson's hometown."
+      "From Springfield? Your city's biggest achievement is being Homer Simpson's hometown.",
     ],
     rockford: [
       "Rockford? Chicago's meth-head cousin nobody talks about.",
@@ -1820,7 +2163,7 @@ export const roastDatabase = {
       "Rockford: The only city where urban decay is the architectural style.",
       "Where 'hope' is a four-letter word that nobody uses.",
       "Rockford: Proof that not all of Illinois' problems are in Chicago.",
-      "From Rockford? Your city's biggest export is people fleeing to anywhere else."
+      "From Rockford? Your city's biggest export is people fleeing to anywhere else.",
     ],
     peoria: [
       "Peoria? Where everything plays because there's nothing else to do.",
@@ -1832,8 +2175,8 @@ export const roastDatabase = {
       "Peoria: The only city where 'playing in Peoria' means you've given up.",
       "Where 'culture' means the civic center gets a touring Broadway show once a year.",
       "Peoria: Proof that being centrally located doesn't make you central to anything.",
-      "From Peoria? Your city's biggest achievement is being a metaphor for Middle America."
-    ]
+      "From Peoria? Your city's biggest achievement is being a metaphor for Middle America.",
+    ],
   },
 
   // MICHIGAN (Expanded)
@@ -1853,7 +2196,7 @@ export const roastDatabase = {
       "The state where celebrating a functional government would be premature.",
       "Michigan: Because someone had to make Ohio feel better about itself.",
       "From Michigan? Your state is just Canada's ashtray.",
-      "Michigan: Where hope goes to rust."
+      "Michigan: Where hope goes to rust.",
     ],
     detroit: [
       "Detroit? The city that makes Mad Max look like a documentary.",
@@ -1870,7 +2213,7 @@ export const roastDatabase = {
       "The city where Robocop was an optimistic portrayal.",
       "Detroit: Cleveland without the charm.",
       "From Detroit? Your city's biggest achievement is making Flint look good.",
-      "Detroit: Proof that rock bottom has a basement."
+      "Detroit: Proof that rock bottom has a basement.",
     ],
     grand_rapids: [
       "Grand Rapids? Detroit's boring Christian cousin.",
@@ -1882,7 +2225,7 @@ export const roastDatabase = {
       "Grand Rapids: The only city where Art Prize can't make up for the lack of culture.",
       "Where 'diversity' means different denominations of Christianity.",
       "Grand Rapids: Proof that hipsters and religious fundamentalists can coexist boringly.",
-      "From Grand Rapids? Your city's biggest achievement is being better than Detroit, which isn't saying much."
+      "From Grand Rapids? Your city's biggest achievement is being better than Detroit, which isn't saying much.",
     ],
     ann_arbor: [
       "Ann Arbor? The city that thinks a university makes it sophisticated.",
@@ -1894,7 +2237,7 @@ export const roastDatabase = {
       "Ann Arbor: The only city where everyone's liberal until it comes to football.",
       "Where 'culture' means whatever the university imports.",
       "Ann Arbor: Proof that education doesn't cure pretentiousness.",
-      "From Ann Arbor? Your city's entire identity is a school that's good at disappointing in football."
+      "From Ann Arbor? Your city's entire identity is a school that's good at disappointing in football.",
     ],
     lansing: [
       "Lansing? The capital nobody remembers is Michigan's capital.",
@@ -1906,7 +2249,7 @@ export const roastDatabase = {
       "Lansing: The only capital that makes Harrisburg look thrilling.",
       "Where 'culture' means whatever East Lansing does.",
       "Lansing: Proof that being a capital doesn't require being interesting.",
-      "From Lansing? Your city's biggest achievement is being next to a university."
+      "From Lansing? Your city's biggest achievement is being next to a university.",
     ],
     flint: [
       "Flint? Where the water's been trying to kill you since 2014.",
@@ -1918,8 +2261,8 @@ export const roastDatabase = {
       "Flint: The only city where 'progress' means the water might kill you slower.",
       "Where 'infrastructure' is a foreign word and clean water is a luxury.",
       "Flint: Proof that America treats some cities like third-world countries.",
-      "From Flint? Your city's biggest export is cautionary tales and lawsuits."
-    ]
+      "From Flint? Your city's biggest export is cautionary tales and lawsuits.",
+    ],
   },
 
   // SOUTHERN STATES (Expanded)
@@ -1934,7 +2277,7 @@ export const roastDatabase = {
       "Alabama: The only state where the stereotype writes itself.",
       "Where 'culture' means which NASCAR driver you root for.",
       "Alabama: Proof that you can be first alphabetically and last in everything else.",
-      "From Alabama? Your state's biggest export is embarrassment and failed quarterbacks."
+      "From Alabama? Your state's biggest export is embarrassment and failed quarterbacks.",
     ],
     birmingham: [
       "Birmingham? The city that's just Atlanta's racist uncle who never left the 60s.",
@@ -1946,7 +2289,7 @@ export const roastDatabase = {
       "Birmingham: The only city where the past is more alive than the present.",
       "Where 'progress' means they took down some of the Confederate statues.",
       "Birmingham: Atlanta's embarrassing relative nobody invites to family gatherings.",
-      "From Birmingham? Your city's biggest achievement is being mentioned in Letter from Birmingham Jail."
+      "From Birmingham? Your city's biggest achievement is being mentioned in Letter from Birmingham Jail.",
     ],
     mobile: [
       "Mobile? New Orleans' boring cousin who forgot how to party.",
@@ -1958,7 +2301,7 @@ export const roastDatabase = {
       "Mobile: The only city where 'culture' means a second-rate Mardi Gras.",
       "Where the humidity is the only thing thicker than the accents.",
       "Mobile: Proof that having a port doesn't make you important anymore.",
-      "From Mobile? Your city's biggest export is disappointment and hurricane damage."
+      "From Mobile? Your city's biggest export is disappointment and hurricane damage.",
     ],
     montgomery: [
       "Montgomery? The capital that peaked during the Confederacy and it shows.",
@@ -1970,7 +2313,7 @@ export const roastDatabase = {
       "Montgomery: The only capital where the past is more developed than the future.",
       "Where 'progress' means admitting the Civil War is over.",
       "Montgomery: Proof that being first capital of the Confederacy isn't a flex.",
-      "From Montgomery? Your city's biggest achievement is being where Rosa Parks said no."
+      "From Montgomery? Your city's biggest achievement is being where Rosa Parks said no.",
     ],
     huntsville: [
       "Huntsville? Where rocket scientists live in the 1950s.",
@@ -1982,8 +2325,8 @@ export const roastDatabase = {
       "Huntsville: The only city in Alabama trying to be Austin but achieving Akron.",
       "Where 'culture' means the space museum and chain restaurants.",
       "Huntsville: Proof that smart people can still choose to live in Alabama.",
-      "From Huntsville? Your city's biggest achievement is convincing tech companies Alabama exists."
-    ]
+      "From Huntsville? Your city's biggest achievement is convincing tech companies Alabama exists.",
+    ],
   },
 
   // SOUTH CAROLINA (Expanded)
@@ -1998,7 +2341,7 @@ export const roastDatabase = {
       "South Carolina: The only state where coastal flooding is karma.",
       "Where everyone's either military or wishes they were Confederate military.",
       "South Carolina: North Carolina's embarrassing sibling who peaked in the 1850s.",
-      "From South Carolina? Your state's biggest export is disappointment and sweet tea."
+      "From South Carolina? Your state's biggest export is disappointment and sweet tea.",
     ],
     charleston: [
       "Charleston? The city where plantation tours are the main economy.",
@@ -2010,7 +2353,7 @@ export const roastDatabase = {
       "Charleston: The only city where 'historic' means 'built on suffering'.",
       "Where 'culture' means mint juleps and willful ignorance.",
       "Charleston: Savannah's more pretentious cousin with worse food.",
-      "From Charleston? Your city's idea of progress is admitting slavery was 'problematic'."
+      "From Charleston? Your city's idea of progress is admitting slavery was 'problematic'.",
     ],
     columbia: [
       "Columbia? The capital that's as hot as hell and twice as boring.",
@@ -2022,7 +2365,7 @@ export const roastDatabase = {
       "Columbia: The only capital where the best thing is the airport to leave.",
       "Where 'culture' means whatever the university provides.",
       "Columbia: Proof that being centrally located doesn't make you central to anything.",
-      "From Columbia? Your city's biggest achievement is being halfway to better places."
+      "From Columbia? Your city's biggest achievement is being halfway to better places.",
     ],
     greenville: [
       "Greenville? Where conservatives go to pretend they're cultured.",
@@ -2034,7 +2377,7 @@ export const roastDatabase = {
       "Greenville: The only city where BMW is the biggest culture import.",
       "Where 'diversity' means different types of churches.",
       "Greenville: Proof that you can polish a turd but it's still South Carolina.",
-      "From Greenville? Your city's biggest achievement is being less embarrassing than the rest of SC."
+      "From Greenville? Your city's biggest achievement is being less embarrassing than the rest of SC.",
     ],
     myrtle_beach: [
       "Myrtle Beach? Where spring breakers and retirees go to make bad decisions.",
@@ -2046,8 +2389,8 @@ export const roastDatabase = {
       "Myrtle Beach: The only beach town where the ocean is the cleanest thing.",
       "Where 'culture' means mini golf and all-you-can-eat buffets.",
       "Myrtle Beach: Proof that beaches can't fix bad taste.",
-      "From Myrtle Beach? Your city's biggest export is STDs and regrettable tattoos."
-    ]
+      "From Myrtle Beach? Your city's biggest export is STDs and regrettable tattoos.",
+    ],
   },
 
   // NORTH CAROLINA (Expanded)
@@ -2062,7 +2405,7 @@ export const roastDatabase = {
       "North Carolina: The only state where college sports are more important than voting rights.",
       "Where 'culture' means arguing about Duke vs. UNC while ignoring actual problems.",
       "North Carolina: Virginia's less sophisticated cousin with more NASCAR.",
-      "From North Carolina? Your state's biggest achievement is convincing people it's not South Carolina."
+      "From North Carolina? Your state's biggest achievement is convincing people it's not South Carolina.",
     ],
     charlotte: [
       "Charlotte? The city trying to be Atlanta but with less personality.",
@@ -2074,7 +2417,7 @@ export const roastDatabase = {
       "Charlotte: The only city where 'diverse' means different types of bankers.",
       "Where 'nightlife' means networking events with overpriced drinks.",
       "Charlotte: Atlanta's boring cousin who went into finance instead of music.",
-      "From Charlotte? Your city's idea of excitement is a new strip mall with a Whole Foods."
+      "From Charlotte? Your city's idea of excitement is a new strip mall with a Whole Foods.",
     ],
     raleigh: [
       "Raleigh? The city that exists solely for government jobs and college basketball.",
@@ -2086,7 +2429,7 @@ export const roastDatabase = {
       "Raleigh: The only city where the most exciting thing is legislative session.",
       "Where 'diversity' means having both NC State and UNC fans.",
       "Raleigh: Charlotte's less successful, more bureaucratic twin.",
-      "From Raleigh? Your city's biggest achievement is being the capital of mediocrity."
+      "From Raleigh? Your city's biggest achievement is being the capital of mediocrity.",
     ],
     durham: [
       "Durham? Where Duke University is the only thing preventing total collapse.",
@@ -2098,7 +2441,7 @@ export const roastDatabase = {
       "Durham: The only city where tobacco money built a university that tells you not to smoke.",
       "Where 'culture' means overpriced restaurants in former warehouses.",
       "Durham: Proof that having a good university doesn't fix a broken city.",
-      "From Durham? Your city's biggest achievement is not being as boring as Raleigh."
+      "From Durham? Your city's biggest achievement is not being as boring as Raleigh.",
     ],
     asheville: [
       "Asheville? Where trust fund hippies go to find themselves and price out locals.",
@@ -2110,7 +2453,7 @@ export const roastDatabase = {
       "Asheville: The only city where drum circles are considered culture.",
       "Where 'local' means you've been priced out for only 5 years.",
       "Asheville: Proof that hipsters ruin everything, even mountains.",
-      "From Asheville? Your city's biggest export is trust fund kids' Instagram posts."
+      "From Asheville? Your city's biggest export is trust fund kids' Instagram posts.",
     ],
     wilmington_nc: [
       "Wilmington? Where retirees go to complain about hurricanes.",
@@ -2122,8 +2465,8 @@ export const roastDatabase = {
       "Wilmington: The only city where 'culture' means which beach bar you prefer.",
       "Where everyone's from somewhere better but came for the 'beach lifestyle'.",
       "Wilmington: Proof that having beaches doesn't make you interesting.",
-      "From Wilmington? Your city's biggest achievement is being in Dawson's Creek."
-    ]
+      "From Wilmington? Your city's biggest achievement is being in Dawson's Creek.",
+    ],
   },
 
   // TENNESSEE (Expanded)
@@ -2138,7 +2481,7 @@ export const roastDatabase = {
       "Tennessee: The only state where moonshine is a food group.",
       "Where everyone claims to be a musician but works at Walmart.",
       "Tennessee: Proof that you can have great music and terrible everything else.",
-      "From Tennessee? Your state's shaped like a parallelogram because even geometry gave up."
+      "From Tennessee? Your state's shaped like a parallelogram because even geometry gave up.",
     ],
     nashville: [
       "Nashville? Where every waiter is a 'singer-songwriter' with a SoundCloud no one follows.",
@@ -2150,7 +2493,7 @@ export const roastDatabase = {
       "Nashville: The only city where hot chicken is spicier than the music scene.",
       "Where 'culture' means which honky-tonk you threw up in last night.",
       "Nashville: Austin's less cool cousin with a drinking problem and a pedal steel.",
-      "From Nashville? Your city's biggest achievement is convincing people country music is still relevant."
+      "From Nashville? Your city's biggest achievement is convincing people country music is still relevant.",
     ],
     memphis: [
       "Memphis? The city that peaked when Elvis died there.",
@@ -2162,7 +2505,7 @@ export const roastDatabase = {
       "Memphis: The only city where BBQ can't mask the smell of decay.",
       "Where 'culture' means choosing between Elvis tourism and crime statistics.",
       "Memphis: Nashville's dangerous cousin with better food and worse everything else.",
-      "From Memphis? Your city killed Elvis and it's been downhill ever since."
+      "From Memphis? Your city killed Elvis and it's been downhill ever since.",
     ],
     knoxville: [
       "Knoxville? Where the University of Tennessee is the only reason it exists.",
@@ -2174,7 +2517,7 @@ export const roastDatabase = {
       "Knoxville: The only city where 'culture' means tailgating.",
       "Where the mountains are pretty but the city is ugly.",
       "Knoxville: Proof that having a university doesn't make you university-worthy.",
-      "From Knoxville? Your city's biggest achievement is being near the Smokies."
+      "From Knoxville? Your city's biggest achievement is being near the Smokies.",
     ],
     chattanooga: [
       "Chattanooga? The city with good internet and nothing to do with it.",
@@ -2186,8 +2529,8 @@ export const roastDatabase = {
       "Chattanooga: The only city where 'progress' means Google Fiber.",
       "Where 'culture' means that aquarium everyone visits once.",
       "Chattanooga: Proof that good infrastructure can't create personality.",
-      "From Chattanooga? Your city's claim to fame is a choo-choo and fast internet."
-    ]
+      "From Chattanooga? Your city's claim to fame is a choo-choo and fast internet.",
+    ],
   },
 
   // KENTUCKY (Expanded)
@@ -2202,7 +2545,7 @@ export const roastDatabase = {
       "Kentucky: The only state where marrying your cousin is still a viable option.",
       "Where education is optional but opinions about basketball are mandatory.",
       "Kentucky: Proof that you can make great whiskey and terrible life choices.",
-      "From Kentucky? Your state's biggest export is bourbon and regret."
+      "From Kentucky? Your state's biggest export is bourbon and regret.",
     ],
     louisville: [
       "Louisville? The city that can't even decide how to pronounce its own name.",
@@ -2214,7 +2557,7 @@ export const roastDatabase = {
       "Louisville: The only city where bourbon tourism is the entire economy.",
       "Where 'culture' means getting blackout drunk in a seersucker suit.",
       "Louisville: Lexington's bigger, drunker sibling with a gambling problem.",
-      "From Louisville? Your city's pronunciation is as confused as its identity."
+      "From Louisville? Your city's pronunciation is as confused as its identity.",
     ],
     lexington: [
       "Lexington? Where horses live better than humans.",
@@ -2226,7 +2569,7 @@ export const roastDatabase = {
       "Lexington: The only city where 'culture' means bourbon tours and horse farms.",
       "Where everyone pretends they're not in Eastern Kentucky.",
       "Lexington: Proof that money can't buy class, but it can buy horses.",
-      "From Lexington? Your city's biggest achievement is being the least embarrassing part of Kentucky."
+      "From Lexington? Your city's biggest achievement is being the least embarrassing part of Kentucky.",
     ],
     bowling_green: [
       "Bowling Green? Where the Corvette museum is more interesting than the residents.",
@@ -2238,8 +2581,8 @@ export const roastDatabase = {
       "Bowling Green: The only city where 'culture' means the sinkhole that ate Corvettes.",
       "Where excitement is driving to Nashville.",
       "Bowling Green: Proof that making cool cars doesn't make your city cool.",
-      "From Bowling Green? Your city's claim to fame is a car most residents can't afford."
-    ]
+      "From Bowling Green? Your city's claim to fame is a car most residents can't afford.",
+    ],
   },
 
   // INTERNATIONAL EXPANSIONS
@@ -2256,7 +2599,7 @@ export const roastDatabase = {
       "Brazil: The only country where flip-flops are business casual.",
       "Where everyone's beautiful until they open their mouth about politics.",
       "Brazil: Proof that natural resources can't overcome human corruption.",
-      "From Brazil? Your country's biggest export is people pretending to be Portuguese."
+      "From Brazil? Your country's biggest export is people pretending to be Portuguese.",
     ],
     sao_paulo: [
       "São Paulo? Where the traffic is so bad, people are born, live, and die in the same jam.",
@@ -2268,7 +2611,7 @@ export const roastDatabase = {
       "São Paulo: The only city where pizza crimes against Italy are considered culture.",
       "Where the pollution is so thick you can chew it.",
       "São Paulo: Proof that economic power can't buy quality of life.",
-      "From São Paulo? Your city's so big, even Google Maps has an existential crisis."
+      "From São Paulo? Your city's so big, even Google Maps has an existential crisis.",
     ],
     rio: [
       "Rio? Where the beaches are beautiful and everything else is trying to kill you.",
@@ -2280,8 +2623,8 @@ export const roastDatabase = {
       "Rio: The only city where getting mugged is part of the authentic experience.",
       "Where 'culture' means samba and pretending the violence isn't real.",
       "Rio: Beautiful from a distance, terrifying up close.",
-      "From Rio? Your city's biggest achievement is tricking people into visiting."
-    ]
+      "From Rio? Your city's biggest achievement is tricking people into visiting.",
+    ],
   },
 
   // ARGENTINA
@@ -2296,7 +2639,7 @@ export const roastDatabase = {
       "Argentina: The only country where economic crisis is a permanent state.",
       "Where everyone's a philosopher because they can't afford to do anything else.",
       "Argentina: Proof that having resources doesn't mean knowing how to use them.",
-      "From Argentina? Your country's biggest export is people with European passports fleeing."
+      "From Argentina? Your country's biggest export is people with European passports fleeing.",
     ],
     buenos_aires: [
       "Buenos Aires? The Paris of South America, if Paris was broke and dangerous.",
@@ -2308,8 +2651,8 @@ export const roastDatabase = {
       "Buenos Aires: The only city where everyone's nostalgic for a past they never lived.",
       "Where 'culture' means tango shows for tourists and complaining about the government.",
       "Buenos Aires: Proof that European architecture can't fix South American problems.",
-      "From Buenos Aires? Your city's biggest achievement is convincing people it's sophisticated while falling apart."
-    ]
+      "From Buenos Aires? Your city's biggest achievement is convincing people it's sophisticated while falling apart.",
+    ],
   },
 
   // NETHERLANDS
@@ -2324,7 +2667,7 @@ export const roastDatabase = {
       "Netherlands: The only country where being tall is a personality trait.",
       "Where 'culture' means cheese, clogs, and colonial guilt.",
       "Netherlands: Proof that you can be progressive and still have a racist Christmas tradition.",
-      "From the Netherlands? Your country's biggest achievement is convincing people windmills are interesting."
+      "From the Netherlands? Your country's biggest achievement is convincing people windmills are interesting.",
     ],
     amsterdam: [
       "Amsterdam? Where tourists come for culture but really just want weed and prostitutes.",
@@ -2336,7 +2679,7 @@ export const roastDatabase = {
       "Amsterdam: The only city where canals are full of bikes and tourists.",
       "Where 'local culture' died when the coffee shops opened.",
       "Amsterdam: Proof that legalization doesn't make you less annoying.",
-      "From Amsterdam? Your city's biggest achievement is being a bachelor party destination."
+      "From Amsterdam? Your city's biggest achievement is being a bachelor party destination.",
     ],
     rotterdam: [
       "Rotterdam? Amsterdam's ugly industrial sibling.",
@@ -2348,8 +2691,8 @@ export const roastDatabase = {
       "Rotterdam: The only city where 'culture' means weird architecture and trying too hard.",
       "Where everyone's 'edgy' in the most Dutch way possible.",
       "Rotterdam: Proof that rebuilding doesn't mean improving.",
-      "From Rotterdam? Your city's biggest achievement is having Europe's largest port and smallest personality."
-    ]
+      "From Rotterdam? Your city's biggest achievement is having Europe's largest port and smallest personality.",
+    ],
   },
 
   // BELGIUM
@@ -2364,7 +2707,7 @@ export const roastDatabase = {
       "Belgium: The only country where the food is beige and so is the personality.",
       "Where 'culture' means arguing about whether you're Flemish or Walloon.",
       "Belgium: Proof that you can have great beer and still be boring.",
-      "From Belgium? Your country's biggest achievement is hosting the EU and making chocolate."
+      "From Belgium? Your country's biggest achievement is hosting the EU and making chocolate.",
     ],
     brussels: [
       "Brussels? Where the EU bureaucrats go to kill Europe's soul slowly.",
@@ -2376,8 +2719,8 @@ export const roastDatabase = {
       "Brussels: The only capital where the most exciting thing is the airport to leave.",
       "Where 'culture' means Manneken Pis and disappointment.",
       "Brussels: Proof that being centrally located doesn't make you central to anything.",
-      "From Brussels? Your city's biggest achievement is making Strasbourg look exciting."
-    ]
+      "From Brussels? Your city's biggest achievement is making Strasbourg look exciting.",
+    ],
   },
 
   // SWEDEN
@@ -2392,7 +2735,7 @@ export const roastDatabase = {
       "Sweden: The only country where being antisocial is cultural.",
       "Where 'excitement' means the sun came out for 20 minutes.",
       "Sweden: Proof that progressive policies can't cure Nordic sadness.",
-      "From Sweden? Your country's biggest export is furniture and existential dread."
+      "From Sweden? Your country's biggest export is furniture and existential dread.",
     ],
     stockholm: [
       "Stockholm? Where the syndrome is just accepting you'll never afford to live there.",
@@ -2404,8 +2747,8 @@ export const roastDatabase = {
       "Stockholm: The only city where summer is a day in July.",
       "Where 'culture' means design museums and avoiding eye contact.",
       "Stockholm: Proof that money and beauty can't buy happiness.",
-      "From Stockholm? Your city's biggest achievement is making Oslo look affordable."
-    ]
+      "From Stockholm? Your city's biggest achievement is making Oslo look affordable.",
+    ],
   },
 
   // NORWAY
@@ -2420,7 +2763,7 @@ export const roastDatabase = {
       "Norway: The only country where being antisocial is an Olympic sport.",
       "Where 'culture' means outdoor activities to avoid talking to people.",
       "Norway: Proof that natural beauty can't overcome Nordic coldness.",
-      "From Norway? Your country's biggest export is oil and people who can't make small talk."
+      "From Norway? Your country's biggest export is oil and people who can't make small talk.",
     ],
     oslo: [
       "Oslo? Where everything costs a fortune but there's nothing to spend it on.",
@@ -2432,8 +2775,8 @@ export const roastDatabase = {
       "Oslo: The only capital where excitement is a dirty word.",
       "Where 'nightlife' means the sun setting at 3 PM.",
       "Oslo: Proof that wealth can't buy culture or warmth.",
-      "From Oslo? Your city's biggest achievement is being slightly less boring than Bergen."
-    ]
+      "From Oslo? Your city's biggest achievement is being slightly less boring than Bergen.",
+    ],
   },
 
   // DENMARK
@@ -2448,7 +2791,7 @@ export const roastDatabase = {
       "Denmark: The only country where Lego is the most interesting export.",
       "Where 'culture' means design and pretending lagom is different from boring.",
       "Denmark: Proof that high taxes can't buy actual happiness.",
-      "From Denmark? Your country's biggest achievement is convincing people Scandinavian life is desirable."
+      "From Denmark? Your country's biggest achievement is convincing people Scandinavian life is desirable.",
     ],
     copenhagen: [
       "Copenhagen? Where the bikes outnumber personalities.",
@@ -2460,8 +2803,8 @@ export const roastDatabase = {
       "Copenhagen: The only city where being environmental is compulsory.",
       "Where 'culture' means expensive restaurants and pretentious design.",
       "Copenhagen: Proof that bikes and pastries don't make a personality.",
-      "From Copenhagen? Your city's biggest achievement is making Stockholm look exciting."
-    ]
+      "From Copenhagen? Your city's biggest achievement is making Stockholm look exciting.",
+    ],
   },
 
   // POLAND
@@ -2476,7 +2819,7 @@ export const roastDatabase = {
       "Poland: The only country where homophobia is government policy.",
       "Where 'progress' means slightly less Catholic than last year.",
       "Poland: Proof that EU membership can't fix everything.",
-      "From Poland? Your country's biggest export is plumbers and programmers to better countries."
+      "From Poland? Your country's biggest export is plumbers and programmers to better countries.",
     ],
     warsaw: [
       "Warsaw? The city they rebuilt from rubble and it shows.",
@@ -2488,7 +2831,7 @@ export const roastDatabase = {
       "Warsaw: The only capital where 'old town' is newer than most suburbs.",
       "Where 'culture' means remembering what was destroyed.",
       "Warsaw: Proof that you can rebuild a city but not its soul.",
-      "From Warsaw? Your city's biggest achievement is not being as depressing as it was in 1945."
+      "From Warsaw? Your city's biggest achievement is not being as depressing as it was in 1945.",
     ],
     krakow: [
       "Krakow? Where stag parties go to embarrass Britain.",
@@ -2500,8 +2843,8 @@ export const roastDatabase = {
       "Krakow: The only city where medieval charm meets modern vomit.",
       "Where 'culture' gets drowned out by stag do chants.",
       "Krakow: Proof that being beautiful doesn't protect you from drunk Brits.",
-      "From Krakow? Your city's biggest achievement is surviving both Nazis and British tourists."
-    ]
+      "From Krakow? Your city's biggest achievement is surviving both Nazis and British tourists.",
+    ],
   },
 
   // PORTUGAL
@@ -2516,7 +2859,7 @@ export const roastDatabase = {
       "Portugal: The only country where colonialism is still a point of pride.",
       "Where 'development' means selling everything to foreign investors.",
       "Portugal: Proof that nice weather can't fix a broken economy.",
-      "From Portugal? Your country's biggest export is young people seeking opportunity."
+      "From Portugal? Your country's biggest export is young people seeking opportunity.",
     ],
     lisbon: [
       "Lisbon? Where digital nomads killed local culture faster than any earthquake.",
@@ -2528,7 +2871,7 @@ export const roastDatabase = {
       "Lisbon: The only capital where gentrification is the entire economy.",
       "Where 'culture' means whatever tourists will pay for.",
       "Lisbon: Proof that being picturesque doesn't pay the bills.",
-      "From Lisbon? Your city's biggest achievement is trending on nomad blogs while locals flee."
+      "From Lisbon? Your city's biggest achievement is trending on nomad blogs while locals flee.",
     ],
     porto: [
       "Porto? Lisbon's less pretentious sibling with the same problems.",
@@ -2540,8 +2883,8 @@ export const roastDatabase = {
       "Porto: The only city where authentic means 'discovered by tourists last year'.",
       "Where 'culture' is whatever fits in a wine tour.",
       "Porto: Proof that you can't hide from gentrification, even in Portugal.",
-      "From Porto? Your city's biggest export is port wine and Portuguese people who can't afford to stay."
-    ]
+      "From Porto? Your city's biggest export is port wine and Portuguese people who can't afford to stay.",
+    ],
   },
 
   // GREECE
@@ -2556,7 +2899,7 @@ export const roastDatabase = {
       "Greece: The only country where ruins are both tourist attractions and economic policy.",
       "Where 'culture' means charging tourists to see old rocks.",
       "Greece: Proof that inventing democracy doesn't mean you can run one.",
-      "From Greece? Your country's biggest export is nostalgia and people fleeing to work."
+      "From Greece? Your country's biggest export is nostalgia and people fleeing to work.",
     ],
     athens: [
       "Athens? Where the Acropolis is in better shape than everything else.",
@@ -2568,8 +2911,8 @@ export const roastDatabase = {
       "Athens: The only capital where the museums are cleaner than the streets.",
       "Where 'democracy' was invented and then abandoned.",
       "Athens: Proof that you can't eat history.",
-      "From Athens? Your city's biggest achievement already happened 2,500 years ago."
-    ]
+      "From Athens? Your city's biggest achievement already happened 2,500 years ago.",
+    ],
   },
 
   // TURKEY
@@ -2584,7 +2927,7 @@ export const roastDatabase = {
       "Turkey: The only country where cats have more rights than journalists.",
       "Where 'culture' means tea and pretending everything's fine.",
       "Turkey: Proof that strategic location can't overcome strategic mistakes.",
-      "From Turkey? Your country's biggest export is talent fleeing the regime."
+      "From Turkey? Your country's biggest export is talent fleeing the regime.",
     ],
     istanbul: [
       "Istanbul? Constantinople called, it wants its glory back.",
@@ -2596,8 +2939,8 @@ export const roastDatabase = {
       "Istanbul: The only city where cats run the streets better than the government.",
       "Where 'culture' is buried under concrete and corruption.",
       "Istanbul: Proof that being historic doesn't mean having a future.",
-      "From Istanbul? Your city's biggest achievement is the Byzantine Empire, and that wasn't even you."
-    ]
+      "From Istanbul? Your city's biggest achievement is the Byzantine Empire, and that wasn't even you.",
+    ],
   },
 
   // IRELAND
@@ -2612,7 +2955,7 @@ export const roastDatabase = {
       "Ireland: The only country where 'culture' means drinking and James Joyce nobody reads.",
       "Where the diaspora is bigger than the population.",
       "Ireland: Proof that independence doesn't guarantee affordable housing.",
-      "From Ireland? Your country's biggest export is people and tax avoidance schemes."
+      "From Ireland? Your country's biggest export is people and tax avoidance schemes.",
     ],
     dublin: [
       "Dublin? Where tech money made everything unaffordable except disappointment.",
@@ -2624,8 +2967,8 @@ export const roastDatabase = {
       "Dublin: The only capital where locals are tourists in their own city.",
       "Where 'culture' means Temple Bar prices and tech company free food.",
       "Dublin: Proof that tech money doesn't trickle down.",
-      "From Dublin? Your city's biggest achievement is convincing companies to launder money through it."
-    ]
+      "From Dublin? Your city's biggest achievement is convincing companies to launder money through it.",
+    ],
   },
 
   // SWITZERLAND
@@ -2640,7 +2983,7 @@ export const roastDatabase = {
       "Switzerland: The only country where excitement is illegal after 10 PM.",
       "Where 'culture' means chocolate, cheese, and checking accounts.",
       "Switzerland: Proof that money can't buy personality.",
-      "From Switzerland? Your country's biggest achievement is convincing people banking is culture."
+      "From Switzerland? Your country's biggest achievement is convincing people banking is culture.",
     ],
     zurich: [
       "Zurich? Where bankers go to die slowly in comfort.",
@@ -2652,7 +2995,7 @@ export const roastDatabase = {
       "Zurich: The only city where fun is taxed out of existence.",
       "Where 'nightlife' means the ATM is still open.",
       "Zurich: Proof that efficiency can't replace humanity.",
-      "From Zurich? Your city's biggest achievement is making Geneva look exciting."
+      "From Zurich? Your city's biggest achievement is making Geneva look exciting.",
     ],
     geneva: [
       "Geneva? Where diplomats go to accomplish nothing expensively.",
@@ -2664,8 +3007,8 @@ export const roastDatabase = {
       "Geneva: The only city where bureaucracy is the main industry.",
       "Where 'culture' means diplomatic immunity and tax exemption.",
       "Geneva: Proof that international cooperation is an oxymoron.",
-      "From Geneva? Your city's biggest achievement is hosting meetings about meetings."
-    ]
+      "From Geneva? Your city's biggest achievement is hosting meetings about meetings.",
+    ],
   },
 
   // AUSTRIA
@@ -2680,7 +3023,7 @@ export const roastDatabase = {
       "Austria: The only country where the far-right is just 'right'.",
       "Where 'neutral' means profiting from everyone equally.",
       "Austria: Proof that beautiful landscapes can't hide ugly politics.",
-      "From Austria? Your country's biggest export is fascists and classical music reputation."
+      "From Austria? Your country's biggest export is fascists and classical music reputation.",
     ],
     vienna: [
       "Vienna? Where the past is more alive than the present.",
@@ -2692,8 +3035,8 @@ export const roastDatabase = {
       "Vienna: The only city where nostalgia is the main industry.",
       "Where 'modern' means anything after 1900.",
       "Vienna: Proof that high culture can be boring as hell.",
-      "From Vienna? Your city's biggest achievement happened before your great-grandparents were born."
-    ]
+      "From Vienna? Your city's biggest achievement happened before your great-grandparents were born.",
+    ],
   },
 
   // CZECH REPUBLIC
@@ -2708,7 +3051,7 @@ export const roastDatabase = {
       "Czech Republic: The only country where beer consumption is an economic indicator.",
       "Where 'culture' means cheap beer and expensive tourists.",
       "Czech Republic: Proof that good beer can't fix everything.",
-      "From Czech Republic? Your country's biggest export is stag parties and regret."
+      "From Czech Republic? Your country's biggest export is stag parties and regret.",
     ],
     prague: [
       "Prague? Where British stag parties go to die.",
@@ -2720,8 +3063,8 @@ export const roastDatabase = {
       "Prague: The only capital where locals can't afford their own city.",
       "Where 'culture' gets vomited on by bachelor parties nightly.",
       "Prague: Proof that being beautiful is a curse.",
-      "From Prague? Your city's biggest achievement is surviving both Nazis and British tourists."
-    ]
+      "From Prague? Your city's biggest achievement is surviving both Nazis and British tourists.",
+    ],
   },
 
   // HUNGARY
@@ -2736,7 +3079,7 @@ export const roastDatabase = {
       "Hungary: The only EU country speedrunning back to the Soviet era.",
       "Where 'culture' means whatever Orban approves.",
       "Hungary: Proof that EU membership can't prevent fascism.",
-      "From Hungary? Your country's biggest export is educated people fleeing Orban."
+      "From Hungary? Your country's biggest export is educated people fleeing Orban.",
     ],
     budapest: [
       "Budapest? The beautiful city wasted on an ugly regime.",
@@ -2748,8 +3091,8 @@ export const roastDatabase = {
       "Budapest: The only capital where thermal baths can't wash away the corruption.",
       "Where 'culture' thrives despite the government's best efforts.",
       "Budapest: Proof that beautiful cities can have ugly governments.",
-      "From Budapest? Your city's biggest achievement is looking good while democracy dies."
-    ]
+      "From Budapest? Your city's biggest achievement is looking good while democracy dies.",
+    ],
   },
 
   // SOUTH AFRICA
@@ -2764,7 +3107,7 @@ export const roastDatabase = {
       "South Africa: The only country where 'just now' means never.",
       "Where 'diversity' means different levels of crime experience.",
       "South Africa: Proof that ending apartheid doesn't end problems.",
-      "From South Africa? Your country's biggest export is skilled people and crime statistics."
+      "From South Africa? Your country's biggest export is skilled people and crime statistics.",
     ],
     johannesburg: [
       "Johannesburg? Where the gold ran out but the crime didn't.",
@@ -2776,7 +3119,7 @@ export const roastDatabase = {
       "Johannesburg: The only city where middle class means you have armed response.",
       "Where 'culture' happens in malls because the streets aren't safe.",
       "Johannesburg: Proof that resources don't guarantee success.",
-      "From Joburg? Your city's biggest achievement is making Cape Town look safe."
+      "From Joburg? Your city's biggest achievement is making Cape Town look safe.",
     ],
     cape_town: [
       "Cape Town? Where the mountain is beautiful and the inequality is ugly.",
@@ -2788,8 +3131,8 @@ export const roastDatabase = {
       "Cape Town: The only city where natural beauty can't hide social ugliness.",
       "Where 'diversity' means different suburbs for different races.",
       "Cape Town: Proof that scenery can't solve systemic issues.",
-      "From Cape Town? Your city's biggest achievement is convincing tourists it's safe."
-    ]
+      "From Cape Town? Your city's biggest achievement is convincing tourists it's safe.",
+    ],
   },
 
   // NIGERIA
@@ -2804,7 +3147,7 @@ export const roastDatabase = {
       "Nigeria: The only country where generators are essential appliances.",
       "Where 'infrastructure' is a foreign concept and electricity is a luxury.",
       "Nigeria: Proof that oil wealth can't buy development.",
-      "From Nigeria? Your country's biggest export is talent fleeing dysfunction."
+      "From Nigeria? Your country's biggest export is talent fleeing dysfunction.",
     ],
     lagos: [
       "Lagos? Where traffic jams last longer than governments.",
@@ -2816,8 +3159,8 @@ export const roastDatabase = {
       "Lagos: The only city where 'on my way' means 'stuck in traffic for 3 hours'.",
       "Where 'development' means another mall in a city without roads.",
       "Lagos: Proof that energy can't overcome infrastructure.",
-      "From Lagos? Your city's biggest achievement is functioning despite everything."
-    ]
+      "From Lagos? Your city's biggest achievement is functioning despite everything.",
+    ],
   },
 
   // EGYPT
@@ -2832,7 +3175,7 @@ export const roastDatabase = {
       "Egypt: The only country where mummies have more rights than journalists.",
       "Where 'stability' means crushing any dissent.",
       "Egypt: Proof that great history doesn't guarantee a great present.",
-      "From Egypt? Your country's biggest export is artifacts and oppression."
+      "From Egypt? Your country's biggest export is artifacts and oppression.",
     ],
     cairo: [
       "Cairo? Where the traffic is ancient and the air is toxic.",
@@ -2844,8 +3187,8 @@ export const roastDatabase = {
       "Cairo: The only capital where ancient and dysfunctional are synonyms.",
       "Where 'city planning' is an oxymoron.",
       "Cairo: Proof that population doesn't equal progress.",
-      "From Cairo? Your city's biggest achievement happened before Christ was born."
-    ]
+      "From Cairo? Your city's biggest achievement happened before Christ was born.",
+    ],
   },
 
   // ISRAEL
@@ -2860,7 +3203,7 @@ export const roastDatabase = {
       "Israel: The only country where start-ups outnumber peace attempts.",
       "Where 'culture' means arguing about who was here first.",
       "Israel: Proof that innovation can't solve ancient hatred.",
-      "From Israel? Your country's biggest export is arguments and USB sticks."
+      "From Israel? Your country's biggest export is arguments and USB sticks.",
     ],
     tel_aviv: [
       "Tel Aviv? Where the bubble is thicker than the hummus.",
@@ -2872,8 +3215,8 @@ export const roastDatabase = {
       "Tel Aviv: The only city where hedonism is resistance.",
       "Where 'culture' means partying while the world burns.",
       "Tel Aviv: Proof that you can't party away problems.",
-      "From Tel Aviv? Your city's biggest achievement is ignoring reality successfully."
-    ]
+      "From Tel Aviv? Your city's biggest achievement is ignoring reality successfully.",
+    ],
   },
 
   // SINGAPORE
@@ -2888,8 +3231,8 @@ export const roastDatabase = {
       "Singapore: The only country where littering gets more punishment than corruption.",
       "Where 'culture' means shopping malls and food courts.",
       "Singapore: Proof that authoritarianism can be efficient.",
-      "From Singapore? Your country's biggest achievement is making dystopia look nice."
-    ]
+      "From Singapore? Your country's biggest achievement is making dystopia look nice.",
+    ],
   },
 
   // THAILAND
@@ -2904,7 +3247,7 @@ export const roastDatabase = {
       "Thailand: The only country where coups are seasonal.",
       "Where 'culture' gets sold to the lowest bidder.",
       "Thailand: Proof that beautiful beaches can't hide ugly realities.",
-      "From Thailand? Your country's biggest export is disappointment and ladyboys."
+      "From Thailand? Your country's biggest export is disappointment and ladyboys.",
     ],
     bangkok: [
       "Bangkok? Where the traffic moves slower than the government.",
@@ -2916,8 +3259,8 @@ export const roastDatabase = {
       "Bangkok: The only city where flooding is a season.",
       "Where 'culture' means whatever tourists will pay for.",
       "Bangkok: Proof that Buddhism can't prevent capitalism.",
-      "From Bangkok? Your city's biggest achievement is making Manila look organized."
-    ]
+      "From Bangkok? Your city's biggest achievement is making Manila look organized.",
+    ],
   },
 
   // VIETNAM
@@ -2932,7 +3275,7 @@ export const roastDatabase = {
       "Vietnam: The only communist country where money is the real ideology.",
       "Where 'development' means more pollution.",
       "Vietnam: Proof that winning wars doesn't mean winning peace.",
-      "From Vietnam? Your country's biggest export is motorcycles and noise pollution."
+      "From Vietnam? Your country's biggest export is motorcycles and noise pollution.",
     ],
     ho_chi_minh_city: [
       "Saigon? Still calling it that says everything about progress here.",
@@ -2944,7 +3287,7 @@ export const roastDatabase = {
       "Ho Chi Minh City: The only city where traffic laws are philosophical concepts.",
       "Where 'development' means another mall nobody needs.",
       "HCMC: Proof that economic growth doesn't mean quality of life.",
-      "From Saigon? Your city's biggest achievement is making Hanoi look calm."
+      "From Saigon? Your city's biggest achievement is making Hanoi look calm.",
     ],
     hanoi: [
       "Hanoi? Where the communists live but capitalism thrives.",
@@ -2956,8 +3299,8 @@ export const roastDatabase = {
       "Hanoi: The only capital where the mausoleum is the liveliest place.",
       "Where 'culture' means whatever the party approves.",
       "Hanoi: Proof that capitals don't need to be interesting.",
-      "From Hanoi? Your city's biggest achievement is being slightly less chaotic than Saigon."
-    ]
+      "From Hanoi? Your city's biggest achievement is being slightly less chaotic than Saigon.",
+    ],
   },
 
   // PHILIPPINES
@@ -2972,7 +3315,7 @@ export const roastDatabase = {
       "Philippines: The only country where karaoke is more important than infrastructure.",
       "Where 'resilience' means accepting dysfunction.",
       "Philippines: Proof that islands can be isolated even when connected.",
-      "From the Philippines? Your country's biggest export is nurses and desperation."
+      "From the Philippines? Your country's biggest export is nurses and desperation.",
     ],
     manila: [
       "Manila? Where the traffic is so bad, people live in their cars.",
@@ -2984,8 +3327,8 @@ export const roastDatabase = {
       "Manila: The only capital where floods are more predictable than government.",
       "Where 'urban planning' is a foreign concept.",
       "Manila: Proof that population density doesn't create efficiency.",
-      "From Manila? Your city's biggest achievement is functioning despite itself."
-    ]
+      "From Manila? Your city's biggest achievement is functioning despite itself.",
+    ],
   },
 
   // INDONESIA
@@ -3000,7 +3343,7 @@ export const roastDatabase = {
       "Indonesia: The only country where sinking is both literal and metaphorical.",
       "Where 'unity in diversity' means everyone's equally screwed.",
       "Indonesia: Proof that resources don't guarantee prosperity.",
-      "From Indonesia? Your country's biggest export is palm oil and pollution."
+      "From Indonesia? Your country's biggest export is palm oil and pollution.",
     ],
     jakarta: [
       "Jakarta? The city that's literally sinking and nobody cares.",
@@ -3012,8 +3355,8 @@ export const roastDatabase = {
       "Jakarta: The only capital actively planning to abandon ship.",
       "Where 'development' means another mall in a sinking city.",
       "Jakarta: Proof that money can't buy urban planning.",
-      "From Jakarta? Your city's biggest achievement is making people excited about moving the capital."
-    ]
+      "From Jakarta? Your city's biggest achievement is making people excited about moving the capital.",
+    ],
   },
 
   // MALAYSIA
@@ -3028,7 +3371,7 @@ export const roastDatabase = {
       "Malaysia: The only country where racial quotas are constitutional.",
       "Where 'diversity' means separate but unequal.",
       "Malaysia: Proof that multiculturalism doesn't mean harmony.",
-      "From Malaysia? Your country's biggest export is brain drain to Singapore."
+      "From Malaysia? Your country's biggest export is brain drain to Singapore.",
     ],
     kuala_lumpur: [
       "KL? Where the towers are tall but the vision is short.",
@@ -3040,8 +3383,8 @@ export const roastDatabase = {
       "KL: The only capital where progress means another shopping center.",
       "Where 'culture' is hidden behind construction sites.",
       "Kuala Lumpur: Proof that tall buildings don't make great cities.",
-      "From KL? Your city's biggest achievement is being featured in movies while being forgettable."
-    ]
+      "From KL? Your city's biggest achievement is being featured in movies while being forgettable.",
+    ],
   },
 
   // UAE
@@ -3056,7 +3399,7 @@ export const roastDatabase = {
       "UAE: The only country where citizenship is harder to get than oil.",
       "Where 'culture' is whatever money can buy.",
       "UAE: Proof that oil money can't buy class.",
-      "From UAE? Your country's biggest achievement is convincing people desert cities make sense."
+      "From UAE? Your country's biggest achievement is convincing people desert cities make sense.",
     ],
     dubai: [
       "Dubai? Where everything's fake including the islands.",
@@ -3068,7 +3411,7 @@ export const roastDatabase = {
       "Dubai: The only city where gold vending machines make sense.",
       "Where 'culture' is whatever's most expensive.",
       "Dubai: Proof that money can't buy taste.",
-      "From Dubai? Your city's biggest achievement is making Vegas look classy."
+      "From Dubai? Your city's biggest achievement is making Vegas look classy.",
     ],
     abu_dhabi: [
       "Abu Dhabi? Dubai's boring rich uncle.",
@@ -3080,8 +3423,8 @@ export const roastDatabase = {
       "Abu Dhabi: The only capital that makes Dubai look cultural.",
       "Where 'excitement' is a new mall opening.",
       "Abu Dhabi: Proof that being the capital doesn't make you interesting.",
-      "From Abu Dhabi? Your city's biggest achievement is having more money than Dubai and less to show for it."
-    ]
+      "From Abu Dhabi? Your city's biggest achievement is having more money than Dubai and less to show for it.",
+    ],
   },
 
   // SAUDI ARABIA
@@ -3096,7 +3439,7 @@ export const roastDatabase = {
       "Saudi Arabia: The only country where progress means women can attend football matches.",
       "Where 'reform' means slightly less medieval.",
       "Saudi Arabia: Proof that money can't buy modernity.",
-      "From Saudi? Your country's biggest export is oil and extremism."
+      "From Saudi? Your country's biggest export is oil and extremism.",
     ],
     riyadh: [
       "Riyadh? Where the desert is more lively than the social scene.",
@@ -3108,8 +3451,8 @@ export const roastDatabase = {
       "Riyadh: The only capital where boredom is government policy.",
       "Where 'entertainment' just became legal.",
       "Riyadh: Proof that oil money can't buy culture.",
-      "From Riyadh? Your city's biggest achievement is making the desert look exciting by comparison."
-    ]
+      "From Riyadh? Your city's biggest achievement is making the desert look exciting by comparison.",
+    ],
   },
 
   // LEBANON
@@ -3124,7 +3467,7 @@ export const roastDatabase = {
       "Lebanon: The only country where civil war is the good old days.",
       "Where 'resilience' means accepting complete dysfunction.",
       "Lebanon: Proof that being the Paris of the Middle East means nothing.",
-      "From Lebanon? Your country's biggest export is talented people fleeing chaos."
+      "From Lebanon? Your country's biggest export is talented people fleeing chaos.",
     ],
     beirut: [
       "Beirut? Where the nightlife is better than the electricity.",
@@ -3136,8 +3479,8 @@ export const roastDatabase = {
       "Beirut: The only capital where generator mafias run the power.",
       "Where 'resilience' means pretending everything's fine while it burns.",
       "Beirut: Proof that great nightlife can't fix a failed state.",
-      "From Beirut? Your city's biggest achievement is still functioning without a government."
-    ]
+      "From Beirut? Your city's biggest achievement is still functioning without a government.",
+    ],
   },
 
   // PAKISTAN
@@ -3152,7 +3495,7 @@ export const roastDatabase = {
       "Pakistan: The only country where coups are more regular than elections.",
       "Where 'development' means another military housing scheme.",
       "Pakistan: Proof that nuclear weapons don't make you a superpower.",
-      "From Pakistan? Your country's biggest export is conspiracy theories and talent drain."
+      "From Pakistan? Your country's biggest export is conspiracy theories and talent drain.",
     ],
     karachi: [
       "Karachi? Where the mafias provide better services than the government.",
@@ -3164,7 +3507,7 @@ export const roastDatabase = {
       "Karachi: The only city where load shedding is more reliable than law and order.",
       "Where 'infrastructure' is a theoretical concept.",
       "Karachi: Proof that being the economic hub doesn't mean having an economy.",
-      "From Karachi? Your city's biggest achievement is functioning without a government."
+      "From Karachi? Your city's biggest achievement is functioning without a government.",
     ],
     lahore: [
       "Lahore? Where the smog is thicker than the culture.",
@@ -3176,8 +3519,8 @@ export const roastDatabase = {
       "Lahore: The only city where culture can't overcome pollution.",
       "Where 'winter' means you can finally see buildings.",
       "Lahore: Proof that history doesn't guarantee a future.",
-      "From Lahore? Your city's biggest achievement is making Delhi's air look clean."
-    ]
+      "From Lahore? Your city's biggest achievement is making Delhi's air look clean.",
+    ],
   },
 
   // BANGLADESH
@@ -3192,7 +3535,7 @@ export const roastDatabase = {
       "Bangladesh: The only country where being underwater is both literal and economic.",
       "Where 'development' means another garment factory collapse.",
       "Bangladesh: Proof that independence doesn't guarantee prosperity.",
-      "From Bangladesh? Your country's biggest export is cheap clothes and broken dreams."
+      "From Bangladesh? Your country's biggest export is cheap clothes and broken dreams.",
     ],
     dhaka: [
       "Dhaka? Where traffic doesn't move and neither does progress.",
@@ -3204,8 +3547,8 @@ export const roastDatabase = {
       "Dhaka: The only capital where flooding is urban planning.",
       "Where 'infrastructure' is a word nobody can spell.",
       "Dhaka: Proof that density doesn't create efficiency.",
-      "From Dhaka? Your city's biggest achievement is making other Asian capitals look organized."
-    ]
+      "From Dhaka? Your city's biggest achievement is making other Asian capitals look organized.",
+    ],
   },
 
   // SRI LANKA
@@ -3220,7 +3563,7 @@ export const roastDatabase = {
       "Sri Lanka: The only country that managed to fail with perfect geography.",
       "Where 'development' meant debt traps disguised as infrastructure.",
       "Sri Lanka: Proof that beauty can't overcome corruption.",
-      "From Sri Lanka? Your country's biggest export is people seeking economic refuge."
+      "From Sri Lanka? Your country's biggest export is people seeking economic refuge.",
     ],
     colombo: [
       "Colombo? Where the port is Chinese and the people are broke.",
@@ -3232,8 +3575,8 @@ export const roastDatabase = {
       "Colombo: The only capital where power cuts are more reliable than power.",
       "Where 'progress' means another Chinese loan.",
       "Colombo: Proof that coastal beauty can't pay debts.",
-      "From Colombo? Your city's biggest achievement is making the IMF feel needed."
-    ]
+      "From Colombo? Your city's biggest achievement is making the IMF feel needed.",
+    ],
   },
 
   // NEPAL
@@ -3248,7 +3591,7 @@ export const roastDatabase = {
       "Nepal: The only country where the gods live higher than the GDP.",
       "Where 'development' means another hydropower project that won't work.",
       "Nepal: Proof that beautiful mountains can't feed people.",
-      "From Nepal? Your country's biggest export is Gurkhas and good intentions."
+      "From Nepal? Your country's biggest export is Gurkhas and good intentions.",
     ],
     kathmandu: [
       "Kathmandu? Where the temples are ancient and so is the infrastructure.",
@@ -3260,8 +3603,8 @@ export const roastDatabase = {
       "Kathmandu: The only capital where earthquakes do urban planning.",
       "Where 'development' means rebuilding what fell down last time.",
       "Kathmandu: Proof that being spiritual doesn't pay bills.",
-      "From Kathmandu? Your city's biggest achievement is surviving between disasters."
-    ]
+      "From Kathmandu? Your city's biggest achievement is surviving between disasters.",
+    ],
   },
 
   // MOROCCO
@@ -3276,7 +3619,7 @@ export const roastDatabase = {
       "Morocco: The only African country with an identity crisis.",
       "Where 'culture' gets sold to tourists in the medina.",
       "Morocco: Proof that being close to Europe doesn't make you European.",
-      "From Morocco? Your country's biggest export is hash and brain drain to France."
+      "From Morocco? Your country's biggest export is hash and brain drain to France.",
     ],
     casablanca: [
       "Casablanca? Where the movie is more interesting than the city.",
@@ -3288,7 +3631,7 @@ export const roastDatabase = {
       "Casablanca: The only city where the name is the best part.",
       "Where 'culture' went to die in traffic.",
       "Casablanca: Proof that famous names don't make famous cities.",
-      "From Casablanca? Your city's biggest achievement is disappointing tourists expecting romance."
+      "From Casablanca? Your city's biggest achievement is disappointing tourists expecting romance.",
     ],
     marrakech: [
       "Marrakech? Where Instagram influencers go to exploit culture.",
@@ -3300,8 +3643,8 @@ export const roastDatabase = {
       "Marrakech: The only city where snake charmers have MBAs.",
       "Where 'culture' is whatever tourists will pay to see.",
       "Marrakech: Proof that tourism kills what it claims to preserve.",
-      "From Marrakech? Your city's biggest export is 'authentic' experiences for people who Instagram them."
-    ]
+      "From Marrakech? Your city's biggest export is 'authentic' experiences for people who Instagram them.",
+    ],
   },
 
   // KENYA
@@ -3316,7 +3659,7 @@ export const roastDatabase = {
       "Kenya: The only country where mobile money is more stable than banks.",
       "Where 'development' means another mall for the middle class.",
       "Kenya: Proof that innovation can't overcome corruption.",
-      "From Kenya? Your country's biggest export is marathon runners and broken promises."
+      "From Kenya? Your country's biggest export is marathon runners and broken promises.",
     ],
     nairobi: [
       "Nairobi? Where Silicon Savannah meets African reality.",
@@ -3328,8 +3671,8 @@ export const roastDatabase = {
       "Nairobi: The only capital where 'Nairobbery' is the nickname.",
       "Where 'innovation' means another money transfer app.",
       "Nairobi: Proof that calling yourself Silicon Savannah doesn't make it true.",
-      "From Nairobi? Your city's biggest achievement is M-Pesa, and that was 15 years ago."
-    ]
+      "From Nairobi? Your city's biggest achievement is M-Pesa, and that was 15 years ago.",
+    ],
   },
 
   // ETHIOPIA
@@ -3344,7 +3687,7 @@ export const roastDatabase = {
       "Ethiopia: The only country where pride in history can't feed the present.",
       "Where 'growth' means building a dam while people starve.",
       "Ethiopia: Proof that avoiding colonization doesn't guarantee success.",
-      "From Ethiopia? Your country's biggest export is coffee and refugees."
+      "From Ethiopia? Your country's biggest export is coffee and refugees.",
     ],
     addis_ababa: [
       "Addis? Where the AU headquarters is the nicest building by far.",
@@ -3356,8 +3699,8 @@ export const roastDatabase = {
       "Addis: The only capital where donkeys share roads with diplomats.",
       "Where 'progress' means another Chinese-built project.",
       "Addis Ababa: Proof that hosting the AU doesn't make you important.",
-      "From Addis? Your city's biggest achievement is being high enough to avoid some disasters."
-    ]
+      "From Addis? Your city's biggest achievement is being high enough to avoid some disasters.",
+    ],
   },
 
   // GHANA
@@ -3372,7 +3715,7 @@ export const roastDatabase = {
       "Ghana: The only country where 'dumsor' is both a word and a lifestyle.",
       "Where 'development' means another mall in Accra.",
       "Ghana: Proof that stability doesn't equal prosperity.",
-      "From Ghana? Your country's biggest export is false hope to African Americans."
+      "From Ghana? Your country's biggest export is false hope to African Americans.",
     ],
     accra: [
       "Accra? Where traffic is slower than government progress.",
@@ -3384,8 +3727,8 @@ export const roastDatabase = {
       "Accra: The only capital where 'go slow' means traffic and life.",
       "Where 'culture' is performed for diasporans seeking identity.",
       "Accra: Proof that being peaceful doesn't mean being prosperous.",
-      "From Accra? Your city's biggest achievement is convincing African Americans it's paradise."
-    ]
+      "From Accra? Your city's biggest achievement is convincing African Americans it's paradise.",
+    ],
   },
 
   // ZIMBABWE
@@ -3400,7 +3743,7 @@ export const roastDatabase = {
       "Zimbabwe: The only country where inflation broke mathematics.",
       "Where 'sovereignty' means starving independently.",
       "Zimbabwe: Proof that you can ruin a good thing spectacularly.",
-      "From Zimbabwe? Your country's biggest export is economic refugees and cautionary tales."
+      "From Zimbabwe? Your country's biggest export is economic refugees and cautionary tales.",
     ],
     harare: [
       "Harare? Where the sunshine is constant but electricity isn't.",
@@ -3412,8 +3755,8 @@ export const roastDatabase = {
       "Harare: The only capital where nostalgia is the main industry.",
       "Where 'development' means remembering when things worked.",
       "Harare: Proof that capitals can go backwards.",
-      "From Harare? Your city's biggest achievement is making Bulawayo look good."
-    ]
+      "From Harare? Your city's biggest achievement is making Bulawayo look good.",
+    ],
   },
 
   // TANZANIA
@@ -3428,7 +3771,7 @@ export const roastDatabase = {
       "Tanzania: The only country where socialism failed so quietly nobody noticed.",
       "Where 'progress' moves at the speed of a government office.",
       "Tanzania: Proof that natural beauty doesn't build economies.",
-      "From Tanzania? Your country's biggest export is safari photos and brain drain."
+      "From Tanzania? Your country's biggest export is safari photos and brain drain.",
     ],
     dar_es_salaam: [
       "Dar? Where the heat is more oppressive than the government.",
@@ -3440,8 +3783,8 @@ export const roastDatabase = {
       "Dar: The only city where 'salaam' is ironic given the chaos.",
       "Where 'development' means another half-finished project.",
       "Dar es Salaam: Proof that coastal cities can still be boring.",
-      "From Dar? Your city's biggest achievement is not being the capital anymore."
-    ]
+      "From Dar? Your city's biggest achievement is not being the capital anymore.",
+    ],
   },
 
   // UGANDA
@@ -3456,7 +3799,7 @@ export const roastDatabase = {
       "Uganda: The only country where the president has been in power longer than most citizens have been alive.",
       "Where 'democracy' is a word in the constitution nobody reads.",
       "Uganda: Proof that natural resources can't overcome bad leadership.",
-      "From Uganda? Your country's biggest export is frustrated youth and Nile perch."
+      "From Uganda? Your country's biggest export is frustrated youth and Nile perch.",
     ],
     kampala: [
       "Kampala? Built on seven hills and fourteen types of chaos.",
@@ -3468,8 +3811,8 @@ export const roastDatabase = {
       "Kampala: The only capital where potholes have potholes.",
       "Where 'planning' is a foreign concept and traffic lights are suggestions.",
       "Kampala: Proof that being on hills doesn't give you the high ground.",
-      "From Kampala? Your city's biggest achievement is making Nairobi traffic look manageable."
-    ]
+      "From Kampala? Your city's biggest achievement is making Nairobi traffic look manageable.",
+    ],
   },
 
   // ZAMBIA
@@ -3484,7 +3827,7 @@ export const roastDatabase = {
       "Zambia: The only country where Victoria Falls can't wash away the problems.",
       "Where 'development' means another Chinese loan.",
       "Zambia: Proof that being peaceful doesn't pay bills.",
-      "From Zambia? Your country's biggest export is copper and educated people to other countries."
+      "From Zambia? Your country's biggest export is copper and educated people to other countries.",
     ],
     lusaka: [
       "Lusaka? Where the malls are nicer than the infrastructure.",
@@ -3496,8 +3839,8 @@ export const roastDatabase = {
       "Lusaka: The only capital where 'central business district' is an oxymoron.",
       "Where 'planning' means building wherever there's space.",
       "Lusaka: Proof that capitals don't need character.",
-      "From Lusaka? Your city's biggest achievement is having South African shops."
-    ]
+      "From Lusaka? Your city's biggest achievement is having South African shops.",
+    ],
   },
 
   // ANTARCTICA
@@ -3512,8 +3855,8 @@ export const roastDatabase = {
       "Antarctica: The only continent where the population drops when it gets cold.",
       "Where 'neighbor' means someone 500 miles away at another research station.",
       "Antarctica: Proof that humans will live anywhere to avoid other humans.",
-      "From Antarctica? Your continent's biggest export is climate change data everyone ignores."
-    ]
+      "From Antarctica? Your continent's biggest export is climate change data everyone ignores.",
+    ],
   },
 
   // GREENLAND
@@ -3528,8 +3871,8 @@ export const roastDatabase = {
       "Greenland: The only place where melting is economic development.",
       "Where 'infrastructure' means hoping the ice road doesn't melt this year.",
       "Greenland: Proof that size doesn't matter when you're frozen.",
-      "From Greenland? Your island's biggest achievement is tricking Trump into wanting to buy it."
-    ]
+      "From Greenland? Your island's biggest achievement is tricking Trump into wanting to buy it.",
+    ],
   },
 
   // MALTA
@@ -3544,8 +3887,8 @@ export const roastDatabase = {
       "Malta: The only country where car bombs are investigative journalism.",
       "Where 'culture' means charging tourists to see old stones.",
       "Malta: Proof that being small doesn't mean being insignificant to criminals.",
-      "From Malta? Your country's biggest export is shady financial services and dead journalists."
-    ]
+      "From Malta? Your country's biggest export is shady financial services and dead journalists.",
+    ],
   },
 
   // CYPRUS
@@ -3560,8 +3903,8 @@ export const roastDatabase = {
       "Cyprus: The only EU country that's literally broken.",
       "Where 'reunification' has been coming soon for 50 years.",
       "Cyprus: Proof that islands can have identity crises too.",
-      "From Cyprus? Your island's biggest achievement is making division profitable."
-    ]
+      "From Cyprus? Your island's biggest achievement is making division profitable.",
+    ],
   },
 
   // ICELAND
@@ -3576,7 +3919,7 @@ export const roastDatabase = {
       "Iceland: The only country where Northern Lights can't brighten the mood.",
       "Where 'culture' means fermented shark and disappointment.",
       "Iceland: Proof that natural beauty can't warm up cold personalities.",
-      "From Iceland? Your country's biggest export is Björk and bankruptcy."
+      "From Iceland? Your country's biggest export is Björk and bankruptcy.",
     ],
     reykjavik: [
       "Reykjavik? Where the nightlife is legendary because there's nothing else to do.",
@@ -3588,8 +3931,8 @@ export const roastDatabase = {
       "Reykjavik: The only capital where summer is a day in July.",
       "Where 'culture' means drinking until the sun comes up at 3 AM.",
       "Reykjavik: Proof that being quirky doesn't mean being interesting.",
-      "From Reykjavik? Your city's biggest achievement is convincing tourists it's worth visiting."
-    ]
+      "From Reykjavik? Your city's biggest achievement is convincing tourists it's worth visiting.",
+    ],
   },
 
   // LUXEMBOURG
@@ -3604,8 +3947,8 @@ export const roastDatabase = {
       "Luxembourg: The only country where crossing it is faster than parking.",
       "Where 'culture' means whatever three banks can sponsor.",
       "Luxembourg: Proof that small countries can have big accounts.",
-      "From Luxembourg? Your country's biggest achievement is making tax avoidance look respectable."
-    ]
+      "From Luxembourg? Your country's biggest achievement is making tax avoidance look respectable.",
+    ],
   },
 
   // MONACO
@@ -3620,8 +3963,8 @@ export const roastDatabase = {
       "Monaco: The only country where the royal family has more members than citizens.",
       "Where 'culture' means the Grand Prix and gambling.",
       "Monaco: Proof that money can buy you a country but not class.",
-      "From Monaco? Your country's biggest export is Instagram posts and tax avoidance."
-    ]
+      "From Monaco? Your country's biggest export is Instagram posts and tax avoidance.",
+    ],
   },
 
   // LIECHTENSTEIN
@@ -3636,8 +3979,8 @@ export const roastDatabase = {
       "Liechtenstein: The only country you can accidentally walk through.",
       "Where 'culture' is whatever Switzerland didn't want.",
       "Liechtenstein: Proof that you can be a country with fewer people than a concert.",
-      "From Liechtenstein? Your country's biggest achievement is existing despite no one knowing where."
-    ]
+      "From Liechtenstein? Your country's biggest achievement is existing despite no one knowing where.",
+    ],
   },
 
   // ANDORRA
@@ -3652,8 +3995,8 @@ export const roastDatabase = {
       "Andorra: The only country where cigarette smuggling is economic policy.",
       "Where 'culture' means whatever tourists buy duty-free.",
       "Andorra: Proof that being between two countries doesn't make you one.",
-      "From Andorra? Your country's biggest achievement is making people google 'Is Andorra a real country?'"
-    ]
+      "From Andorra? Your country's biggest achievement is making people google 'Is Andorra a real country?'",
+    ],
   },
 
   // SAN MARINO
@@ -3668,8 +4011,8 @@ export const roastDatabase = {
       "San Marino: The only country where the gift shop is the GDP.",
       "Where 'culture' is just being not quite Italian.",
       "San Marino: Proof that anyone can be a country if Italy's too lazy to annex you.",
-      "From San Marino? Your country's biggest achievement is having more tourists than citizens."
-    ]
+      "From San Marino? Your country's biggest achievement is having more tourists than citizens.",
+    ],
   },
 
   // VATICAN CITY
@@ -3684,8 +4027,8 @@ export const roastDatabase = {
       "Vatican: The only country where the population is 100% male and wonders why that's a problem.",
       "Where 'culture' means art stolen from civilizations you converted.",
       "Vatican: Proof that God needs good lawyers.",
-      "From the Vatican? Your country's biggest export is guilt and tax-exempt donations."
-    ]
+      "From the Vatican? Your country's biggest export is guilt and tax-exempt donations.",
+    ],
   },
 
   // MONGOLIA
@@ -3700,7 +4043,7 @@ export const roastDatabase = {
       "Mongolia: The only country where the capital has half the population.",
       "Where 'culture' means throat singing and fermented mare's milk.",
       "Mongolia: Proof that having the most land per person doesn't mean prosperity.",
-      "From Mongolia? Your country's biggest export is cashmere and people fleeing to anywhere else."
+      "From Mongolia? Your country's biggest export is cashmere and people fleeing to anywhere else.",
     ],
     ulaanbaatar: [
       "Ulaanbaatar? The coldest capital with the hottest pollution.",
@@ -3712,8 +4055,8 @@ export const roastDatabase = {
       "Ulaanbaatar: The only capital where -40° is both the temperature and air quality.",
       "Where 'development' means more gers connected to more pollution.",
       "Ulaanbaatar: Proof that capitals don't need to be livable.",
-      "From UB? Your city's biggest achievement is making Beijing's air look clean."
-    ]
+      "From UB? Your city's biggest achievement is making Beijing's air look clean.",
+    ],
   },
 
   // NORTH KOREA
@@ -3728,7 +4071,7 @@ export const roastDatabase = {
       "North Korea: The only country where darkness is visible from space.",
       "Where 'culture' is whatever the Kim family approves.",
       "North Korea: Proof that isolation doesn't preserve anything worth preserving.",
-      "From North Korea? Your country's biggest export is threats and refugees."
+      "From North Korea? Your country's biggest export is threats and refugees.",
     ],
     pyongyang: [
       "Pyongyang? Where the buildings are empty but the propaganda is full.",
@@ -3740,8 +4083,8 @@ export const roastDatabase = {
       "Pyongyang: The only capital where traffic jams are impossible because there are no cars.",
       "Where 'architecture' means whatever makes the leader look good.",
       "Pyongyang: Proof that you can build a capital without capitalism or success.",
-      "From Pyongyang? Your city's biggest achievement is the mass games where humans become pixels."
-    ]
+      "From Pyongyang? Your city's biggest achievement is the mass games where humans become pixels.",
+    ],
   },
 
   // VENEZUELA
@@ -3756,7 +4099,7 @@ export const roastDatabase = {
       "Venezuela: The only country where inflation broke calculators.",
       "Where 'currency' is more useful as toilet paper.",
       "Venezuela: Proof that oil can't fix stupid governance.",
-      "From Venezuela? Your country's biggest export is refugees and cautionary tales."
+      "From Venezuela? Your country's biggest export is refugees and cautionary tales.",
     ],
     caracas: [
       "Caracas? Where the murder rate competes with the inflation rate.",
@@ -3768,8 +4111,8 @@ export const roastDatabase = {
       "Caracas: The only capital where the morgue is busier than the hospitals.",
       "Where 'security' means how many locks on your door.",
       "Caracas: Proof that oil money can't buy safety.",
-      "From Caracas? Your city's biggest achievement is making other dangerous cities look safe."
-    ]
+      "From Caracas? Your city's biggest achievement is making other dangerous cities look safe.",
+    ],
   },
 
   // COLOMBIA
@@ -3784,7 +4127,7 @@ export const roastDatabase = {
       "Colombia: The only country where tourism slogans fight narco stereotypes.",
       "Where 'progress' means fewer kidnappings than last year.",
       "Colombia: Proof that Netflix shows don't help country reputation.",
-      "From Colombia? Your country's biggest export is coffee and trying to change the subject from cocaine."
+      "From Colombia? Your country's biggest export is coffee and trying to change the subject from cocaine.",
     ],
     bogota: [
       "Bogotá? Where the altitude is high and so is the crime.",
@@ -3796,7 +4139,7 @@ export const roastDatabase = {
       "Bogotá: The only capital where rain is more reliable than public transport.",
       "Where 'culture' happens in malls because the streets aren't safe.",
       "Bogotá: Proof that altitude doesn't equal attitude.",
-      "From Bogotá? Your city's biggest achievement is making Medellín look good."
+      "From Bogotá? Your city's biggest achievement is making Medellín look good.",
     ],
     medellin: [
       "Medellín? Pablo's hometown trying to rebrand with cable cars.",
@@ -3808,8 +4151,8 @@ export const roastDatabase = {
       "Medellín: The only city where cable cars are public transport and history.",
       "Where 'transformation' means hipsters replaced hitmen.",
       "Medellín: Proof that cities can change but stereotypes don't.",
-      "From Medellín? Your city's biggest achievement is convincing people it's safe now."
-    ]
+      "From Medellín? Your city's biggest achievement is convincing people it's safe now.",
+    ],
   },
 
   // PERU
@@ -3824,7 +4167,7 @@ export const roastDatabase = {
       "Peru: The only country where presidents last less than the food poisoning.",
       "Where 'culture' means charging tourists to see what conquistadors missed.",
       "Peru: Proof that great history doesn't guarantee a great present.",
-      "From Peru? Your country's biggest export is quinoa and political chaos."
+      "From Peru? Your country's biggest export is quinoa and political chaos.",
     ],
     lima: [
       "Lima? Where the fog is thicker than the traffic.",
@@ -3836,8 +4179,8 @@ export const roastDatabase = {
       "Lima: The only capital where the beach is there but nobody swims.",
       "Where 'development' means another mall in San Isidro.",
       "Lima: Proof that coastal doesn't mean pleasant.",
-      "From Lima? Your city's biggest achievement is making Cusco look organized."
-    ]
+      "From Lima? Your city's biggest achievement is making Cusco look organized.",
+    ],
   },
 
   // ECUADOR
@@ -3852,7 +4195,7 @@ export const roastDatabase = {
       "Ecuador: The only country where the roses are beautiful and everything else is thorny.",
       "Where 'stability' is measured in months between protests.",
       "Ecuador: Proof that perfect geography doesn't guarantee success.",
-      "From Ecuador? Your country's biggest export is flowers and people seeking better lives."
+      "From Ecuador? Your country's biggest export is flowers and people seeking better lives.",
     ],
     quito: [
       "Quito? Where the altitude is higher than the employment rate.",
@@ -3864,7 +4207,7 @@ export const roastDatabase = {
       "Quito: The only capital where the view is better than the reality.",
       "Where 'planning' means building wherever the mountain allows.",
       "Quito: Proof that being a UNESCO site doesn't pay bills.",
-      "From Quito? Your city's biggest achievement is making Guayaquil look stable."
+      "From Quito? Your city's biggest achievement is making Guayaquil look stable.",
     ],
     guayaquil: [
       "Guayaquil? Where the heat is oppressive and so is the crime.",
@@ -3876,8 +4219,8 @@ export const roastDatabase = {
       "Guayaquil: The only city where iguanas have more rights than pedestrians.",
       "Where 'culture' went to die in the heat.",
       "Guayaquil: Proof that being the biggest doesn't mean being the best.",
-      "From Guayaquil? Your city's biggest achievement is making Quito look exciting."
-    ]
+      "From Guayaquil? Your city's biggest achievement is making Quito look exciting.",
+    ],
   },
 
   // BOLIVIA
@@ -3892,7 +4235,7 @@ export const roastDatabase = {
       "Bolivia: The only country where oxygen bars make economic sense.",
       "Where 'development' is as rare as sea-level air.",
       "Bolivia: Proof that having resources doesn't mean having results.",
-      "From Bolivia? Your country's biggest export is lithium and unfulfilled potential."
+      "From Bolivia? Your country's biggest export is lithium and unfulfilled potential.",
     ],
     la_paz: [
       "La Paz? Where the government is as dysfunctional as the oxygen levels.",
@@ -3904,8 +4247,8 @@ export const roastDatabase = {
       "La Paz: The only capital where walking upstairs is an extreme sport.",
       "Where 'heights' refers to altitude, not achievements.",
       "La Paz: Proof that being unique doesn't mean being functional.",
-      "From La Paz? Your city's biggest achievement is making people appreciate sea level."
-    ]
+      "From La Paz? Your city's biggest achievement is making people appreciate sea level.",
+    ],
   },
 
   // PARAGUAY
@@ -3920,7 +4263,7 @@ export const roastDatabase = {
       "Paraguay: The only country where being landlocked is the least of the problems.",
       "Where 'economy' means whatever falls off trucks from Brazil.",
       "Paraguay: Proof that surviving wars doesn't mean thriving in peace.",
-      "From Paraguay? Your country's biggest export is electricity and anonymity."
+      "From Paraguay? Your country's biggest export is electricity and anonymity.",
     ],
     asuncion: [
       "Asunción? The capital that everyone assumes is somewhere else.",
@@ -3932,8 +4275,8 @@ export const roastDatabase = {
       "Asunción: The only capital where the river is more famous than the city.",
       "Where 'development' means a new shopping mall for contraband goods.",
       "Asunción: Proof that being a capital doesn't require being memorable.",
-      "From Asunción? Your city's biggest achievement is existing despite irrelevance."
-    ]
+      "From Asunción? Your city's biggest achievement is existing despite irrelevance.",
+    ],
   },
 
   // URUGUAY
@@ -3948,7 +4291,7 @@ export const roastDatabase = {
       "Uruguay: The only country where excitement is illegal after 10 PM.",
       "Where 'culture' means mate and complaining about Argentina.",
       "Uruguay: Proof that being peaceful doesn't mean being interesting.",
-      "From Uruguay? Your country's biggest export is football players who succeed elsewhere."
+      "From Uruguay? Your country's biggest export is football players who succeed elsewhere.",
     ],
     montevideo: [
       "Montevideo? Buenos Aires' depressed little brother.",
@@ -3960,8 +4303,8 @@ export const roastDatabase = {
       "Montevideo: The only capital where the cemetery is the liveliest place.",
       "Where 'nightlife' means walking on the rambla alone.",
       "Montevideo: Proof that coastal location doesn't guarantee vibrancy.",
-      "From Montevideo? Your city's biggest achievement is being calmer than Buenos Aires."
-    ]
+      "From Montevideo? Your city's biggest achievement is being calmer than Buenos Aires.",
+    ],
   },
 
   // CHILE
@@ -3976,7 +4319,7 @@ export const roastDatabase = {
       "Chile: The only country shaped like a natural disaster.",
       "Where 'success' means being Latin America's most unequal success story.",
       "Chile: Proof that GDP growth doesn't mean quality of life.",
-      "From Chile? Your country's biggest export is copper and discontent."
+      "From Chile? Your country's biggest export is copper and discontent.",
     ],
     santiago: [
       "Santiago? Where the smog is thicker than the social mobility.",
@@ -3988,8 +4331,8 @@ export const roastDatabase = {
       "Santiago: The only capital where the metro burns during protests.",
       "Where 'development' means another tower in Las Condes.",
       "Santiago: Proof that mountains can't contain urban sprawl or discontent.",
-      "From Santiago? Your city's biggest achievement is making other Latin capitals look equal."
-    ]
+      "From Santiago? Your city's biggest achievement is making other Latin capitals look equal.",
+    ],
   },
 
   // CUBA
@@ -4004,7 +4347,7 @@ export const roastDatabase = {
       "Cuba: The only country where time stopped in 1959.",
       "Where 'equality' means everyone's equally poor except the party.",
       "Cuba: Proof that free healthcare doesn't help if there's no food.",
-      "From Cuba? Your country's biggest export is refugees and nostalgia."
+      "From Cuba? Your country's biggest export is refugees and nostalgia.",
     ],
     havana: [
       "Havana? Where the buildings are falling faster than the regime.",
@@ -4016,8 +4359,8 @@ export const roastDatabase = {
       "Havana: The only capital where decay is called 'authentic charm'.",
       "Where 'restoration' means whatever tourists will pay to see.",
       "Havana: Proof that being photogenic doesn't mean being livable.",
-      "From Havana? Your city's biggest achievement is looking good while falling apart."
-    ]
+      "From Havana? Your city's biggest achievement is looking good while falling apart.",
+    ],
   },
 
   // JAMAICA
@@ -4032,7 +4375,7 @@ export const roastDatabase = {
       "Jamaica: The only country where the exchange rate is higher than the employment rate.",
       "Where 'culture' gets packaged and sold to cruise ships.",
       "Jamaica: Proof that having Bob Marley doesn't solve economic problems.",
-      "From Jamaica? Your country's biggest export is reggae and brain drain."
+      "From Jamaica? Your country's biggest export is reggae and brain drain.",
     ],
     kingston: [
       "Kingston? Where the music is good but the violence is worse.",
@@ -4044,8 +4387,8 @@ export const roastDatabase = {
       "Kingston: The only capital where the embassy district is the safest part.",
       "Where 'culture' happens behind security gates.",
       "Kingston: Proof that being a cultural capital doesn't mean being safe.",
-      "From Kingston? Your city's biggest achievement is producing music that makes people forget about the murder rate."
-    ]
+      "From Kingston? Your city's biggest achievement is producing music that makes people forget about the murder rate.",
+    ],
   },
 
   // HAITI
@@ -4060,7 +4403,7 @@ export const roastDatabase = {
       "Haiti: The only country where cholera was an improvement from the UN.",
       "Where 'aid' means keeping people dependent, not developing.",
       "Haiti: Proof that independence doesn't guarantee prosperity.",
-      "From Haiti? Your country's biggest export is tragedy and talented people fleeing it."
+      "From Haiti? Your country's biggest export is tragedy and talented people fleeing it.",
     ],
     port_au_prince: [
       "Port-au-Prince? Where the prince left and took all hope with him.",
@@ -4072,8 +4415,8 @@ export const roastDatabase = {
       "Port-au-Prince: The only capital where tent cities are permanent architecture.",
       "Where 'development' means another NGO headquarters.",
       "Port-au-Prince: Proof that capitals can exist without functioning.",
-      "From Port-au-Prince? Your city's biggest achievement is still standing, barely."
-    ]
+      "From Port-au-Prince? Your city's biggest achievement is still standing, barely.",
+    ],
   },
 
   // DOMINICAN REPUBLIC
@@ -4088,7 +4431,7 @@ export const roastDatabase = {
       "Dominican Republic: The only country where the all-inclusive doesn't include locals.",
       "Where 'development' means another resort on stolen beach land.",
       "Dominican Republic: Proof that tourism doesn't trickle down.",
-      "From DR? Your country's biggest export is baseball players and broken dreams."
+      "From DR? Your country's biggest export is baseball players and broken dreams.",
     ],
     santo_domingo: [
       "Santo Domingo? The oldest city acting like it matters.",
@@ -4100,8 +4443,8 @@ export const roastDatabase = {
       "Santo Domingo: The only capital where the past is more developed than the present.",
       "Where 'culture' means charging tourists to see old buildings.",
       "Santo Domingo: Proof that being first doesn't mean being best.",
-      "From Santo Domingo? Your city's biggest achievement happened 500 years ago."
-    ]
+      "From Santo Domingo? Your city's biggest achievement happened 500 years ago.",
+    ],
   },
 
   // COSTA RICA
@@ -4116,7 +4459,7 @@ export const roastDatabase = {
       "Costa Rica: The only country where Americans go to ruin another healthcare system.",
       "Where 'paradise' means paradise for foreigners with dollars.",
       "Costa Rica: Proof that eco-friendly doesn't mean local-friendly.",
-      "From Costa Rica? Your country's biggest export is residency permits to retirees."
+      "From Costa Rica? Your country's biggest export is residency permits to retirees.",
     ],
     san_jose: [
       "San José? Where the traffic is worse than the crime, barely.",
@@ -4128,8 +4471,8 @@ export const roastDatabase = {
       "San José: The only capital where the suburbs are safer and more interesting.",
       "Where 'culture' fled to the coasts with the tourists.",
       "San José: Proof that being a capital doesn't require character.",
-      "From San José? Your city's biggest achievement is having an international airport."
-    ]
+      "From San José? Your city's biggest achievement is having an international airport.",
+    ],
   },
 
   // PANAMA
@@ -4144,7 +4487,7 @@ export const roastDatabase = {
       "Panama: The only country where shell companies outnumber actual companies.",
       "Where 'discretion' is the national motto.",
       "Panama: Proof that strategic location beats actual development.",
-      "From Panama? Your country's biggest export is financial secrecy and scandals."
+      "From Panama? Your country's biggest export is financial secrecy and scandals.",
     ],
     panama_city: [
       "Panama City? Where the skyline is money laundering made manifest.",
@@ -4156,8 +4499,8 @@ export const roastDatabase = {
       "Panama City: The only capital where the buildings are taller than the morals.",
       "Where 'banking' means asking no questions.",
       "Panama City: Proof that dirty money builds clean buildings.",
-      "From Panama City? Your city's biggest achievement is making Swiss banking look transparent."
-    ]
+      "From Panama City? Your city's biggest achievement is making Swiss banking look transparent.",
+    ],
   },
 
   // HONDURAS
@@ -4172,7 +4515,7 @@ export const roastDatabase = {
       "Honduras: The only country where coup d'état is a seasonal event.",
       "Where 'governance' is a theoretical concept.",
       "Honduras: Proof that beautiful beaches can't hide ugly realities.",
-      "From Honduras? Your country's biggest export is asylum seekers and coffee."
+      "From Honduras? Your country's biggest export is asylum seekers and coffee.",
     ],
     tegucigalpa: [
       "Tegucigalpa? Even the name sounds like giving up.",
@@ -4184,8 +4527,8 @@ export const roastDatabase = {
       "Tegucigalpa: The only capital where the embassy district is a fortress.",
       "Where 'development' means another mall for the rich to hide in.",
       "Tegucigalpa: Proof that being a capital doesn't mean being functional.",
-      "From Tegucigalpa? Your city's biggest achievement is not being San Pedro Sula."
-    ]
+      "From Tegucigalpa? Your city's biggest achievement is not being San Pedro Sula.",
+    ],
   },
 
   // GUATEMALA
@@ -4200,7 +4543,7 @@ export const roastDatabase = {
       "Guatemala: The only country where child labor is in the coffee you're drinking.",
       "Where 'development' means another mall in Zone 10.",
       "Guatemala: Proof that natural beauty can't overcome human ugliness.",
-      "From Guatemala? Your country's biggest export is coffee picked by children."
+      "From Guatemala? Your country's biggest export is coffee picked by children.",
     ],
     guatemala_city: [
       "Guatemala City? Where zones are numbered because names require creativity.",
@@ -4212,8 +4555,8 @@ export const roastDatabase = {
       "Guatemala City: The only capital where addresses are based on survival odds.",
       "Where 'public transport' means chicken buses and prayers.",
       "Guatemala City: Proof that capitals can be dangerous and boring simultaneously.",
-      "From Guatemala City? Your city's biggest achievement is making other Central American capitals look safe."
-    ]
+      "From Guatemala City? Your city's biggest achievement is making other Central American capitals look safe.",
+    ],
   },
 
   // EL SALVADOR
@@ -4228,7 +4571,7 @@ export const roastDatabase = {
       "El Salvador: The only country where pupusas are thicker than opportunities.",
       "Where 'progress' means the murder rate dropped to only horrifying.",
       "El Salvador: Proof that being small doesn't mean your problems are.",
-      "From El Salvador? Your country's biggest export is gang members and refugees."
+      "From El Salvador? Your country's biggest export is gang members and refugees.",
     ],
     san_salvador: [
       "San Salvador? Where the savior forgot to save anything.",
@@ -4240,8 +4583,8 @@ export const roastDatabase = {
       "San Salvador: The only capital where Bitcoin ATMs outnumber regular ATMs.",
       "Where 'development' means another fortified shopping center.",
       "San Salvador: Proof that holy names don't guarantee holy outcomes.",
-      "From San Salvador? Your city's biggest achievement is surviving another day."
-    ]
+      "From San Salvador? Your city's biggest achievement is surviving another day.",
+    ],
   },
 
   // NICARAGUA
@@ -4256,7 +4599,7 @@ export const roastDatabase = {
       "Nicaragua: The only country where the canal is imaginary but the repression is real.",
       "Where 'democracy' is a word they stopped pretending to care about.",
       "Nicaragua: Proof that revolutionaries make the worst leaders.",
-      "From Nicaragua? Your country's biggest export is refugees and broken dreams."
+      "From Nicaragua? Your country's biggest export is refugees and broken dreams.",
     ],
     managua: [
       "Managua? The capital that an earthquake improved.",
@@ -4268,8 +4611,8 @@ export const roastDatabase = {
       "Managua: The only capital where the center is empty because it's safer that way.",
       "Where 'architecture' means whatever survived the earthquake.",
       "Managua: Proof that some cities shouldn't be rebuilt.",
-      "From Managua? Your city's biggest achievement is making Tegucigalpa look organized."
-    ]
+      "From Managua? Your city's biggest achievement is making Tegucigalpa look organized.",
+    ],
   },
 
   // BELIZE
@@ -4284,7 +4627,7 @@ export const roastDatabase = {
       "Belize: The only country where being a tax haven is plan A through Z.",
       "Where 'development' means another resort owned by foreigners.",
       "Belize: Proof that speaking English doesn't make you prosperous.",
-      "From Belize? Your country's biggest export is citizenship to criminals."
+      "From Belize? Your country's biggest export is citizenship to criminals.",
     ],
     belize_city: [
       "Belize City? Where the hurricane cleanup from 1961 isn't finished.",
@@ -4296,8 +4639,8 @@ export const roastDatabase = {
       "Belize City: The only city where being former capital was a promotion.",
       "Where 'infrastructure' is a suggestion ignored since independence.",
       "Belize City: Proof that coastal doesn't mean pleasant.",
-      "From Belize City? Your city's biggest achievement is no longer being the capital."
-    ]
+      "From Belize City? Your city's biggest achievement is no longer being the capital.",
+    ],
   },
 
   // GUYANA
@@ -4312,7 +4655,7 @@ export const roastDatabase = {
       "Guyana: The only country where the suicide rate competes with the emigration rate.",
       "Where 'development' means waiting for oil money to trickle down.",
       "Guyana: Proof that oil discoveries don't instantly fix countries.",
-      "From Guyana? Your country's biggest export is people fleeing to Brooklyn."
+      "From Guyana? Your country's biggest export is people fleeing to Brooklyn.",
     ],
     georgetown: [
       "Georgetown? Where the seawall holds back more than just water.",
@@ -4324,8 +4667,8 @@ export const roastDatabase = {
       "Georgetown: The only capital where the canals smell worse than the politics.",
       "Where 'infrastructure' means Dutch systems from when they cared.",
       "Georgetown: Proof that being a capital doesn't mean being functional.",
-      "From Georgetown? Your city's biggest achievement is producing New Yorkers."
-    ]
+      "From Georgetown? Your city's biggest achievement is producing New Yorkers.",
+    ],
   },
 
   // SURINAME
@@ -4340,7 +4683,7 @@ export const roastDatabase = {
       "Suriname: The only country where the rainforest is worth more than the government.",
       "Where 'development' means another Chinese loan for nothing useful.",
       "Suriname: Proof that independence doesn't guarantee success.",
-      "From Suriname? Your country's biggest export is people to the Netherlands."
+      "From Suriname? Your country's biggest export is people to the Netherlands.",
     ],
     paramaribo: [
       "Paramaribo? Where the wooden buildings last longer than political stability.",
@@ -4352,8 +4695,8 @@ export const roastDatabase = {
       "Paramaribo: The only capital where traffic jams involve 10 cars.",
       "Where 'nightlife' means the one club everyone goes to.",
       "Paramaribo: Proof that being unique doesn't mean being successful.",
-      "From Paramaribo? Your city's biggest achievement is being a UNESCO site nobody visits."
-    ]
+      "From Paramaribo? Your city's biggest achievement is being a UNESCO site nobody visits.",
+    ],
   },
 
   // FRENCH GUIANA
@@ -4368,7 +4711,7 @@ export const roastDatabase = {
       "French Guiana: The only place where French bureaucracy meets Amazon inefficiency.",
       "Where 'development' means another rocket launch pad.",
       "French Guiana: Proof that being part of France doesn't mean being French.",
-      "From French Guiana? Your territory's biggest export is satellites and sadness."
+      "From French Guiana? Your territory's biggest export is satellites and sadness.",
     ],
     cayenne: [
       "Cayenne? Spicier name than the actual city.",
@@ -4380,8 +4723,8 @@ export const roastDatabase = {
       "Cayenne: The only capital where Devil's Island was the most interesting part.",
       "Where 'culture' is whatever France forgot to take back.",
       "Cayenne: Proof that French colonialism is alive and well.",
-      "From Cayenne? Your city's biggest achievement is being where paprika isn't from."
-    ]
+      "From Cayenne? Your city's biggest achievement is being where paprika isn't from.",
+    ],
   },
 
   // BARBADOS
@@ -4396,7 +4739,7 @@ export const roastDatabase = {
       "Barbados: The only country where independence meant keeping the Queen.",
       "Where 'culture' is cricket and whatever tourists expect.",
       "Barbados: Proof that perfect beaches don't guarantee perfect society.",
-      "From Barbados? Your island's biggest export is Rihanna and colonial nostalgia."
+      "From Barbados? Your island's biggest export is Rihanna and colonial nostalgia.",
     ],
     bridgetown: [
       "Bridgetown? Where the cruise ships matter more than citizens.",
@@ -4408,8 +4751,8 @@ export const roastDatabase = {
       "Bridgetown: The only capital where the port is more important than parliament.",
       "Where 'development' means another jewelry store for cruise passengers.",
       "Bridgetown: Proof that UNESCO status doesn't pay local bills.",
-      "From Bridgetown? Your city's biggest achievement is being in Rihanna's passport."
-    ]
+      "From Bridgetown? Your city's biggest achievement is being in Rihanna's passport.",
+    ],
   },
 
   // TRINIDAD AND TOBAGO
@@ -4424,7 +4767,7 @@ export const roastDatabase = {
       "T&T: The only country where Carnival is the national retirement plan.",
       "Where 'diversity' means arguing about Indian vs African food.",
       "Trinidad and Tobago: Proof that oil wealth doesn't last forever.",
-      "From T&T? Your country's biggest export is Carnival costumes and brain drain."
+      "From T&T? Your country's biggest export is Carnival costumes and brain drain.",
     ],
     port_of_spain: [
       "Port of Spain? Where the party never stops because reality is too harsh.",
@@ -4436,8 +4779,8 @@ export const roastDatabase = {
       "Port of Spain: The only capital where fetes matter more than employment.",
       "Where 'culture' means steelpan and ignoring problems.",
       "Port of Spain: Proof that good vibes can't fix bad governance.",
-      "From Port of Spain? Your city's biggest achievement is Carnival, annually."
-    ]
+      "From Port of Spain? Your city's biggest achievement is Carnival, annually.",
+    ],
   },
 
   // BAHAMAS
@@ -4452,7 +4795,7 @@ export const roastDatabase = {
       "Bahamas: The only country where the fish are smarter than the politicians.",
       "Where 'development' means another resort foreign-owned resort.",
       "Bahamas: Proof that 700 islands can't create one functional government.",
-      "From the Bahamas? Your country's biggest export is empty beaches and full casinos."
+      "From the Bahamas? Your country's biggest export is empty beaches and full casinos.",
     ],
     nassau: [
       "Nassau? Where cruise ships dump tourists like toxic waste.",
@@ -4464,8 +4807,8 @@ export const roastDatabase = {
       "Nassau: The only capital where straw markets outnumber supermarkets.",
       "Where 'authentic' means whatever cruise passengers will buy.",
       "Nassau: Proof that proximity to Florida isn't always good.",
-      "From Nassau? Your city's biggest achievement is convincing tourists it's authentic."
-    ]
+      "From Nassau? Your city's biggest achievement is convincing tourists it's authentic.",
+    ],
   },
 
   // FIJI
@@ -4480,7 +4823,7 @@ export const roastDatabase = {
       "Fiji: The only country where 'Bula' means hello and goodbye to democracy.",
       "Where 'stability' is measured in months between coups.",
       "Fiji: Proof that island paradise doesn't mean political paradise.",
-      "From Fiji? Your country's biggest export is water and instability."
+      "From Fiji? Your country's biggest export is water and instability.",
     ],
     suva: [
       "Suva? Where it rains more than Seattle but with coup seasons.",
@@ -4492,8 +4835,8 @@ export const roastDatabase = {
       "Suva: The only capital where rain is more predictable than government.",
       "Where 'nightlife' ends when the rain starts at 6 PM.",
       "Suva: Proof that being a capital doesn't mean being visited.",
-      "From Suva? Your city's biggest achievement is not being overthrown this month."
-    ]
+      "From Suva? Your city's biggest achievement is not being overthrown this month.",
+    ],
   },
 
   // PAPUA NEW GUINEA
@@ -4508,7 +4851,7 @@ export const roastDatabase = {
       "PNG: The only country where diversity means 800 ways to say 'help'.",
       "Where 'development' is a word only heard in aid meetings.",
       "Papua New Guinea: Proof that resources don't create prosperity.",
-      "From PNG? Your country's biggest export is raw materials and refined problems."
+      "From PNG? Your country's biggest export is raw materials and refined problems.",
     ],
     port_moresby: [
       "Port Moresby? Where the crime rate is higher than the humidity.",
@@ -4520,8 +4863,8 @@ export const roastDatabase = {
       "Port Moresby: The only capital where the airport is the safest place.",
       "Where 'security' means armed guards for grocery shopping.",
       "Port Moresby: Proof that being a capital doesn't mean being civilized.",
-      "From Port Moresby? Your city's biggest achievement is making other dangerous cities look appealing."
-    ]
+      "From Port Moresby? Your city's biggest achievement is making other dangerous cities look appealing.",
+    ],
   },
 
   // SOLOMON ISLANDS
@@ -4536,7 +4879,7 @@ export const roastDatabase = {
       "Solomon Islands: The only country where riots follow diplomatic switches.",
       "Where 'development' means selling everything to the highest bidder.",
       "Solomon Islands: Proof that island nations are geopolitical pawns.",
-      "From the Solomons? Your country's biggest export is logs and sovereignty."
+      "From the Solomons? Your country's biggest export is logs and sovereignty.",
     ],
     honiara: [
       "Honiara? Where the Chinatown burns every few years.",
@@ -4548,8 +4891,8 @@ export const roastDatabase = {
       "Honiara: The only capital where the Chinese embassy needs constant guards.",
       "Where 'stability' means months without burning buildings.",
       "Honiara: Proof that small capitals can have big problems.",
-      "From Honiara? Your city's biggest achievement is rebuilding after each riot."
-    ]
+      "From Honiara? Your city's biggest achievement is rebuilding after each riot.",
+    ],
   },
 
   // VANUATU
@@ -4564,7 +4907,7 @@ export const roastDatabase = {
       "Vanuatu: The only country where citizenship costs less than safety.",
       "Where 'planning' means hoping the volcano doesn't erupt.",
       "Vanuatu: Proof that paradise comes with natural disasters.",
-      "From Vanuatu? Your country's biggest export is passports and earthquake footage."
+      "From Vanuatu? Your country's biggest export is passports and earthquake footage.",
     ],
     port_vila: [
       "Port Vila? Where expats buy passports and locals can't buy bread.",
@@ -4576,8 +4919,8 @@ export const roastDatabase = {
       "Port Vila: The only capital where earthquakes do urban planning.",
       "Where 'development' means another citizenship scheme.",
       "Port Vila: Proof that selling passports doesn't build nations.",
-      "From Port Vila? Your city's biggest achievement is surviving between disasters."
-    ]
+      "From Port Vila? Your city's biggest achievement is surviving between disasters.",
+    ],
   },
 
   // SAMOA
@@ -4592,7 +4935,7 @@ export const roastDatabase = {
       "Samoa: The only country where changing which side to drive on is recent news.",
       "Where 'development' respects tradition, meaning it doesn't happen.",
       "Samoa: Proof that independence doesn't mean economic independence.",
-      "From Samoa? Your country's biggest export is rugby players and remittances."
+      "From Samoa? Your country's biggest export is rugby players and remittances.",
     ],
     apia: [
       "Apia? Where Robert Louis Stevenson is still the most famous resident.",
@@ -4604,8 +4947,8 @@ export const roastDatabase = {
       "Apia: The only capital where traditional meetings last longer than parliament.",
       "Where 'rush hour' is five cars at the same intersection.",
       "Apia: Proof that being a capital doesn't require traffic lights.",
-      "From Apia? Your city's biggest achievement is confusing tourists about the time zone."
-    ]
+      "From Apia? Your city's biggest achievement is confusing tourists about the time zone.",
+    ],
   },
 
   // TONGA
@@ -4620,7 +4963,7 @@ export const roastDatabase = {
       "Tonga: The only country where the monarchy has more weight than democracy, literally.",
       "Where 'reform' means the king allows slightly more criticism.",
       "Tonga: Proof that being a kingdom doesn't make you magical.",
-      "From Tonga? Your country's biggest export is rugby players to real countries."
+      "From Tonga? Your country's biggest export is rugby players to real countries.",
     ],
     nukualofa: [
       "Nuku'alofa? Where the apostrophe is the most exciting part.",
@@ -4632,8 +4975,8 @@ export const roastDatabase = {
       "Nuku'alofa: The only capital where pigs have right of way.",
       "Where 'infrastructure' is a word only foreign aid workers use.",
       "Nuku'alofa: Proof that having a palace doesn't make you important.",
-      "From Nuku'alofa? Your city's biggest achievement is being hard to pronounce."
-    ]
+      "From Nuku'alofa? Your city's biggest achievement is being hard to pronounce.",
+    ],
   },
 
   // MICRONESIA
@@ -4648,8 +4991,8 @@ export const roastDatabase = {
       "Micronesia: The only country where Compact money is the compact everything.",
       "Where 'development' means whatever the US military needs.",
       "Micronesia: Proof that strategic location beats actual development.",
-      "From Micronesia? Your country's biggest export is strategic military position."
-    ]
+      "From Micronesia? Your country's biggest export is strategic military position.",
+    ],
   },
 
   // PALAU
@@ -4664,8 +5007,8 @@ export const roastDatabase = {
       "Palau: The only country where fish have more rights than workers.",
       "Where 'conservation' means keeping locals poor for tourist photos.",
       "Palau: Proof that environmental protection doesn't pay bills.",
-      "From Palau? Your country's biggest export is underwater photos and debt."
-    ]
+      "From Palau? Your country's biggest export is underwater photos and debt.",
+    ],
   },
 
   // MARSHALL ISLANDS
@@ -4680,8 +5023,8 @@ export const roastDatabase = {
       "Marshall Islands: The only country where the past glows and the future drowns.",
       "Where 'reparations' means not enough for what was done.",
       "Marshall Islands: Proof that strategic location means being expendable.",
-      "From the Marshalls? Your country's biggest export is lawsuits and radiation data."
-    ]
+      "From the Marshalls? Your country's biggest export is lawsuits and radiation data.",
+    ],
   },
 
   // KIRIBATI
@@ -4696,8 +5039,8 @@ export const roastDatabase = {
       "Kiribati: The only country where elevation is measured in inches.",
       "Where 'future planning' means which country to flee to.",
       "Kiribati: Proof that island paradise can become ocean floor.",
-      "From Kiribati? Your country's biggest export is climate change warnings nobody heeds."
-    ]
+      "From Kiribati? Your country's biggest export is climate change warnings nobody heeds.",
+    ],
   },
 
   // TUVALU
@@ -4712,8 +5055,8 @@ export const roastDatabase = {
       "Tuvalu: The only country where Google Earth needs frequent updates as it shrinks.",
       "Where 'national planning' means negotiating refugee status in advance.",
       "Tuvalu: Proof that countries can disappear in the digital age.",
-      "From Tuvalu? Your country's biggest export is domain names and desperation."
-    ]
+      "From Tuvalu? Your country's biggest export is domain names and desperation.",
+    ],
   },
 
   // NAURU
@@ -4728,8 +5071,8 @@ export const roastDatabase = {
       "Nauru: The only country where the before photos looked better.",
       "Where 'economy' means whatever Australia pays for refugee storage.",
       "Nauru: Proof that resource wealth guarantees nothing.",
-      "From Nauru? Your country's biggest export is human rights violations and regret."
-    ]
+      "From Nauru? Your country's biggest export is human rights violations and regret.",
+    ],
   },
 
   // COOK ISLANDS
@@ -4744,8 +5087,8 @@ export const roastDatabase = {
       "Cook Islands: The only place where having New Zealand's protection means enabling tax dodging.",
       "Where 'culture' is performed for cruise ships twice a week.",
       "Cook Islands: Proof that paradise can be a front for financial crimes.",
-      "From the Cooks? Your country's biggest export is tax avoidance schemes and black pearls."
-    ]
+      "From the Cooks? Your country's biggest export is tax avoidance schemes and black pearls.",
+    ],
   },
 
   // NIUE
@@ -4760,8 +5103,8 @@ export const roastDatabase = {
       "Niue: The only country where the phone book is a pamphlet.",
       "Where 'infrastructure' means the one road around the island.",
       "Niue: Proof that you can be a country with fewer people than a concert.",
-      "From Niue? Your country's biggest achievement is having more domains than citizens."
-    ]
+      "From Niue? Your country's biggest achievement is having more domains than citizens.",
+    ],
   },
 
   // REGIONAL ROASTS
@@ -4778,8 +5121,8 @@ export const roastDatabase = {
       "Midwest: The only region where mayonnaise is considered exotic.",
       "Where 'culture' means different Lutheran churches.",
       "The Midwest: Proof that niceness and blandness are related.",
-      "From the Midwest? Your region's biggest export is repressed emotions and corn syrup."
-    ]
+      "From the Midwest? Your region's biggest export is repressed emotions and corn syrup.",
+    ],
   },
 
   // NEW ENGLAND (Generic)
@@ -4794,8 +5137,8 @@ export const roastDatabase = {
       "New England: The only region where snobbery is considered heritage.",
       "Where 'culture' means anything older than your racist grandparents.",
       "New England: Proof that being first doesn't mean being best.",
-      "From New England? Your region's biggest export is condescension and overpriced education."
-    ]
+      "From New England? Your region's biggest export is condescension and overpriced education.",
+    ],
   },
 
   // THE SOUTH (Generic - Additional)
@@ -4810,8 +5153,8 @@ export const roastDatabase = {
       "The South: The only region where the past is more alive than the future.",
       "Where 'culture' means whatever happened before 1865.",
       "The South: Proof that losing a war doesn't stop you from flying the flag.",
-      "From the South? Your region's biggest export is diabetes and denial."
-    ]
+      "From the South? Your region's biggest export is diabetes and denial.",
+    ],
   },
 
   // PACIFIC NORTHWEST (Generic - Additional)
@@ -4826,8 +5169,8 @@ export const roastDatabase = {
       "Pacific Northwest: The only region where rain is a personality trait.",
       "Where 'culture' means microbreweries and macroaggression.",
       "Pacific Northwest: Proof that natural beauty can't overcome social awkwardness.",
-      "From the PNW? Your region's biggest export is tech bros and suicide rates."
-    ]
+      "From the PNW? Your region's biggest export is tech bros and suicide rates.",
+    ],
   },
 
   // SOUTHWEST (Generic)
@@ -4842,8 +5185,8 @@ export const roastDatabase = {
       "Southwest: The only region where cacti have more personality than people.",
       "Where 'culture' means appropriated Native American art and tex-mex.",
       "Southwest: Proof that manifest destiny was a mistake.",
-      "From the Southwest? Your region's biggest export is heat stroke and xenophobia."
-    ]
+      "From the Southwest? Your region's biggest export is heat stroke and xenophobia.",
+    ],
   },
 
   // SCANDINAVIA (Generic)
@@ -4858,8 +5201,8 @@ export const roastDatabase = {
       "Scandinavia: The only region where small talk is a crime.",
       "Where 'culture' means minimalism because emotions are too much.",
       "Scandinavia: Proof that perfect societies are perfectly boring.",
-      "From Scandinavia? Your region's biggest export is death metal and seasonal depression."
-    ]
+      "From Scandinavia? Your region's biggest export is death metal and seasonal depression.",
+    ],
   },
 
   // EASTERN EUROPE (Generic)
@@ -4874,8 +5217,8 @@ export const roastDatabase = {
       "Eastern Europe: The only region where pessimism is optimistic.",
       "Where 'culture' means whatever survived the Soviets.",
       "Eastern Europe: Proof that independence doesn't guarantee prosperity.",
-      "From Eastern Europe? Your region's biggest export is programmers and prostitutes."
-    ]
+      "From Eastern Europe? Your region's biggest export is programmers and prostitutes.",
+    ],
   },
 
   // CENTRAL AMERICA (Generic)
@@ -4890,8 +5233,8 @@ export const roastDatabase = {
       "Central America: The only region where the CIA has more influence than governments.",
       "Where 'culture' gets packaged and sold to cruise ships.",
       "Central America: Proof that proximity to the US isn't a blessing.",
-      "From Central America? Your region's biggest export is refugees and regrets."
-    ]
+      "From Central America? Your region's biggest export is refugees and regrets.",
+    ],
   },
 
   // CARIBBEAN (Generic)
@@ -4906,8 +5249,8 @@ export const roastDatabase = {
       "Caribbean: The only region where rum can't drown out the inequality.",
       "Where 'culture' is whatever tourists expect to see.",
       "Caribbean: Proof that paradise is a marketing term.",
-      "From the Caribbean? Your region's biggest export is offshore accounts and onshore poverty."
-    ]
+      "From the Caribbean? Your region's biggest export is offshore accounts and onshore poverty.",
+    ],
   },
 
   // MIDDLE EAST (Generic)
@@ -4922,8 +5265,8 @@ export const roastDatabase = {
       "Middle East: The only region where peace talks last longer than wars.",
       "Where 'culture' survives despite everyone's best efforts to destroy it.",
       "Middle East: Proof that holy land doesn't mean peaceful land.",
-      "From the Middle East? Your region's biggest export is oil and conflict footage."
-    ]
+      "From the Middle East? Your region's biggest export is oil and conflict footage.",
+    ],
   },
 
   // OCEANIA (Generic)
@@ -4938,8 +5281,8 @@ export const roastDatabase = {
       "Oceania: The only region where 'neighbor' means a 3-hour flight away.",
       "Where 'culture' is whatever survived British colonization.",
       "Oceania: Proof that isolation doesn't mean independence.",
-      "From Oceania? Your region's biggest export is actors pretending to be American."
-    ]
+      "From Oceania? Your region's biggest export is actors pretending to be American.",
+    ],
   },
 
   // Generic/Default roasts for any unmatched location
@@ -4963,6 +5306,6 @@ export const roastDatabase = {
     "Your location is what happens when God runs out of ideas.",
     "I've heard of nowhere, and your town is 20 minutes past that.",
     "Your hometown's so irrelevant, even COVID skipped it.",
-    "From there? The place where ambition goes to die and mediocrity thrives."
-  ]
+    "From there? The place where ambition goes to die and mediocrity thrives.",
+  ],
 };
