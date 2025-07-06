@@ -1,4 +1,4 @@
-// src/data/roastDatabase.js - BRUTAL EDITION (MEGA EXPANDED)
+// src/data/roastDatabase.js - BRUTAL EDITION (MEGA EXPANDED WITH NEW LOCATIONS)
 export const roastDatabase = {
   // MASSACHUSETTS
   massachusetts: {
@@ -35,6 +35,62 @@ export const roastDatabase = {
       "From Boston? You definitely have strong opinions about which Dunkin' has the best coffee.",
       "Boston: The only city where a college degree is a personality trait and everyone has three.",
       "Where everyone's 'from Southie' until you ask them which street they grew up on."
+    ]
+  },
+
+  // MAINE
+  maine: {
+    generic: [
+      "Maine? Where the lobsters have more personality than the people.",
+      "From Maine? How's living in a state that's just Canada's forgotten basement?",
+      "Maine: Where everyone's either a fisherman or pretending to be Stephen King.",
+      "Oh, Maine? The state where winter lasts 11 months and the other month is mud season.",
+      "Maine: Where 'tourist season' means overcharging for seafood and flannel.",
+      "From Maine? Let me guess, you pronounce 'car' like 'cah' but ironically.",
+      "Maine: The only state where wearing Bean boots to a wedding is considered formal.",
+      "Where 'culture' means arguing about which lobster shack is authentic.",
+      "Maine: New Hampshire's more expensive, less relevant sibling.",
+      "From Maine? Your state's biggest achievement is Stephen King novels that nobody finishes."
+    ],
+    portland: [
+      "Portland, Maine? The city trying so hard to be Portland, Oregon but with worse weather.",
+      "From Portland, Maine? How's that craft brewery scene working with a population of 12?",
+      "Portland: Where every restaurant is 'farm to table' because there's literally nothing else.",
+      "Oh, Portland? The city where hipsters go to feel rustic.",
+      "Portland: Where everyone's a foodie but the food is just expensive lobster rolls.",
+      "From Portland? You definitely have strong opinions about which donut shop is better.",
+      "Portland: The only city where gentrification means adding a Starbucks.",
+      "Where 'artisanal' means overpriced and 'local' means your cousin made it.",
+      "Portland: Seattle's less successful, more pretentious cousin.",
+      "From Portland, Maine? Your city peaked when it was featured in a food magazine once."
+    ]
+  },
+
+  // VERMONT
+  vermont: {
+    generic: [
+      "Vermont? Where everyone's a socialist with a trust fund.",
+      "From Vermont? How's that maple syrup economy working out?",
+      "Vermont: Where the cows outnumber the people and have better healthcare.",
+      "Oh, Vermont? The state that's just New Hampshire with more guilt about being white.",
+      "Vermont: Where Bernie Sanders is your most normal resident.",
+      "From Vermont? Let me guess, you make your own kombucha and judge people who don't.",
+      "Vermont: The only state where being carbon neutral is a personality trait.",
+      "Where everyone drives a Subaru to their organic farm job.",
+      "Vermont: Proof that you can be liberal and boring at the same time.",
+      "From Vermont? Your state's biggest export is sanctimonious college students."
+    ],
+    burlington: [
+      "Burlington? The city where every college kid thinks they discovered socialism.",
+      "From Burlington? How's that progressive paradise with no diversity working out?",
+      "Burlington: Where everyone's woke but the city still sleeps at 9 PM.",
+      "Oh, Burlington? The city that's just a college town with delusions of importance.",
+      "Burlington: Where craft beer costs more than your rent in other states.",
+      "From Burlington? You definitely have a coexist sticker and zero self-awareness.",
+      "Burlington: The only city where being sustainable means you can't afford not to be.",
+      "Where 'culture' means farmer's markets and pretentious coffee shops.",
+      "Burlington: Portland's less cool, more pretentious cousin who went to liberal arts school.",
+      "From Burlington? Your city's idea of diversity is having both IPA and stout on tap."
     ]
   },
 
@@ -595,6 +651,18 @@ export const roastDatabase = {
       "Portland: Where strip clubs per capita outnumber jobs.",
       "From Portland? Your city is what happens when a liberal arts college becomes sentient.",
       "Portland: Proof that you can put a bird on it but you can't put a job on it."
+    ],
+    eugene: [
+      "Eugene? Portland's hippie cousin who never left the 70s.",
+      "From Eugene? How's that college town eternal adolescence working out?",
+      "Eugene: Where everyone's either a student or a 40-year-old student.",
+      "Oh, Eugene? The city where 'Ducks' is both the team and the sound of opportunity leaving.",
+      "Eugene: Where tie-dye is formal wear and showering is optional.",
+      "From Eugene? You definitely have a drum circle story nobody wants to hear.",
+      "Eugene: The only city where granola isn't just breakfast, it's a lifestyle.",
+      "Where 'culture' means outdoor concerts you can smell from three miles away.",
+      "Eugene: Salem's more stoned, less functional sibling.",
+      "From Eugene? Your city's biggest achievement is making Portland look corporate."
     ]
   },
 
@@ -673,7 +741,7 @@ export const roastDatabase = {
     ]
   },
 
-  // SOUTHERN STATES - NEW ADDITIONS
+  // SOUTHERN STATES
   alabama: {
     generic: [
       "Alabama? Where the family trees are circles and the education system is a straight line to nowhere.",
@@ -700,6 +768,74 @@ export const roastDatabase = {
       "Mobile: Where the port is the only thing that moves.",
       "Oh, Mobile? Alabama's attempt at having a beach town without understanding the assignment.",
       "Mobile: Where hurricanes are the most exciting thing that happens."
+    ]
+  },
+
+  // SOUTH CAROLINA
+  southcarolina: {
+    generic: [
+      "South Carolina? Where the history is ugly and the humidity is uglier.",
+      "From South Carolina? How's living in Georgia's more racist little brother?",
+      "South Carolina: Where the palmetto trees have more backbone than the politicians.",
+      "Oh, South Carolina? The state that started the Civil War and never got over losing it.",
+      "South Carolina: Where 'heritage' is code for 'we're still mad about 1865'.",
+      "From South Carolina? Let me guess, you think the Civil War was about 'states' rights'.",
+      "South Carolina: The only state where coastal flooding is karma.",
+      "Where everyone's either military or wishes they were Confederate military.",
+      "South Carolina: North Carolina's embarrassing sibling who peaked in the 1850s.",
+      "From South Carolina? Your state's biggest export is disappointment and sweet tea."
+    ],
+    charleston: [
+      "Charleston? The city where plantation tours are the main economy.",
+      "From Charleston? How's that antebellum charm covering up centuries of horror?",
+      "Charleston: Where Southern hospitality means smiling while overcharging tourists.",
+      "Oh, Charleston? The city that's basically Williamsburg for people who miss slavery.",
+      "Charleston: Where every house has a ghost and a guilty conscience.",
+      "From Charleston? You definitely give horse carriage tours and hate yourself for it.",
+      "Charleston: The only city where 'historic' means 'built on suffering'.",
+      "Where 'culture' means mint juleps and willful ignorance.",
+      "Charleston: Savannah's more pretentious cousin with worse food.",
+      "From Charleston? Your city's idea of progress is admitting slavery was 'problematic'."
+    ]
+  },
+
+  // NORTH CAROLINA
+  northcarolina: {
+    generic: [
+      "North Carolina? Where the barbecue is decent but the politics are rotten.",
+      "From North Carolina? How's living in a state that can't decide if it's the South or not?",
+      "North Carolina: Where Research Triangle can't research how to fix the rest of the state.",
+      "Oh, North Carolina? The state where basketball matters more than education funding.",
+      "North Carolina: Where everyone argues about vinegar vs. tomato-based BBQ like it's theology.",
+      "From North Carolina? Let me guess, you have strong opinions about which Carolina is better.",
+      "North Carolina: The only state where college sports are more important than voting rights.",
+      "Where 'culture' means arguing about Duke vs. UNC while ignoring actual problems.",
+      "North Carolina: Virginia's less sophisticated cousin with more NASCAR.",
+      "From North Carolina? Your state's biggest achievement is convincing people it's not South Carolina."
+    ],
+    charlotte: [
+      "Charlotte? The city trying to be Atlanta but with less personality.",
+      "From Charlotte? How's that banking hub life treating your soul?",
+      "Charlotte: Where everyone works in finance and dies a little inside daily.",
+      "Oh, Charlotte? The city that's just a giant bank with suburbs attached.",
+      "Charlotte: Where culture means which country club you can't afford.",
+      "From Charlotte? You definitely drive a luxury car you're upside down on.",
+      "Charlotte: The only city where 'diverse' means different types of bankers.",
+      "Where 'nightlife' means networking events with overpriced drinks.",
+      "Charlotte: Atlanta's boring cousin who went into finance instead of music.",
+      "From Charlotte? Your city's idea of excitement is a new strip mall with a Whole Foods."
+    ],
+    raleigh: [
+      "Raleigh? The city that exists solely for government jobs and college basketball.",
+      "From Raleigh? How's that Research Triangle working with all the brain drain?",
+      "Raleigh: Where everyone's either a student, a bureaucrat, or leaving.",
+      "Oh, Raleigh? The city that's just Durham's more boring sibling.",
+      "Raleigh: Where 'culture' means which college team you root for.",
+      "From Raleigh? You definitely have a state government job you hate.",
+      "Raleigh: The only city where the most exciting thing is legislative session.",
+      "Where 'diversity' means having both NC State and UNC fans.",
+      "Raleigh: Charlotte's less successful, more bureaucratic twin.",
+      "From Raleigh? Your city's biggest achievement is being the capital of mediocrity."
     ]
   },
 
@@ -769,7 +905,7 @@ export const roastDatabase = {
     ]
   },
 
-  // WESTERN STATES - NEW ADDITIONS
+  // WESTERN STATES
   utah: {
     generic: [
       "Utah? Where the mountains are high and the alcohol content is lower.",
@@ -903,6 +1039,62 @@ export const roastDatabase = {
       "Where 'culture' means which chain restaurant to try this weekend.",
       "Des Moines: Omaha's even more boring cousin.",
       "From Des Moines? Your city's biggest achievement is tricking companies to move there with tax breaks."
+    ]
+  },
+
+  // MONTANA
+  montana: {
+    generic: [
+      "Montana? Where the sky is big and the job opportunities are small.",
+      "From Montana? How's living in America's most expensive nature preserve?",
+      "Montana: Where everyone's a rancher but nobody can afford land.",
+      "Oh, Montana? The state where winter is 9 months and road construction is the other 3.",
+      "Montana: Where 'big sky' means you can see your unemployment from space.",
+      "From Montana? Let me guess, you know everyone in your county personally.",
+      "Montana: The only state where grizzly bears have better healthcare than residents.",
+      "Where 'nightlife' means the bar stays open until 10 PM.",
+      "Montana: Wyoming's more populated, equally irrelevant sibling.",
+      "From Montana? Your state's biggest export is young people fleeing to anywhere with WiFi."
+    ],
+    missoula: [
+      "Missoula? The city where college kids go to pretend they're outdoorsy.",
+      "From Missoula? How's that university town surrounded by mountains you never hike?",
+      "Missoula: Where everyone's studying something they'll never use professionally.",
+      "Oh, Missoula? The city that's just Bozeman for people who can't afford Bozeman.",
+      "Missoula: Where 'culture' means craft beer and complaining about Californians.",
+      "From Missoula? You definitely own hiking boots you've worn to bars more than trails.",
+      "Missoula: The only city where your barista has a master's degree in environmental science.",
+      "Where 'diverse' means having both Patagonia and REI.",
+      "Missoula: Eugene's less weird, more isolated cousin.",
+      "From Missoula? Your city's idea of excitement is when a new brewery opens."
+    ]
+  },
+
+  // IDAHO
+  idaho: {
+    generic: [
+      "Idaho? Where the potatoes have more personality than the people.",
+      "From Idaho? How's living in a state that's just Utah's less interesting sibling?",
+      "Idaho: Where everyone's either Mormon or hiding from the government.",
+      "Oh, Idaho? The state where Boise is considered cosmopolitan.",
+      "Idaho: Where 'diversity' means different types of white supremacists.",
+      "From Idaho? Let me guess, you've already mentioned potatoes defensively today.",
+      "Idaho: The only state where California refugees think they're pioneering.",
+      "Where 'culture' means arguing about gun rights and potato varieties.",
+      "Idaho: Montana's flatter, more boring cousin.",
+      "From Idaho? Your state's biggest achievement is not being North Dakota."
+    ],
+    boise: [
+      "Boise? The city trying to be Denver but with less altitude and more attitude.",
+      "From Boise? How's that 'hidden gem' status working now that everyone's found it?",
+      "Boise: Where Californians go to pretend they're rugged individualists.",
+      "Oh, Boise? The city that's just Salt Lake City without the Olympics or religion.",
+      "Boise: Where everyone moved for 'quality of life' and brought their traffic with them.",
+      "From Boise? You definitely complain about newcomers while being one yourself.",
+      "Boise: The only city where a Whole Foods opening is front-page news.",
+      "Where 'outdoor lifestyle' means driving your Subaru to a trailhead once a month.",
+      "Boise: Spokane's more successful, equally forgettable cousin.",
+      "From Boise? Your city's biggest achievement is being mentioned in a Netflix show once."
     ]
   },
 
@@ -1385,7 +1577,7 @@ export const roastDatabase = {
     ]
   },
 
-  // INTERNATIONAL LOCATIONS
+  // INTERNATIONAL LOCATIONS - MORE ADDITIONS
   germany: {
     generic: [
       "Germany? Where efficiency is a religion, but customer service is a sin.",
@@ -1593,6 +1785,115 @@ export const roastDatabase = {
       "Where 'culture' means ancient sites surrounded by concrete nightmares.",
       "Beijing: DC's authoritarian cousin with worse air.",
       "From Beijing? Your city's biggest achievement is making LA's smog look healthy."
+    ]
+  },
+
+  russia: {
+    generic: [
+      "Russia? Where vodka is a food group and democracy is a four-letter word.",
+      "From Russia? How's that kleptocracy disguised as a country working out?",
+      "Russia: Where the winters are cold but the politics are colder.",
+      "Oh, Russia? The country that's just a gas station with nuclear weapons.",
+      "Russia: Where everyone's either an oligarch or wondering where their oligarch went.",
+      "From Russia? Let me guess, you're tired of explaining you're not all spies.",
+      "Russia: The only country where poisoning is a legitimate political strategy.",
+      "Where 'opposition' means you're about to take a really long vacation.",
+      "Russia: Proof that having lots of land doesn't mean having good ideas.",
+      "From Russia? Your country's biggest export is authoritarianism and YouTube dashcam videos."
+    ],
+    moscow: [
+      "Moscow? Where the Red Square is less red than the balance sheets.",
+      "From Moscow? How's that oligarch lifestyle working for the 99.9% who aren't oligarchs?",
+      "Moscow: Where every building is either ancient or money laundering.",
+      "Oh, Moscow? The city where journalists go to mysteriously fall out of windows.",
+      "Moscow: Where everyone's rich on paper but poor in reality.",
+      "From Moscow? You definitely know someone who 'disappeared' for having opinions.",
+      "Moscow: The only city where luxury brands cost more than most countries' GDP.",
+      "Where 'culture' means ballet and state-sponsored everything else.",
+      "Moscow: Washington DC's more corrupt, less democratic cousin.",
+      "From Moscow? Your city's biggest achievement is making other capitals look honest."
+    ]
+  },
+
+  italy: {
+    generic: [
+      "Italy? Where the food is incredible but the government changes faster than pasta water boils.",
+      "From Italy? How's living in a country that's basically a museum with traffic problems?",
+      "Italy: Where la dolce vita meets economic stagnation.",
+      "Oh, Italy? The country where mama's boys run the economy into the ground.",
+      "Italy: Where everyone's an expert on everything except running a functional government.",
+      "From Italy? Let me guess, you still live with your parents at 35.",
+      "Italy: The only country where corruption is seasoned with oregano.",
+      "Where 'efficiency' is a foreign concept but the coffee is perfect.",
+      "Italy: Proof that great food can't solve political incompetence.",
+      "From Italy? Your country's biggest export is tourists and tax evasion."
+    ],
+    rome: [
+      "Rome? Where the ruins are in better shape than the infrastructure.",
+      "From Rome? How's that eternal city working with eternal traffic jams?",
+      "Rome: Where history is everywhere except in the city planning.",
+      "Oh, Rome? The city where tourists outnumber functioning elevators.",
+      "Rome: Where every street is historic and every pothole is legendary.",
+      "From Rome? You definitely make more money from Airbnb than actual work.",
+      "Rome: The only city where 2000-year-old buildings work better than new ones.",
+      "Where 'culture' means overcharging tourists for gelato near the Colosseum.",
+      "Rome: Paris's more ancient, less functional cousin.",
+      "From Rome? Your city's idea of progress is adding contactless payment to tourist traps."
+    ]
+  },
+
+  spain: {
+    generic: [
+      "Spain? Where siestas are mandatory but economic growth is optional.",
+      "From Spain? How's that 25% unemployment rate treating your life goals?",
+      "Spain: Where everyone parties until 4 AM but wonders why nothing gets done.",
+      "Oh, Spain? The country where 'mañana' isn't procrastination, it's policy.",
+      "Spain: Where the sun always shines but the economy never does.",
+      "From Spain? Let me guess, you're either unemployed or a bartender serving sangria to tourists.",
+      "Spain: The only country where lunch starts at dinner time everywhere else.",
+      "Where 'work-life balance' means mostly life, barely work.",
+      "Spain: Italy's party-loving cousin with worse economic planning.",
+      "From Spain? Your country's biggest achievement is making unemployment look fun."
+    ],
+    madrid: [
+      "Madrid? The city where the nightlife is legendary and the job market is mythical.",
+      "From Madrid? How's that capital city life with provincial city salaries?",
+      "Madrid: Where everyone's an artist because actual jobs don't exist.",
+      "Oh, Madrid? The city that parties so hard it forgot to develop an economy.",
+      "Madrid: Where 'culture' means staying out until sunrise because you can't afford rent anyway.",
+      "From Madrid? You definitely live with roommates and call it 'European lifestyle'.",
+      "Madrid: The only capital where being broke is considered bohemian.",
+      "Where 'networking' means buying drinks you can't afford for people who also can't afford them.",
+      "Madrid: Barcelona's less successful, more party-focused sibling.",
+      "From Madrid? Your city's idea of economic development is opening more tapas bars."
+    ]
+  },
+
+  // SOUTH KOREA
+  southkorea: {
+    generic: [
+      "South Korea? Where plastic surgery is more common than job security.",
+      "From South Korea? How's that work-yourself-to-death culture treating your mental health?",
+      "South Korea: Where K-pop is the biggest export but happiness is the rarest import.",
+      "Oh, South Korea? The country where everyone's beautiful but miserable.",
+      "South Korea: Where studying 18 hours a day is considered normal parenting.",
+      "From South Korea? Let me guess, your parents still think you're underachieving.",
+      "South Korea: The only country where gaming professionally is less stressful than regular jobs.",
+      "Where 'success' means burning out by 30 with perfect skin.",
+      "South Korea: Japan's overachieving little brother with more pressure.",
+      "From South Korea? Your country's biggest achievement is making workaholism look trendy."
+    ],
+    seoul: [
+      "Seoul? Where the apartments are smaller than American closets but cost twice as much.",
+      "From Seoul? How's that 10 million person sardine can treating your personal space?",
+      "Seoul: Where everyone's competing to be the most stressed in the most stylish way.",
+      "Oh, Seoul? The city where plastic surgery clinics outnumber coffee shops.",
+      "Seoul: Where 'work-life balance' means working until you die young and pretty.",
+      "From Seoul? You definitely live in a shoebox and call it 'efficient urban living'.",
+      "Seoul: The only city where your phone has better coverage than your mental health insurance.",
+      "Where 'culture' means K-dramas and crippling social anxiety.",
+      "Seoul: Tokyo's more fashionable, equally miserable cousin.",
+      "From Seoul? Your city's idea of relaxation is a 20-hour gaming session."
     ]
   },
 
