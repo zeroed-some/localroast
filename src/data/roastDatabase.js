@@ -1,4 +1,4 @@
-// src/data/roastDatabase.js - BRUTAL EDITION (EXPANDED)
+// src/data/roastDatabase.js - BRUTAL EDITION (MEGA EXPANDED)
 export const roastDatabase = {
   // MASSACHUSETTS
   massachusetts: {
@@ -72,7 +72,12 @@ export const roastDatabase = {
       "Austin: Where the homeless camps have better views than your $2,500/month studio.",
       "From Austin? You definitely own a guitar you can't play and a fixie you can't ride up hills.",
       "Austin: The city that gentrified so hard it gentrified itself out of existence.",
-      "Where 'weird' means having the same tattoo as 50,000 other people."
+      "Where 'weird' means having the same tattoo as 50,000 other people.",
+      "Austin? Where weird died in 2010 but nobody told the marketing department.",
+      "From Austin? The city where every bar is a tech networking event in disguise.",
+      "Austin: Where the tacos are good but you'll wait longer than a DMV visit.",
+      "Austin: California's refugee camp with BBQ.",
+      "From Austin? How's that live music capital working out with all venues becoming condos?"
     ],
     dallas: [
       "Dallas? Where everyone pretends to be an oil tycoon but actually works in insurance.",
@@ -106,7 +111,12 @@ export const roastDatabase = {
       "Where 'Be Someone' is graffitied on a bridge like it's profound philosophy.",
       "Houston: Where the air quality is so bad you can taste what neighborhood you're in.",
       "From Houston? You definitely have strong opinions about which freeway is the worst.",
-      "Houston: LA without the beaches, NYC without the culture, Chicago without the architecture."
+      "Houston: LA without the beaches, NYC without the culture, Chicago without the architecture.",
+      "Houston? The city where you can see the air you're breathing.",
+      "From Houston? Where every highway is under construction until the heat death of the universe.",
+      "Houston: The only city where 'zoning laws' is a foreign concept.",
+      "Houston: Where you need a boat for rain and a car for your car.",
+      "From Houston? Your city's so spread out, GPS satellites get tired."
     ],
     san_antonio: [
       "San Antonio? The city whose entire economy runs on disappointing tourists at the Alamo.",
@@ -161,7 +171,12 @@ export const roastDatabase = {
       "The city where 'networking' means doing coke in a bathroom with strangers.",
       "Los Angeles: Where the smog is thick, the people are fake, and the dreams are dead.",
       "From LA? You definitely have a headshot you can't afford and a manager who doesn't return your calls.",
-      "LA: The city where everyone's famous for being famous for nothing."
+      "LA: The city where everyone's famous for being famous for nothing.",
+      "LA? Where your therapist has a therapist and they both do ayahuasca.",
+      "From LA? The city where 'I'm working on a project' means 'I'm unemployed but optimistic'.",
+      "Los Angeles: Where everyone's gluten-free, dairy-free, and responsibility-free.",
+      "LA: The only city where people Uber to their cars.",
+      "From LA? How many failed actors does it take to serve one overpriced salad?"
     ],
     san_francisco: [
       "San Francisco? Must be nice coding your way through life while stepping over human feces.",
@@ -178,7 +193,12 @@ export const roastDatabase = {
       "The city that gentrified so hard it gentrified out everyone interesting.",
       "San Francisco: Where everyone's a vegan who secretly eats meat.",
       "From SF? You definitely have a therapist, a life coach, and crippling anxiety.",
-      "SF: The city where everyone's progressive until it affects their property values."
+      "SF: The city where everyone's progressive until it affects their property values.",
+      "San Francisco? Where innovation means finding new ways to ignore homeless people.",
+      "From SF? The city where everyone's disrupting everything except their own privilege.",
+      "San Francisco: Where dogs have health insurance but teachers need three jobs.",
+      "SF: The only city where a startup for an app that's just a button raised $50 million.",
+      "From San Francisco? Your city gentrified so hard even the fog is unaffordable."
     ],
     san_diego: [
       "San Diego? It's like LA's boring younger brother who goes to bed at 9 PM.",
@@ -250,7 +270,12 @@ export const roastDatabase = {
       "NYC: Where everyone's from somewhere else but acts like they built the place.",
       "From NYC? You definitely have strong opinions about pizza and absolutely no cooking skills.",
       "NYC: The city where a fire escape counts as outdoor space and a closet counts as a bedroom.",
-      "Where everyone's 5 minutes away from a mental breakdown but calls it 'the grind'."
+      "Where everyone's 5 minutes away from a mental breakdown but calls it 'the grind'.",
+      "NYC? Where everyone's grinding 24/7 but nobody knows what for anymore.",
+      "From NYC? The city where $100K is the new poverty line.",
+      "New York: Where rats have rent control and humans don't.",
+      "NYC: The only city where people pay $4000/month to hear their neighbor's every thought.",
+      "From NYC? How's that hustle culture working out for your mental health?"
     ],
     brooklyn: [
       "Brooklyn? Oh, you were into it before it was cool, right?",
@@ -267,7 +292,12 @@ export const roastDatabase = {
       "The borough where everyone's writing a novel that's just thinly veiled autobiography.",
       "Brooklyn: Where millennials go to complain about millennials.",
       "From Brooklyn? You definitely take photos of your food and call it 'content creation'.",
-      "Brooklyn: Where the L train is always fucked and so is your rent."
+      "Brooklyn: Where the L train is always fucked and so is your rent.",
+      "Brooklyn? Where the beards are manicured and the poverty is aesthetic.",
+      "From Brooklyn? Which small town in Ohio did you abandon to find yourself here?",
+      "Brooklyn: Where everyone's creative but nobody creates anything but debt.",
+      "Brooklyn: The borough where 'vintage' means last year and 'artisanal' means overpriced.",
+      "From Brooklyn? Your personality is just your neighborhood and dietary restrictions."
     ],
     queens: [
       "Queens? The borough that everyone forgets exists until they need to catch a flight.",
@@ -339,7 +369,12 @@ export const roastDatabase = {
       "The city where plastic surgery is a high school graduation gift.",
       "Miami: Cuba's most expensive suburb.",
       "From Miami? You definitely can't swim but own a boat.",
-      "Miami: Where everyone's in real estate but nobody owns property."
+      "Miami: Where everyone's in real estate but nobody owns property.",
+      "Miami? Where everyone's Instagram is a lie funded by credit cards.",
+      "From Miami? The city where crypto bros go to launder their personalities.",
+      "Miami: Where the only thing faker than the people is the skyline.",
+      "Miami: The city where everyone's a CEO of a company that doesn't exist.",
+      "From Miami? How's that 'Miami time' working out for actual employment?"
     ],
     orlando: [
       "Orlando? Oh, you mean Disney's parking lot?",
@@ -356,7 +391,12 @@ export const roastDatabase = {
       "The city that's just a swamp with gift shops.",
       "Orlando: Where everyone's ex works at Universal.",
       "From Orlando? You definitely have annual passes you can't afford.",
-      "Orlando: The city that exists solely to separate tourists from their money."
+      "Orlando: The city that exists solely to separate tourists from their money.",
+      "Orlando? Where adults care more about Disney than their kids do.",
+      "From Orlando? The city that's one hurricane away from becoming Atlantis.",
+      "Orlando: Where the humidity is more oppressive than working for the Mouse.",
+      "Orlando: The only city where grown adults fight about Star Wars in public.",
+      "From Orlando? Your entire economy is built on fictional characters and it shows."
     ],
     tampa: [
       "Tampa? Jacksonville's trashy sister with a strip club addiction.",
@@ -633,6 +673,239 @@ export const roastDatabase = {
     ]
   },
 
+  // SOUTHERN STATES - NEW ADDITIONS
+  alabama: {
+    generic: [
+      "Alabama? Where the family trees are circles and the education system is a straight line to nowhere.",
+      "From Alabama? How's it feel living in Mississippi's slightly less embarrassing sibling?",
+      "Alabama: Where 'Roll Tide' is both a greeting and the answer to every question.",
+      "Oh, Alabama? The state where football is more important than literacy.",
+      "Alabama: Where everyone's related twice and the DNA tests are banned for a reason.",
+      "From Alabama? Let me guess, you've already mentioned college football three times today.",
+      "Alabama: The only state where the stereotype writes itself.",
+      "Where 'culture' means which NASCAR driver you root for.",
+      "Alabama: Proof that you can be first alphabetically and last in everything else.",
+      "From Alabama? Your state's biggest export is embarrassment and failed quarterbacks."
+    ],
+    birmingham: [
+      "Birmingham? The city that's just Atlanta's racist uncle who never left the 60s.",
+      "From Birmingham? How's it feel being Alabama's attempt at having a real city?",
+      "Birmingham: Where the civil rights museum is the only thing worth visiting.",
+      "Oh, Birmingham? The city whose glory days ended with the steel industry.",
+      "Birmingham: Where everyone pretends it's not just a giant suburb with delusions."
+    ],
+    mobile: [
+      "Mobile? New Orleans' boring cousin who forgot how to party.",
+      "From Mobile? The city that claims it invented Mardi Gras but does it worse than everyone else.",
+      "Mobile: Where the port is the only thing that moves.",
+      "Oh, Mobile? Alabama's attempt at having a beach town without understanding the assignment.",
+      "Mobile: Where hurricanes are the most exciting thing that happens."
+    ]
+  },
+
+  tennessee: {
+    generic: [
+      "Tennessee? Where the whiskey is strong but the education system is weaker.",
+      "From Tennessee? How's living in a state that's just Kentucky with better marketing?",
+      "Tennessee: Where everyone's either making music or meth, sometimes both.",
+      "Oh, Tennessee? The state that thinks having Nashville makes up for everything else.",
+      "Tennessee: Where 'volunteer' means you couldn't afford to move somewhere better.",
+      "From Tennessee? Let me guess, you own a guitar you can't play and opinions about BBQ.",
+      "Tennessee: The only state where moonshine is a food group.",
+      "Where everyone claims to be a musician but works at Walmart.",
+      "Tennessee: Proof that you can have great music and terrible everything else.",
+      "From Tennessee? Your state's shaped like a parallelogram because even geometry gave up."
+    ],
+    nashville: [
+      "Nashville? Where every waiter is a 'singer-songwriter' with a SoundCloud no one follows.",
+      "From Nashville? How's it feel living in country music's corporate headquarters?",
+      "Nashville: Where authenticity goes to get a record deal and die.",
+      "Oh, Nashville? The city where bachelorette parties outnumber actual residents.",
+      "Nashville: Where everyone's famous for 15 seconds on Lower Broadway.",
+      "From Nashville? Let me guess, you moved there to 'make it' and now work at a boot store.",
+      "Nashville: The only city where hot chicken is spicier than the music scene.",
+      "Where 'culture' means which honky-tonk you threw up in last night.",
+      "Nashville: Austin's less cool cousin with a drinking problem and a pedal steel.",
+      "From Nashville? Your city's biggest achievement is convincing people country music is still relevant."
+    ],
+    memphis: [
+      "Memphis? The city that peaked when Elvis died there.",
+      "From Memphis? How's it feel living in Tennessee's most dangerous tourist trap?",
+      "Memphis: Where Beale Street is the only street you won't get shot on.",
+      "Oh, Memphis? The city whose biggest attraction is a bass fishing pyramid.",
+      "Memphis: Where everyone claims they knew Elvis but nobody knows how to run a city.",
+      "From Memphis? Let me guess, you avoid downtown unless there's a Grizzlies game.",
+      "Memphis: The only city where BBQ can't mask the smell of decay.",
+      "Where 'culture' means choosing between Elvis tourism and crime statistics.",
+      "Memphis: Nashville's dangerous cousin with better food and worse everything else.",
+      "From Memphis? Your city killed Elvis and it's been downhill ever since."
+    ]
+  },
+
+  kentucky: {
+    generic: [
+      "Kentucky? Where the horses have better healthcare than the people.",
+      "From Kentucky? How's living in a state that's just West Virginia with bourbon?",
+      "Kentucky: Where everyone's either making bourbon or meth, there's no middle ground.",
+      "Oh, Kentucky? The state that thinks horse racing makes up for being Kentucky.",
+      "Kentucky: Where 'culture' means which bourbon you can't afford.",
+      "From Kentucky? Let me guess, you've already mentioned horses and bourbon today.",
+      "Kentucky: The only state where marrying your cousin is still a viable option.",
+      "Where education is optional but opinions about basketball are mandatory.",
+      "Kentucky: Proof that you can make great whiskey and terrible life choices.",
+      "From Kentucky? Your state's biggest export is bourbon and regret."
+    ],
+    louisville: [
+      "Louisville? The city that can't even decide how to pronounce its own name.",
+      "From Louisville? How's it feel being Kentucky's attempt at civilization?",
+      "Louisville: Where the Derby lasts two minutes but the hangover lasts all year.",
+      "Oh, Louisville? The city that's just Cincinnati's drunk Southern cousin.",
+      "Louisville: Where everyone pretends to care about horses one day a year.",
+      "From Louisville? Let me guess, you own a fancy hat you've worn exactly once.",
+      "Louisville: The only city where bourbon tourism is the entire economy.",
+      "Where 'culture' means getting blackout drunk in a seersucker suit.",
+      "Louisville: Lexington's bigger, drunker sibling with a gambling problem.",
+      "From Louisville? Your city's pronunciation is as confused as its identity."
+    ]
+  },
+
+  // WESTERN STATES - NEW ADDITIONS
+  utah: {
+    generic: [
+      "Utah? Where the mountains are high and the alcohol content is lower.",
+      "From Utah? How's living in a state run by a church working out?",
+      "Utah: Where everyone has seven kids or seven wives, sometimes both.",
+      "Oh, Utah? The state where caffeine is a controlled substance.",
+      "Utah: Where the skiing is great but the nightlife is a prayer meeting.",
+      "From Utah? Let me guess, you're either Mormon or explaining why you live there anyway.",
+      "Utah: The only state where the separation of church and state is a suggestion.",
+      "Where 'diversity' means different shades of white and different levels of Mormon.",
+      "Utah: Proof that beautiful landscapes can't make up for weird liquor laws.",
+      "From Utah? Your state's biggest export is missionaries and repressed teenagers."
+    ],
+    salt_lake_city: [
+      "Salt Lake City? Where the lake smells like death and the nightlife died years ago.",
+      "From SLC? How's it feel living in America's most sober city?",
+      "Salt Lake City: Where the Olympics were held once and they won't shut up about it.",
+      "Oh, SLC? The city where you need a membership to buy a real drink.",
+      "Salt Lake City: Where everyone's either Mormon or aggressively not Mormon.",
+      "From SLC? Let me guess, you ski to avoid dealing with the weird liquor laws.",
+      "Salt Lake City: The only city where the air quality is worse than the dating scene.",
+      "Where 'wild night' means staying out until 10 PM.",
+      "Salt Lake City: Denver's boring, sober cousin who goes to bed early.",
+      "From SLC? Your city's biggest achievement is being slightly less Mormon than Provo."
+    ]
+  },
+
+  newmexico: {
+    generic: [
+      "New Mexico? Where Breaking Bad is the only thing people know about your state.",
+      "From New Mexico? How's living in Arizona's poor, forgotten sibling?",
+      "New Mexico: Where the aliens are more interesting than the residents.",
+      "Oh, New Mexico? The state that has to constantly remind people it's part of America.",
+      "New Mexico: Where everyone's either an artist, a scientist, or cooking meth.",
+      "From New Mexico? Let me guess, you've already corrected someone who thought you needed a passport.",
+      "New Mexico: The only state where nuclear testing improved the landscape.",
+      "Where 'culture' means choosing between green or red chile like it matters.",
+      "New Mexico: Proof that you can have beautiful sunsets and ugly everything else.",
+      "From New Mexico? Your state's biggest export is confused geography teachers."
+    ],
+    albuquerque: [
+      "Albuquerque? The city whose biggest claim to fame is a TV show about meth.",
+      "From Albuquerque? How's it feel living in Breaking Bad's filming location?",
+      "Albuquerque: Where everyone's either a wannabe Walter White or a disappointed tourist.",
+      "Oh, Albuquerque? The city that's just Phoenix with worse weather and more crime.",
+      "Albuquerque: Where the balloons are hot but the economy is ice cold.",
+      "From Albuquerque? Let me guess, you've already given directions to Walter White's house today.",
+      "Albuquerque: The only city where turquoise jewelry outnumbers job opportunities.",
+      "Where 'culture' means arguing about chile and pretending crime isn't a problem.",
+      "Albuquerque: Santa Fe's trashy cousin with a meth problem.",
+      "From Albuquerque? Your city peaked when Bugs Bunny took that wrong turn."
+    ]
+  },
+
+  // MORE MIDWEST STATES
+  indiana: {
+    generic: [
+      "Indiana? Where excitement goes to die and corn goes to grow.",
+      "From Indiana? How's living in America's drive-through state?",
+      "Indiana: Where the most interesting thing is leaving to go somewhere else.",
+      "Oh, Indiana? The state whose motto should be 'At least we're not Ohio'.",
+      "Indiana: Where everyone's personality is 'Hoosier' and nobody knows what that means.",
+      "From Indiana? Let me guess, you're passionate about high school basketball and nothing else.",
+      "Indiana: The only state where corn mazes are considered entertainment.",
+      "Where 'culture' means which small town festival you're avoiding this weekend.",
+      "Indiana: Proof that you can be in the middle of everything and still be nowhere.",
+      "From Indiana? Your state's biggest export is boredom and basketball players who leave."
+    ],
+    indianapolis: [
+      "Indianapolis? The city that exists for two weeks in May and then everyone forgets about it.",
+      "From Indy? How's it feel living in a city that's just a racetrack with suburbs?",
+      "Indianapolis: Where the 500 is the only 500 things to do all year.",
+      "Oh, Indianapolis? The city that's desperately trying to be Chicago's little brother.",
+      "Indianapolis: Where everyone works in insurance and pretends to like racing.",
+      "From Indianapolis? Let me guess, you own checkered flag something you wear once a year.",
+      "Indianapolis: The only city where 'downtown revival' has been happening for 30 years.",
+      "Where 'culture' means chain restaurants and a mall shaped like a circle.",
+      "Indianapolis: Columbus's boring twin with a racing fetish.",
+      "From Indianapolis? Your city's biggest achievement is being slightly better than Fort Wayne."
+    ]
+  },
+
+  minnesota: {
+    generic: [
+      "Minnesota? Where 'Minnesota Nice' is just passive-aggressive with extra steps.",
+      "From Minnesota? How's that fake politeness hiding bitter resentment working out?",
+      "Minnesota: Where the winters are long and the personality is Lutheran.",
+      "Oh, Minnesota? The state that's just Canada's wannabe little brother.",
+      "Minnesota: Where everyone's 'nice' but nobody's actually friendly.",
+      "From Minnesota? Let me guess, you've already said 'ope' fourteen times today.",
+      "Minnesota: The only state where hotdish is cuisine and suffering is tradition.",
+      "Where 'diversity' means Swedish, Norwegian, AND Finnish ancestors.",
+      "Minnesota: Proof that you can be nice and still be unbearable.",
+      "From Minnesota? Your state's biggest export is passive aggression and Prince posthumously."
+    ],
+    minneapolis: [
+      "Minneapolis? The city that burned itself down and called it progress.",
+      "From Minneapolis? How's that Minnesota Nice working with all that civil unrest?",
+      "Minneapolis: Where everyone's progressive until it affects their neighborhood.",
+      "Oh, Minneapolis? The city that's just St. Paul's edgier twin with more problems.",
+      "Minneapolis: Where the lakes are pretty but frozen 8 months a year.",
+      "From Minneapolis? Let me guess, you bike in winter to prove you're hardcore.",
+      "Minneapolis: The only city where gentrification and riots compete for headlines.",
+      "Where 'culture' means craft beer and pretending the cold builds character.",
+      "Minneapolis: Chicago's colder, whiter cousin with more guilt.",
+      "From Minneapolis? Your city's biggest achievement is making St. Paul look stable."
+    ]
+  },
+
+  iowa: {
+    generic: [
+      "Iowa? Where the corn has more personality than the people.",
+      "From Iowa? How's living in America's waiting room between real states?",
+      "Iowa: Where caucuses matter for five minutes every four years then back to corn.",
+      "Oh, Iowa? The state that makes Nebraska look exciting.",
+      "Iowa: Where everyone's friendly because there's nothing else to do.",
+      "From Iowa? Let me guess, you're passionate about corn and... corn.",
+      "Iowa: The only state where the state fair is the highlight of the decade.",
+      "Where 'diversity' means different types of corn.",
+      "Iowa: Proof that you can be first in caucuses and last in everything interesting.",
+      "From Iowa? Your state's biggest export is young people who couldn't leave fast enough."
+    ],
+    des_moines: [
+      "Des Moines? The city that insurance built and boredom maintains.",
+      "From Des Moines? How's it feel being Iowa's attempt at having a city?",
+      "Des Moines: Where everyone works in insurance and dreams of anywhere else.",
+      "Oh, Des Moines? The city whose skyline is three buildings and false hope.",
+      "Des Moines: Where the most exciting thing is the Iowa State Fair once a year.",
+      "From Des Moines? Let me guess, you're in insurance or married to someone in insurance.",
+      "Des Moines: The only city where 'nightlife' means Applebee's is open until 11.",
+      "Where 'culture' means which chain restaurant to try this weekend.",
+      "Des Moines: Omaha's even more boring cousin.",
+      "From Des Moines? Your city's biggest achievement is tricking companies to move there with tax breaks."
+    ]
+  },
+
   // CANADA
   canada: {
     generic: [
@@ -832,363 +1105,494 @@ export const roastDatabase = {
     ]
   },
 
-  // PENNSYLVANIA (PREVIOUSLY ADDED)
+  // PENNSYLVANIA
   pennsylvania: {
     generic: [
       "Pennsylvania? Where the state bird is a pothole and the state flower is road rage.",
-      "From Pennsylvania? How’s living in a state that’s just Ohio with worse sports teams?",
+      "From Pennsylvania? How's living in a state that's just Ohio with worse sports teams?",
       "Pennsylvania: Where the history is rich, but the economy is poorer than a church mouse.",
-      "Oh, Pennsylvania? The state that’s half Philly cheesesteak and half Amish buggy.",
-      "Pennsylvania: Where the weather can’t decide if it’s winter or misery.",
-      "From PA? Let me guess, you’ve already argued about whether it’s ‘soda’ or ‘pop’ today.",
+      "Oh, Pennsylvania? The state that's half Philly cheesesteak and half Amish buggy.",
+      "Pennsylvania: Where the weather can't decide if it's winter or misery.",
+      "From PA? Let me guess, you've already argued about whether it's 'soda' or 'pop' today.",
       "Pennsylvania: The only state where coal mines and hipster breweries fight for relevance.",
-      "Where everyone’s either from Philly, Pittsburgh, or a cornfield haunted by despair.",
+      "Where everyone's either from Philly, Pittsburgh, or a cornfield haunted by despair.",
       "Pennsylvania: Proof that you can have founding fathers and still fail at progress.",
-      "From Pennsylvania? Your state’s biggest export is disappointment and outdated voter maps."
+      "From Pennsylvania? Your state's biggest export is disappointment and outdated voter maps."
     ],
     philadelphia: [
       "Philly? The city where throwing batteries at Santa is considered a cultural tradition.",
-      "From Philadelphia? How’s that brotherly love working out with all the fistfights at Eagles games?",
-      "Philadelphia: Where the Liberty Bell is cracked and so is the city’s spirit.",
-      "Oh, Philly? The city that greases poles to stop riots but can’t grease the wheels of progress.",
+      "From Philadelphia? How's that brotherly love working out with all the fistfights at Eagles games?",
+      "Philadelphia: Where the Liberty Bell is cracked and so is the city's spirit.",
+      "Oh, Philly? The city that greases poles to stop riots but can't grease the wheels of progress.",
       "Philadelphia: Where every cheesesteak comes with a side of generational trauma.",
-      "From Philly? Let me guess, you’ve already yelled ‘Go Birds’ at a stranger today.",
+      "From Philly? Let me guess, you've already yelled 'Go Birds' at a stranger today.",
       "Philly: The only city where grit is both a compliment and a health hazard.",
-      "Where ‘historic’ just means your infrastructure is falling apart with extra character.",
-      "Philadelphia: Boston’s angrier, less educated cousin with worse accents.",
-      "From Philadelphia? Your city’s idea of romance is sharing a hoagie on a stoop."
+      "Where 'historic' just means your infrastructure is falling apart with extra character.",
+      "Philadelphia: Boston's angrier, less educated cousin with worse accents.",
+      "From Philadelphia? Your city's idea of romance is sharing a hoagie on a stoop."
     ],
     pittsburgh: [
       "Pittsburgh? The city that smells like rust and dreams that died in the 80s.",
-      "From Pittsburgh? How’s living in a place that’s just Detroit with more bridges?",
+      "From Pittsburgh? How's living in a place that's just Detroit with more bridges?",
       "Pittsburgh: Where the steel left, but the depression stayed forever.",
       "Oh, Pittsburgh? The city where every sports fan wears black and yellow like a warning label.",
       "Pittsburgh: Where the rivers meet, but opportunity flowed away decades ago.",
-      "From Pittsburgh? Let me guess, you’ve got a ‘yinzer’ accent and zero job prospects.",
-      "Pittsburgh: The only city where ‘up and coming’ has meant ‘still terrible’ for 30 years.",
+      "From Pittsburgh? Let me guess, you've got a 'yinzer' accent and zero job prospects.",
+      "Pittsburgh: The only city where 'up and coming' has meant 'still terrible' for 30 years.",
       "Where every neighborhood is either gentrified or looks like a zombie apocalypse set.",
-      "Pittsburgh: Cleveland’s slightly less depressing twin with extra inclines.",
-      "From Pittsburgh? Your city’s biggest flex is surviving winters that would break lesser souls."
+      "Pittsburgh: Cleveland's slightly less depressing twin with extra inclines.",
+      "From Pittsburgh? Your city's biggest flex is surviving winters that would break lesser souls."
     ]
   },
 
-  // ARIZONA (PREVIOUSLY ADDED)
+  // ARIZONA
   arizona: {
     generic: [
-      "Arizona? Where it’s so hot, even the cacti are begging for mercy.",
-      "From Arizona? How’s living in a state that’s just a retirement home with scorpions?",
+      "Arizona? Where it's so hot, even the cacti are begging for mercy.",
+      "From Arizona? How's living in a state that's just a retirement home with scorpions?",
       "Arizona: Where the Grand Canyon is majestic, but the politics are a gaping void of despair.",
-      "Oh, Arizona? The state where 110°F is a ‘cool day’ and sanity is optional.",
-      "Arizona: Where everyone’s either a snowbird or a sunburned regret.",
-      "From Arizona? Let me guess, you’ve already bragged about not needing a coat in January.",
+      "Oh, Arizona? The state where 110°F is a 'cool day' and sanity is optional.",
+      "Arizona: Where everyone's either a snowbird or a sunburned regret.",
+      "From Arizona? Let me guess, you've already bragged about not needing a coat in January.",
       "Arizona: The only state where water is a myth and denial is a river.",
       "Where your backyard is a desert, and your future is just as barren.",
       "Arizona: Proof that you can cook an egg on the sidewalk and still mess up elections.",
-      "From Arizona? Your state’s idea of culture is a gun show with extra tumbleweeds."
+      "From Arizona? Your state's idea of culture is a gun show with extra tumbleweeds."
     ],
     phoenix: [
       "Phoenix? The city that rises from the ashes just to get scorched again by 120°F heat.",
-      "From Phoenix? How’s living in a place where the pavement melts your soul before your shoes?",
+      "From Phoenix? How's living in a place where the pavement melts your soul before your shoes?",
       "Phoenix: Where urban sprawl is an art form, and shade is a luxury item.",
-      "Oh, Phoenix? The city that’s just a sprawling oven with traffic jams as seasoning.",
-      "Phoenix: Where everyone’s either escaping winter or escaping reality.",
-      "From Phoenix? Let me guess, you’ve already complained about monsoon dust storms this week.",
-      "Phoenix: The only city where ‘dry heat’ is a lie you tell yourself to survive.",
+      "Oh, Phoenix? The city that's just a sprawling oven with traffic jams as seasoning.",
+      "Phoenix: Where everyone's either escaping winter or escaping reality.",
+      "From Phoenix? Let me guess, you've already complained about monsoon dust storms this week.",
+      "Phoenix: The only city where 'dry heat' is a lie you tell yourself to survive.",
       "Where every summer feels like a personal vendetta from the sun itself.",
-      "Phoenix: Las Vegas’s less fun, more sweaty sibling with no gambling payoff.",
-      "From Phoenix? Your city’s biggest achievement is not bursting into flames… yet."
+      "Phoenix: Las Vegas's less fun, more sweaty sibling with no gambling payoff.",
+      "From Phoenix? Your city's biggest achievement is not bursting into flames… yet."
     ],
     tucson: [
-      "Tucson? The city that’s just Phoenix’s weird, artsy cousin who forgot to leave the 70s.",
-      "From Tucson? How’s it feel living in Arizona’s forgotten stepchild with extra saguaros?",
+      "Tucson? The city that's just Phoenix's weird, artsy cousin who forgot to leave the 70s.",
+      "From Tucson? How's it feel living in Arizona's forgotten stepchild with extra saguaros?",
       "Tucson: Where the heat is oppressive, but the hipster vibes are somehow more suffocating.",
-      "Oh, Tucson? The city that thinks being ‘quirky’ makes up for being irrelevant.",
-      "Tucson: Where everyone’s either a college kid or a retiree waiting to expire.",
-      "From Tucson? Let me guess, you’ve got a tie-dye shirt and a story about a desert rave.",
-      "Tucson: The only city where ‘culture’ means overpriced tacos and underfunded schools.",
+      "Oh, Tucson? The city that thinks being 'quirky' makes up for being irrelevant.",
+      "Tucson: Where everyone's either a college kid or a retiree waiting to expire.",
+      "From Tucson? Let me guess, you've got a tie-dye shirt and a story about a desert rave.",
+      "Tucson: The only city where 'culture' means overpriced tacos and underfunded schools.",
       "Where the mountains are pretty, but the job market is uglier than sin.",
-      "Tucson: Phoenix’s less ambitious sibling who settled for mediocrity and heatstroke.",
-      "From Tucson? Your city’s claim to fame is being slightly less unbearable than Phoenix."
+      "Tucson: Phoenix's less ambitious sibling who settled for mediocrity and heatstroke.",
+      "From Tucson? Your city's claim to fame is being slightly less unbearable than Phoenix."
     ]
   },
 
-  // GERMANY (PREVIOUSLY ADDED)
-  germany: {
-    generic: [
-      "Germany? Where efficiency is a religion, but customer service is a sin.",
-      "From Germany? How’s it feel being the country that’s always sorry for something?",
-      "Germany: Where the beer is world-class, but the humor is drier than the Sahara.",
-      "Oh, Germany? The nation that runs like a machine but feels like a bureaucracy.",
-      "Germany: Where rules are sacred, and smiling is suspicious activity.",
-      "From Germany? Let me guess, you’ve already corrected someone’s grammar today.",
-      "Germany: The only country where being on time is a flex, and tardiness is a felony.",
-      "Where history is heavy, and the guilt is heavier than a Black Forest cake.",
-      "Germany: Proof that you can engineer everything except a sense of fun.",
-      "From Germany? Your country’s idea of excitement is a perfectly sorted recycling bin."
-    ],
-    berlin: [
-      "Berlin? The city where being broke is trendy, and rent is a cruel joke.",
-      "From Berlin? How’s that techno-fueled existential crisis working out?",
-      "Berlin: Where history collides with hipsters, and both lose miserably.",
-      "Oh, Berlin? The city that’s cooler than you but won’t let you forget it.",
-      "Berlin: Where every wall has a story, and every artist has a side hustle.",
-      "From Berlin? Let me guess, you’ve already name-dropped a club you couldn’t get into.",
-      "Berlin: The only city where vegan kebabs are a cultural staple, and sleep is optional.",
-      "Where ‘edgy’ means living in a squat with Wi-Fi and daddy’s credit card.",
-      "Berlin: Europe’s grungy playground where dreams go to party and die.",
-      "From Berlin? Your city’s biggest flex is being broke in 17 different languages."
-    ],
-    munich: [
-      "Munich? The city where beer costs less than water, and tradition costs your soul.",
-      "From Munich? How’s it feel living in Germany’s most expensive theme park?",
-      "Munich: Where Oktoberfest is a lifestyle, and lederhosen are business casual.",
-      "Oh, Munich? The city that’s just Bavaria’s cash cow with extra pretzels.",
-      "Munich: Where everyone’s either a tech bro or a tourist trap victim.",
-      "From Munich? Let me guess, you’ve already bragged about BMWs and beer tents.",
-      "Munich: The only city where wealth and kitsch hold hands in perfect harmony.",
-      "Where ‘culture’ means overpaying for sausage while wearing a silly hat.",
-      "Munich: Berlin’s posh, boring uncle who thinks fun is overrated.",
-      "From Munich? Your city’s idea of rebellion is jaywalking in a quiet suburb."
-    ]
-  },
-
-  // JAPAN (PREVIOUSLY ADDED)
-  japan: {
-    generic: [
-      "Japan? Where politeness is mandatory, but personal space is a fantasy.",
-      "From Japan? How’s living in a country where bowing is an Olympic sport?",
-      "Japan: Where the tech is futuristic, but the work culture is stuck in the feudal era.",
-      "Oh, Japan? The nation that gave us sushi and soul-crushing overtime in equal measure.",
-      "Japan: Where everything’s kawaii until you miss the last train home.",
-      "From Japan? Let me guess, you’ve already apologized for something that’s not your fault.",
-      "Japan: The only country where vending machines outnumber human emotions.",
-      "Where tradition and innovation fight daily, and exhaustion always wins.",
-      "Japan: Proof that you can be the best at everything and still be miserable.",
-      "From Japan? Your country’s biggest export is anime and quiet desperation."
-    ],
-    tokyo: [
-      "Tokyo? The city where 38 million people live in perfect, polite chaos.",
-      "From Tokyo? How’s it feel being packed into a train like a sardine with a salary?",
-      "Tokyo: Where neon lights shine brighter than any hope for work-life balance.",
-      "Oh, Tokyo? The city that’s a cyberpunk dystopia with better ramen.",
-      "Tokyo: Where everyone’s rushing somewhere, but nobody’s actually going anywhere.",
-      "From Tokyo? Let me guess, you’ve already spent half your paycheck on tiny apartments.",
-      "Tokyo: The only city where a closet-sized home is a status symbol, not a punishment.",
-      "Where ‘unique’ means wearing a school uniform at 40 for no reason at all.",
-      "Tokyo: New York’s overachieving cousin with extra vending machines and less sleep.",
-      "From Tokyo? Your city’s idea of relaxation is a cat cafe during a 15-minute break."
-    ],
-    osaka: [
-      "Osaka? The city that’s just Tokyo’s louder, hungrier, less polite sibling.",
-      "From Osaka? How’s it feel living in Japan’s kitchen with extra street food grease?",
-      "Osaka: Where the humor is sharp, and the takoyaki burns hotter than your regrets.",
-      "Oh, Osaka? The city that thinks being friendly means roasting you to your face.",
-      "Osaka: Where everyone’s a comedian, but the punchline is the cost of living.",
-      "From Osaka? Let me guess, you’ve already argued about who makes better okonomiyaki.",
-      "Osaka: The only city where street food vendors have more personality than politicians.",
-      "Where ‘culture’ means deep-frying anything and calling it a delicacy.",
-      "Osaka: Tokyo’s rowdy little brother who didn’t get the memo about being quiet.",
-      "From Osaka? Your city’s biggest flex is being the underdog nobody saw coming."
-    ]
-  },
-
-  // GEORGIA (NEW US STATE - SOUTH)
+  // GEORGIA
   georgia: {
     generic: [
       "Georgia? Where the peaches are sweet, but the humidity is a bitter slap to the face.",
-      "From Georgia? How’s living in a state that’s just Florida with more Confederate flags?",
+      "From Georgia? How's living in a state that's just Florida with more Confederate flags?",
       "Georgia: Where Southern hospitality means smiling while judging your every move.",
-      "Oh, Georgia? The state where it’s 90°F in April and voter suppression is year-round.",
+      "Oh, Georgia? The state where it's 90°F in April and voter suppression is year-round.",
       "Georgia: Where sweet tea is a religion, and unsweetened is blasphemy.",
-      "From Georgia? Let me guess, you’ve already said ‘bless your heart’ as an insult today.",
+      "From Georgia? Let me guess, you've already said 'bless your heart' as an insult today.",
       "Georgia: The only state where traffic jams and church sermons last equally long.",
-      "Where everyone’s either in Atlanta or pretending they’ve never heard of it.",
+      "Where everyone's either in Atlanta or pretending they've never heard of it.",
       "Georgia: Proof that you can have a booming film industry and still mess up elections.",
-      "From Georgia? Your state’s biggest achievement is being the South’s slightly less embarrassing kid."
+      "From Georgia? Your state's biggest achievement is being the South's slightly less embarrassing kid."
     ],
     atlanta: [
-      "Atlanta? The city that’s just a giant airport with a side of traffic nightmares.",
-      "From Atlanta? How’s it feel being the South’s wannabe New York with extra sprawl?",
+      "Atlanta? The city that's just a giant airport with a side of traffic nightmares.",
+      "From Atlanta? How's it feel being the South's wannabe New York with extra sprawl?",
       "Atlanta: Where the hip-hop is fire, but the commute will burn your soul to ash.",
-      "Oh, Atlanta? The city where ‘Hotlanta’ refers to the heat and the road rage.",
-      "Atlanta: Where everyone’s either a rapper, a tech bro, or stuck in traffic on I-285.",
-      "From Atlanta? Let me guess, you’ve already name-dropped a celebrity you’ve never met.",
-      "Atlanta: The only city where ‘Southern charm’ means cutting you off in a Mercedes.",
+      "Oh, Atlanta? The city where 'Hotlanta' refers to the heat and the road rage.",
+      "Atlanta: Where everyone's either a rapper, a tech bro, or stuck in traffic on I-285.",
+      "From Atlanta? Let me guess, you've already name-dropped a celebrity you've never met.",
+      "Atlanta: The only city where 'Southern charm' means cutting you off in a Mercedes.",
       "Where gentrification moves faster than the MARTA ever will.",
-      "Atlanta: Houston’s smaller, louder cousin with worse public transit.",
-      "From Atlanta? Your city’s biggest flex is hosting the Olympics once and never shutting up about it."
+      "Atlanta: Houston's smaller, louder cousin with worse public transit.",
+      "From Atlanta? Your city's biggest flex is hosting the Olympics once and never shutting up about it."
     ],
     savannah: [
-      "Savannah? The city that’s just a postcard of mossy trees and haunted regrets.",
-      "From Savannah? How’s it feel living in Georgia’s creepy, overpriced history museum?",
+      "Savannah? The city that's just a postcard of mossy trees and haunted regrets.",
+      "From Savannah? How's it feel living in Georgia's creepy, overpriced history museum?",
       "Savannah: Where the ghosts are more interesting than the living, and twice as friendly.",
-      "Oh, Savannah? The city where Southern Gothic isn’t just a vibe, it’s the zoning code.",
-      "Savannah: Where everyone’s either a tour guide or a tourist who never left.",
-      "From Savannah? Let me guess, you’ve already told a ghost story to impress someone.",
-      "Savannah: The only city where ‘charm’ means overcharging for sweet tea and bad accents.",
+      "Oh, Savannah? The city where Southern Gothic isn't just a vibe, it's the zoning code.",
+      "Savannah: Where everyone's either a tour guide or a tourist who never left.",
+      "From Savannah? Let me guess, you've already told a ghost story to impress someone.",
+      "Savannah: The only city where 'charm' means overcharging for sweet tea and bad accents.",
       "Where history is preserved, but progress died on the vine a century ago.",
-      "Savannah: Charleston’s less pretentious, more humid sibling with extra spirits.",
-      "From Savannah? Your city’s idea of modern is a trolley tour with Wi-Fi."
+      "Savannah: Charleston's less pretentious, more humid sibling with extra spirits.",
+      "From Savannah? Your city's idea of modern is a trolley tour with Wi-Fi."
     ]
   },
 
-  // LOUISIANA (NEW US STATE - SOUTH)
+  // LOUISIANA
   louisiana: {
     generic: [
       "Louisiana? Where the gumbo is spicy, but the corruption is spicier.",
-      "From Louisiana? How’s living in a state that’s just a swamp with a drinking problem?",
+      "From Louisiana? How's living in a state that's just a swamp with a drinking problem?",
       "Louisiana: Where the Cajun culture is rich, but the infrastructure is dirt poor.",
       "Oh, Louisiana? The state where hurricanes hit harder than the reality of your economy.",
       "Louisiana: Where every road is a flood zone, and every politician is a scandal waiting to happen.",
-      "From Louisiana? Let me guess, you’ve already bragged about Mardi Gras like you invented it.",
-      "Louisiana: The only state where ‘sea level rise’ is a personal threat, not a theory.",
-      "Where everyone’s either cooking crawfish or cooking the books.",
+      "From Louisiana? Let me guess, you've already bragged about Mardi Gras like you invented it.",
+      "Louisiana: The only state where 'sea level rise' is a personal threat, not a theory.",
+      "Where everyone's either cooking crawfish or cooking the books.",
       "Louisiana: Proof that you can have French flair and still be a hot mess.",
-      "From Louisiana? Your state’s biggest export is jazz and questionable life choices."
+      "From Louisiana? Your state's biggest export is jazz and questionable life choices."
     ],
     new_orleans: [
       "New Orleans? The city where the party never stops, but recovery always does.",
-      "From New Orleans? How’s it feel living in a place that’s half underwater, half under the influence?",
-      "New Orleans: Where Bourbon Street smells like regret and beignets can’t fix everything.",
-      "Oh, NOLA? The city where ‘culture’ means jazz funerals for your hopes and dreams.",
-      "New Orleans: Where everyone’s either a musician or a tourist trap hustler.",
-      "From New Orleans? Let me guess, you’ve already flashed someone for plastic beads this year.",
+      "From New Orleans? How's it feel living in a place that's half underwater, half under the influence?",
+      "New Orleans: Where Bourbon Street smells like regret and beignets can't fix everything.",
+      "Oh, NOLA? The city where 'culture' means jazz funerals for your hopes and dreams.",
+      "New Orleans: Where everyone's either a musician or a tourist trap hustler.",
+      "From New Orleans? Let me guess, you've already flashed someone for plastic beads this year.",
       "New Orleans: The only city where Katrina is still the elephant in every flooded room.",
-      "Where ‘resilience’ means rebuilding the same broken levee with extra prayers.",
-      "New Orleans: Miami’s grittier, drunker cousin with better music.",
-      "From New Orleans? Your city’s biggest flex is surviving disasters that would break lesser souls."
+      "Where 'resilience' means rebuilding the same broken levee with extra prayers.",
+      "New Orleans: Miami's grittier, drunker cousin with better music.",
+      "From New Orleans? Your city's biggest flex is surviving disasters that would break lesser souls."
     ],
     baton_rouge: [
-      "Baton Rouge? The city that’s just New Orleans’ boring, bureaucratic sibling.",
-      "From Baton Rouge? How’s it feel living in Louisiana’s most forgettable capital?",
-      "Baton Rouge: Where the only thing redder than the stick is the state’s budget deficit.",
+      "Baton Rouge? The city that's just New Orleans' boring, bureaucratic sibling.",
+      "From Baton Rouge? How's it feel living in Louisiana's most forgettable capital?",
+      "Baton Rouge: Where the only thing redder than the stick is the state's budget deficit.",
       "Oh, Baton Rouge? The city that exists to remind you government jobs can be soul-crushing.",
-      "Baton Rouge: Where everyone’s either at LSU or wishing they were anywhere else.",
-      "From Baton Rouge? Let me guess, you’ve already tailgated harder than you’ve ever worked.",
-      "Baton Rouge: The only city where ‘culture’ means overcooked jambalaya at a chain restaurant.",
+      "Baton Rouge: Where everyone's either at LSU or wishing they were anywhere else.",
+      "From Baton Rouge? Let me guess, you've already tailgated harder than you've ever worked.",
+      "Baton Rouge: The only city where 'culture' means overcooked jambalaya at a chain restaurant.",
       "Where the river is pretty, but the charm sank to the bottom long ago.",
-      "Baton Rouge: New Orleans’ less fun, more humid shadow with extra paperwork.",
-      "From Baton Rouge? Your city’s idea of excitement is a traffic jam on game day."
+      "Baton Rouge: New Orleans' less fun, more humid shadow with extra paperwork.",
+      "From Baton Rouge? Your city's idea of excitement is a traffic jam on game day."
     ]
   },
 
-  // OHIO (NEW US STATE - MIDWEST)
+  // OHIO
   ohio: {
     generic: [
-      "Ohio? Where the only thing flatter than the land is the state’s personality.",
-      "From Ohio? How’s living in a state that’s just a rest stop between places people actually want to be?",
+      "Ohio? Where the only thing flatter than the land is the state's personality.",
+      "From Ohio? How's living in a state that's just a rest stop between places people actually want to be?",
       "Ohio: Where the cornfields are endless, and so is the existential dread.",
-      "Oh, Ohio? The state where ‘swing state’ means swinging between despair and mediocrity.",
-      "Ohio: Where everyone’s either a Buckeye fan or a bitter Michigan reject.",
-      "From Ohio? Let me guess, you’ve already argued about chili on spaghetti like it’s a gourmet debate.",
-      "Ohio: The only state where ‘industry’ means rusted factories and broken dreams.",
-      "Where every small town looks the same, and every big city wishes it wasn’t there.",
+      "Oh, Ohio? The state where 'swing state' means swinging between despair and mediocrity.",
+      "Ohio: Where everyone's either a Buckeye fan or a bitter Michigan reject.",
+      "From Ohio? Let me guess, you've already argued about chili on spaghetti like it's a gourmet debate.",
+      "Ohio: The only state where 'industry' means rusted factories and broken dreams.",
+      "Where every small town looks the same, and every big city wishes it wasn't there.",
       "Ohio: Proof that you can be in the middle of everything and still mean nothing.",
-      "From Ohio? Your state’s biggest achievement is being the punchline of Midwest jokes."
+      "From Ohio? Your state's biggest achievement is being the punchline of Midwest jokes."
     ],
     cleveland: [
       "Cleveland? The city where the river caught fire, and so did any hope for the future.",
-      "From Cleveland? How’s it feel living in a place that’s just Detroit with worse PR?",
-      "Cleveland: Where the Browns are a metaphor for every life choice you’ve ever made.",
-      "Oh, Cleveland? The city that’s ‘up and coming’ since the 1800s and still waiting.",
-      "Cleveland: Where everyone’s either leaving or stuck in a snowbank of despair.",
-      "From Cleveland? Let me guess, you’ve already defended the Rock and Roll Hall of Fame like it’s a personality.",
-      "Cleveland: The only city where ‘waterfront’ means a lake that’s more pollution than water.",
-      "Where ‘pride’ means rooting for teams that lose harder than your economy.",
-      "Cleveland: Pittsburgh’s sadder, colder cousin with less steel and more tears.",
-      "From Cleveland? Your city’s biggest flex is surviving winters and jokes about burning rivers."
+      "From Cleveland? How's it feel living in a place that's just Detroit with worse PR?",
+      "Cleveland: Where the Browns are a metaphor for every life choice you've ever made.",
+      "Oh, Cleveland? The city that's 'up and coming' since the 1800s and still waiting.",
+      "Cleveland: Where everyone's either leaving or stuck in a snowbank of despair.",
+      "From Cleveland? Let me guess, you've already defended the Rock and Roll Hall of Fame like it's a personality.",
+      "Cleveland: The only city where 'waterfront' means a lake that's more pollution than water.",
+      "Where 'pride' means rooting for teams that lose harder than your economy.",
+      "Cleveland: Pittsburgh's sadder, colder cousin with less steel and more tears.",
+      "From Cleveland? Your city's biggest flex is surviving winters and jokes about burning rivers."
     ],
     cincinnati: [
-      "Cincinnati? The city that’s just Cleveland’s slightly less depressing sibling.",
-      "From Cincinnati? How’s it feel living in a place that’s half Ohio, half Kentucky, and all regret?",
+      "Cincinnati? The city that's just Cleveland's slightly less depressing sibling.",
+      "From Cincinnati? How's it feel living in a place that's half Ohio, half Kentucky, and all regret?",
       "Cincinnati: Where chili on spaghetti is a war crime you call heritage.",
       "Oh, Cincinnati? The city that thinks being near a river makes it a destination.",
-      "Cincinnati: Where everyone’s either a Bengals fan or pretending they’re from somewhere cooler.",
-      "From Cincinnati? Let me guess, you’ve already argued about Skyline vs. Gold Star like it matters.",
-      "Cincinnati: The only city where ‘culture’ means overpriced chili and worse beer.",
+      "Cincinnati: Where everyone's either a Bengals fan or pretending they're from somewhere cooler.",
+      "From Cincinnati? Let me guess, you've already argued about Skyline vs. Gold Star like it matters.",
+      "Cincinnati: The only city where 'culture' means overpriced chili and worse beer.",
       "Where the hills are steep, but the ambition is flatter than the Midwest.",
-      "Cincinnati: Cleveland’s warmer, less relevant twin with extra pork.",
-      "From Cincinnati? Your city’s idea of progress is a streetcar nobody uses."
+      "Cincinnati: Cleveland's warmer, less relevant twin with extra pork.",
+      "From Cincinnati? Your city's idea of progress is a streetcar nobody uses."
     ]
   },
 
-  // WISCONSIN (NEW US STATE - MIDWEST)
+  // WISCONSIN
   wisconsin: {
     generic: [
-      "Wisconsin? Where the cheese is sharper than the state’s future prospects.",
-      "From Wisconsin? How’s living in a state that’s just Minnesota with more beer belly?",
+      "Wisconsin? Where the cheese is sharper than the state's future prospects.",
+      "From Wisconsin? How's living in a state that's just Minnesota with more beer belly?",
       "Wisconsin: Where the winters are brutal, and the Packers obsession is crueler.",
-      "Oh, Wisconsin? The state where ‘dairy’ means pride and heart disease in equal measure.",
-      "Wisconsin: Where everyone’s either a cheesehead or a drunk pretending to fish.",
-      "From Wisconsin? Let me guess, you’ve already bragged about Lambeau Field like it’s the Vatican.",
-      "Wisconsin: The only state where ‘supper club’ is a cultural institution and a cry for help.",
+      "Oh, Wisconsin? The state where 'dairy' means pride and heart disease in equal measure.",
+      "Wisconsin: Where everyone's either a cheesehead or a drunk pretending to fish.",
+      "From Wisconsin? Let me guess, you've already bragged about Lambeau Field like it's the Vatican.",
+      "Wisconsin: The only state where 'supper club' is a cultural institution and a cry for help.",
       "Where every lake is pretty, but every job market is uglier than sin.",
       "Wisconsin: Proof that you can deep-fry everything and still be irrelevant.",
-      "From Wisconsin? Your state’s biggest export is cheddar and seasonal depression."
+      "From Wisconsin? Your state's biggest export is cheddar and seasonal depression."
     ],
     milwaukee: [
-      "Milwaukee? The city that’s just Chicago’s forgotten, drunker little brother.",
-      "From Milwaukee? How’s it feel living in a place where beer is cheaper than ambition?",
+      "Milwaukee? The city that's just Chicago's forgotten, drunker little brother.",
+      "From Milwaukee? How's it feel living in a place where beer is cheaper than ambition?",
       "Milwaukee: Where the Brewers brew disappointment stronger than any lager.",
       "Oh, Milwaukee? The city that peaked with Laverne & Shirley and never recovered.",
-      "Milwaukee: Where everyone’s either at a bar or recovering from last night’s bar.",
-      "From Milwaukee? Let me guess, you’ve already mentioned Harley-Davidson like it’s still relevant.",
-      "Milwaukee: The only city where ‘lakefront’ means frozen despair half the year.",
-      "Where ‘culture’ means cheese curds and polka at a festival nobody attends.",
-      "Milwaukee: Chicago’s less successful, more pickled cousin with extra brats.",
-      "From Milwaukee? Your city’s biggest flex is surviving winters with a liver made of steel."
+      "Milwaukee: Where everyone's either at a bar or recovering from last night's bar.",
+      "From Milwaukee? Let me guess, you've already mentioned Harley-Davidson like it's still relevant.",
+      "Milwaukee: The only city where 'lakefront' means frozen despair half the year.",
+      "Where 'culture' means cheese curds and polka at a festival nobody attends.",
+      "Milwaukee: Chicago's less successful, more pickled cousin with extra brats.",
+      "From Milwaukee? Your city's biggest flex is surviving winters with a liver made of steel."
     ],
     madison: [
-      "Madison? The city that’s just Wisconsin’s liberal oasis in a desert of despair.",
-      "From Madison? How’s it feel living in a college town where idealism goes to die?",
+      "Madison? The city that's just Wisconsin's liberal oasis in a desert of despair.",
+      "From Madison? How's it feel living in a college town where idealism goes to die?",
       "Madison: Where the lakes are beautiful, but the rent will drown you faster.",
       "Oh, Madison? The city that thinks being progressive makes up for being irrelevant.",
-      "Madison: Where everyone’s either a student or a bureaucrat with a bike they never ride.",
-      "From Madison? Let me guess, you’ve already bragged about the farmer’s market like it’s Paris.",
-      "Madison: The only city where ‘culture’ means overpriced cheese and undercooked activism.",
-      "Where the capitol is pretty, but the job prospects are uglier than a badger’s den.",
-      "Madison: Milwaukee’s snobbier, less fun sibling with extra flannel.",
-      "From Madison? Your city’s idea of rebellion is a protest with gluten-free snacks."
+      "Madison: Where everyone's either a student or a bureaucrat with a bike they never ride.",
+      "From Madison? Let me guess, you've already bragged about the farmer's market like it's Paris.",
+      "Madison: The only city where 'culture' means overpriced cheese and undercooked activism.",
+      "Where the capitol is pretty, but the job prospects are uglier than a badger's den.",
+      "Madison: Milwaukee's snobbier, less fun sibling with extra flannel.",
+      "From Madison? Your city's idea of rebellion is a protest with gluten-free snacks."
     ]
   },
 
-  // NEVADA (NEW US STATE - WEST)
+  // NEVADA
   nevada: {
     generic: [
       "Nevada? Where the desert is vast, and the life choices are vaster.",
-      "From Nevada? How’s living in a state that’s just a gambling den with extra tumbleweeds?",
+      "From Nevada? How's living in a state that's just a gambling den with extra tumbleweeds?",
       "Nevada: Where Sin City is the star, and everywhere else is a forgotten blackjack table.",
-      "Oh, Nevada? The state where ‘what happens here, stays here’ includes your dignity.",
-      "Nevada: Where everyone’s either a dealer, a dreamer, or a desert hermit.",
-      "From Nevada? Let me guess, you’ve already lost more than money in Vegas this year.",
+      "Oh, Nevada? The state where 'what happens here, stays here' includes your dignity.",
+      "Nevada: Where everyone's either a dealer, a dreamer, or a desert hermit.",
+      "From Nevada? Let me guess, you've already lost more than money in Vegas this year.",
       "Nevada: The only state where legal brothels outshine legal opportunities.",
       "Where the landscape is barren, and so is the hope for a stable future.",
       "Nevada: Proof that you can build an economy on bad decisions and still lose.",
-      "From Nevada? Your state’s biggest export is regret and overpriced buffets."
+      "From Nevada? Your state's biggest export is regret and overpriced buffets."
     ],
     las_vegas: [
       "Las Vegas? The city where dreams go to gamble away their last dime.",
-      "From Vegas? How’s it feel living in a neon mirage built on broken bank accounts?",
+      "From Vegas? How's it feel living in a neon mirage built on broken bank accounts?",
       "Las Vegas: Where the Strip shines brighter than any chance of financial recovery.",
-      "Oh, Vegas? The city where ‘jackpot’ means losing your house but winning a free drink.",
-      "Las Vegas: Where everyone’s either a tourist, a hustler, or a has-been performer.",
-      "From Vegas? Let me guess, you’ve already married a stranger in a chapel run by Elvis.",
-      "Las Vegas: The only city where ‘all-inclusive’ means including your personal ruin.",
-      "Where ‘entertainment’ means watching your savings disappear faster than a magic act.",
-      "Las Vegas: Phoenix’s flashier, more reckless cousin with extra slot machines.",
-      "From Vegas? Your city’s biggest flex is turning vice into a tourist attraction."
+      "Oh, Vegas? The city where 'jackpot' means losing your house but winning a free drink.",
+      "Las Vegas: Where everyone's either a tourist, a hustler, or a has-been performer.",
+      "From Vegas? Let me guess, you've already married a stranger in a chapel run by Elvis.",
+      "Las Vegas: The only city where 'all-inclusive' means including your personal ruin.",
+      "Where 'entertainment' means watching your savings disappear faster than a magic act.",
+      "Las Vegas: Phoenix's flashier, more reckless cousin with extra slot machines.",
+      "From Vegas? Your city's biggest flex is turning vice into a tourist attraction."
     ],
     reno: [
-      "Reno? The city that’s just Las Vegas’ sad, discounted little sibling.",
-      "From Reno? How’s it feel living in a place that’s ‘Vegas Lite’ without the charm?",
+      "Reno? The city that's just Las Vegas' sad, discounted little sibling.",
+      "From Reno? How's it feel living in a place that's 'Vegas Lite' without the charm?",
       "Reno: Where the casinos are smaller, but the desperation is just as big.",
       "Oh, Reno? The city that thinks being near Tahoe makes up for being irrelevant.",
-      "Reno: Where everyone’s either a gambler on a budget or a burnout on parole.",
-      "From Reno? Let me guess, you’ve already called it ‘the biggest little city’ unironically.",
-      "Reno: The only city where ‘divorce capital’ was a brag before Vegas stole the spotlight.",
+      "Reno: Where everyone's either a gambler on a budget or a burnout on parole.",
+      "From Reno? Let me guess, you've already called it 'the biggest little city' unironically.",
+      "Reno: The only city where 'divorce capital' was a brag before Vegas stole the spotlight.",
       "Where the mountains are pretty, but the prospects are uglier than a busted slot machine.",
-      "Reno: Las Vegas’ washed-up cousin who settled for second-rate neon.",
-      "From Reno? Your city’s idea of excitement is a pawn shop with a view."
+      "Reno: Las Vegas' washed-up cousin who settled for second-rate neon.",
+      "From Reno? Your city's idea of excitement is a pawn shop with a view."
+    ]
+  },
+
+  // INTERNATIONAL LOCATIONS
+  germany: {
+    generic: [
+      "Germany? Where efficiency is a religion, but customer service is a sin.",
+      "From Germany? How's it feel being the country that's always sorry for something?",
+      "Germany: Where the beer is world-class, but the humor is drier than the Sahara.",
+      "Oh, Germany? The nation that runs like a machine but feels like a bureaucracy.",
+      "Germany: Where rules are sacred, and smiling is suspicious activity.",
+      "From Germany? Let me guess, you've already corrected someone's grammar today.",
+      "Germany: The only country where being on time is a flex, and tardiness is a felony.",
+      "Where history is heavy, and the guilt is heavier than a Black Forest cake.",
+      "Germany: Proof that you can engineer everything except a sense of fun.",
+      "From Germany? Your country's idea of excitement is a perfectly sorted recycling bin."
+    ],
+    berlin: [
+      "Berlin? The city where being broke is trendy, and rent is a cruel joke.",
+      "From Berlin? How's that techno-fueled existential crisis working out?",
+      "Berlin: Where history collides with hipsters, and both lose miserably.",
+      "Oh, Berlin? The city that's cooler than you but won't let you forget it.",
+      "Berlin: Where every wall has a story, and every artist has a side hustle.",
+      "From Berlin? Let me guess, you've already name-dropped a club you couldn't get into.",
+      "Berlin: The only city where vegan kebabs are a cultural staple, and sleep is optional.",
+      "Where 'edgy' means living in a squat with Wi-Fi and daddy's credit card.",
+      "Berlin: Europe's grungy playground where dreams go to party and die.",
+      "From Berlin? Your city's biggest flex is being broke in 17 different languages."
+    ],
+    munich: [
+      "Munich? The city where beer costs less than water, and tradition costs your soul.",
+      "From Munich? How's it feel living in Germany's most expensive theme park?",
+      "Munich: Where Oktoberfest is a lifestyle, and lederhosen are business casual.",
+      "Oh, Munich? The city that's just Bavaria's cash cow with extra pretzels.",
+      "Munich: Where everyone's either a tech bro or a tourist trap victim.",
+      "From Munich? Let me guess, you've already bragged about BMWs and beer tents.",
+      "Munich: The only city where wealth and kitsch hold hands in perfect harmony.",
+      "Where 'culture' means overpaying for sausage while wearing a silly hat.",
+      "Munich: Berlin's posh, boring uncle who thinks fun is overrated.",
+      "From Munich? Your city's idea of rebellion is jaywalking in a quiet suburb."
+    ]
+  },
+
+  japan: {
+    generic: [
+      "Japan? Where politeness is mandatory, but personal space is a fantasy.",
+      "From Japan? How's living in a country where bowing is an Olympic sport?",
+      "Japan: Where the tech is futuristic, but the work culture is stuck in the feudal era.",
+      "Oh, Japan? The nation that gave us sushi and soul-crushing overtime in equal measure.",
+      "Japan: Where everything's kawaii until you miss the last train home.",
+      "From Japan? Let me guess, you've already apologized for something that's not your fault.",
+      "Japan: The only country where vending machines outnumber human emotions.",
+      "Where tradition and innovation fight daily, and exhaustion always wins.",
+      "Japan: Proof that you can be the best at everything and still be miserable.",
+      "From Japan? Your country's biggest export is anime and quiet desperation."
+    ],
+    tokyo: [
+      "Tokyo? The city where 38 million people live in perfect, polite chaos.",
+      "From Tokyo? How's it feel being packed into a train like a sardine with a salary?",
+      "Tokyo: Where neon lights shine brighter than any hope for work-life balance.",
+      "Oh, Tokyo? The city that's a cyberpunk dystopia with better ramen.",
+      "Tokyo: Where everyone's rushing somewhere, but nobody's actually going anywhere.",
+      "From Tokyo? Let me guess, you've already spent half your paycheck on tiny apartments.",
+      "Tokyo: The only city where a closet-sized home is a status symbol, not a punishment.",
+      "Where 'unique' means wearing a school uniform at 40 for no reason at all.",
+      "Tokyo: New York's overachieving cousin with extra vending machines and less sleep.",
+      "From Tokyo? Your city's idea of relaxation is a cat cafe during a 15-minute break."
+    ],
+    osaka: [
+      "Osaka? The city that's just Tokyo's louder, hungrier, less polite sibling.",
+      "From Osaka? How's it feel living in Japan's kitchen with extra street food grease?",
+      "Osaka: Where the humor is sharp, and the takoyaki burns hotter than your regrets.",
+      "Oh, Osaka? The city that thinks being friendly means roasting you to your face.",
+      "Osaka: Where everyone's a comedian, but the punchline is the cost of living.",
+      "From Osaka? Let me guess, you've already argued about who makes better okonomiyaki.",
+      "Osaka: The only city where street food vendors have more personality than politicians.",
+      "Where 'culture' means deep-frying anything and calling it a delicacy.",
+      "Osaka: Tokyo's rowdy little brother who didn't get the memo about being quiet.",
+      "From Osaka? Your city's biggest flex is being the underdog nobody saw coming."
+    ]
+  },
+
+  mexico: {
+    generic: [
+      "Mexico? Where the cartels have better organization than the government.",
+      "From Mexico? How's living in America's favorite vacation spot and scapegoat?",
+      "Mexico: Where the food is incredible but the water will kill you.",
+      "Oh, Mexico? The country that's just Texas with better food and worse infrastructure.",
+      "Mexico: Where everyone's cousin is either in construction or 'import/export'.",
+      "From Mexico? Let me guess, you're tired of Americans butchering Spanish at resorts.",
+      "Mexico: The only country where corruption is so normal it's basically a tax.",
+      "Where 'safety' means knowing which cartel controls your neighborhood.",
+      "Mexico: Proof that great food can't fix systemic problems.",
+      "From Mexico? Your country's biggest export is people fed up with Mexico."
+    ],
+    mexico_city: [
+      "Mexico City? Where the altitude is high and the air quality is criminally low.",
+      "From CDMX? How's it feel living in a sinking city built on a dead lake?",
+      "Mexico City: Where traffic is so bad people measure distance in hours not miles.",
+      "Oh, Mexico City? The city where kidnapping is a business model.",
+      "Mexico City: Where everyone's either ultra-rich or ultra-fucked, no middle ground.",
+      "From Mexico City? Let me guess, you've been in the same traffic jam since 2019.",
+      "Mexico City: The only city where earthquakes are a relief from traffic.",
+      "Where 'culture' means ancient pyramids surrounded by urban decay.",
+      "Mexico City: LA's bigger, more dangerous cousin with better tacos.",
+      "From CDMX? Your city's so big even Google Maps gives up."
+    ]
+  },
+
+  france: {
+    generic: [
+      "France? Where arrogance is the national sport and bathing is optional.",
+      "From France? How's that superiority complex working with your failing economy?",
+      "France: Where everyone smokes like it's 1952 and protests like it's 1789.",
+      "Oh, France? The country that thinks cheese and wine excuse being insufferable.",
+      "France: Where 'work-life balance' means barely working and complaining constantly.",
+      "From France? Let me guess, you've already corrected someone's pronunciation today.",
+      "France: The only country where being rude is considered sophisticated.",
+      "Where everyone's an intellectual who can't change a lightbulb.",
+      "France: Proof that good food can't make up for bad attitudes.",
+      "From France? Your country's biggest export is condescension and overpriced wine."
+    ],
+    paris: [
+      "Paris? The city where the Eiffel Tower is the only thing that doesn't smell like piss.",
+      "From Paris? How's that romantic city working out with all the rats and strikes?",
+      "Paris: Where everyone's an artist but nobody's making art.",
+      "Oh, Paris? The city that's just a museum with a housing crisis.",
+      "Paris: Where rudeness is an art form and customer service is a war crime.",
+      "From Paris? Let me guess, you smoke, wear black, and judge tourists in three languages.",
+      "Paris: The only city where paying €8 for terrible coffee is considered culture.",
+      "Where 'romance' means getting pickpocketed on the Metro.",
+      "Paris: New York's pretentious cousin who peaked 200 years ago.",
+      "From Paris? Your city's biggest achievement is convincing people it's still relevant."
+    ]
+  },
+
+  india: {
+    generic: [
+      "India? Where the population is massive and personal space is mythology.",
+      "From India? How's that superpower by 2020 thing working out?",
+      "India: Where cows have more rights than women in some places.",
+      "Oh, India? The country that invented zero and keeps discovering new ways to use it in GDP.",
+      "India: Where everyone's an engineer, doctor, or disappointing their parents.",
+      "From India? Let me guess, you work in IT and your parents still aren't satisfied.",
+      "India: The only country where traffic rules are suggestions and honking is a language.",
+      "Where 'spicy' actually means something and white people cry eating bread.",
+      "India: Proof that you can have a space program and no toilets.",
+      "From India? Your country's biggest export is IT support and arranged marriage pressure."
+    ],
+    mumbai: [
+      "Mumbai? Where millionaires and slums share the same view.",
+      "From Mumbai? How's living in a city where rent costs more than organs?",
+      "Mumbai: Where Bollywood dreams go to die in traffic.",
+      "Oh, Mumbai? The city that never sleeps because the trains never stop running.",
+      "Mumbai: Where everyone's a 'producer' or 'in finance' which means unemployed.",
+      "From Mumbai? Let me guess, your commute is longer than most people's work day.",
+      "Mumbai: The only city where local trains are both transportation and extreme sport.",
+      "Where 'monsoon' means swimming to work.",
+      "Mumbai: New York's sweatier, more crowded cousin with better street food.",
+      "From Mumbai? Your city makes Tokyo look spacious."
+    ],
+    bangalore: [
+      "Bangalore? India's Silicon Valley if Silicon Valley was built on potholes.",
+      "From Bangalore? How's that tech hub life with power cuts and traffic?",
+      "Bangalore: Where every Uber driver has a startup idea.",
+      "Oh, Bangalore? The city that went from Garden City to Garbage City in one generation.",
+      "Bangalore: Where techies earn Silicon Valley salaries and live like it's still 1990.",
+      "From Bangalore? Let me guess, you're in IT and stuck in traffic right now.",
+      "Bangalore: The only city where 'quick commute' means under 2 hours.",
+      "Where 'culture' means pub hopping and complaining about North Indians.",
+      "Bangalore: San Francisco's outsourced cousin with worse infrastructure.",
+      "From Bangalore? Your city's weather is the only thing not completely fucked."
+    ]
+  },
+
+  china: {
+    generic: [
+      "China? Where the Great Wall couldn't keep out globalization but the firewall tries.",
+      "From China? How's that social credit score treating you?",
+      "China: Where everything's made including the statistics about how well they're doing.",
+      "Oh, China? The country that's simultaneously the future and stuck in 1984.",
+      "China: Where innovation means copying but cheaper.",
+      "From China? Let me guess, your VPN is the most important app on your phone.",
+      "China: The only country where billionaires disappear for disagreeing.",
+      "Where 'Made in China' means it'll break in two weeks.",
+      "China: Proof that capitalism and communism can fail together.",
+      "From China? Your country's biggest export is everything and government surveillance."
+    ],
+    shanghai: [
+      "Shanghai? Where the skyline is futuristic but the plumbing is prehistoric.",
+      "From Shanghai? How's living in China's showroom city?",
+      "Shanghai: Where expats go to pretend they understand China.",
+      "Oh, Shanghai? The city that's just Hong Kong with more censorship.",
+      "Shanghai: Where everyone's in finance or teaching English badly.",
+      "From Shanghai? Let me guess, you're either rich or pretending to be.",
+      "Shanghai: The only city where pollution levels compete with rent prices.",
+      "Where 'culture' means shopping malls shaped like the future.",
+      "Shanghai: New York's knockoff cousin with more surveillance.",
+      "From Shanghai? Your city's so international it forgot it's in China."
+    ],
+    beijing: [
+      "Beijing? Where the Forbidden City is less forbidden than Google.",
+      "From Beijing? How's that air quality treating your lungs?",
+      "Beijing: Where history meets dystopia and both lose.",
+      "Oh, Beijing? The city where breathing is an extreme sport.",
+      "Beijing: Where everyone works for the government or pretends they don't.",
+      "From Beijing? Let me guess, you haven't seen a blue sky since 2008.",
+      "Beijing: The only capital where the smog is thicker than the bureaucracy.",
+      "Where 'culture' means ancient sites surrounded by concrete nightmares.",
+      "Beijing: DC's authoritarian cousin with worse air.",
+      "From Beijing? Your city's biggest achievement is making LA's smog look healthy."
     ]
   },
 
