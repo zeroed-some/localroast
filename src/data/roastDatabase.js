@@ -1,3 +1,4 @@
+/* eslint-disable */
 // src/data/roastDatabase.js - BRUTAL EDITION (MEGA EXPANDED WITH NEW LOCATIONS)
 export const roastDatabase = {
   // MASSACHUSETTS
