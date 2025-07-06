@@ -6,32 +6,50 @@ export const getRoastsForLocation = (location) => {
   let roasts = [];
   const { city, state, country } = location;
   
-  // Normalize location names
-  const cityLower = city?.toLowerCase().replace(/\s+/g, '_');
-  const stateLower = state?.toLowerCase().replace(/\s+/g, '_');
-  const countryLower = country?.toLowerCase().replace(/\s+/g, '_');
+  // Normalize location names - convert spaces to underscores and lowercase
+  const normalizeString = (str) => str?.toLowerCase().replace(/\s+/g, '_').replace(/[^\w_]/g, '');
   
-  // Check for city-specific roasts
-  if (cityLower) {
-    // Look through all states for this city
-    for (const [stateKey, stateData] of Object.entries(roastDatabase)) {
-      if (stateData[cityLower]) {
-        roasts = roasts.concat(stateData[cityLower]);
+  const cityNormalized = normalizeString(city);
+  const stateNormalized = normalizeString(state);
+  const countryNormalized = normalizeString(country);
+  
+  // If only city is provided, search through all states/countries for this city
+  if (cityNormalized && !stateNormalized && !countryNormalized) {
+    for (const [regionKey, regionData] of Object.entries(roastDatabase)) {
+      // Skip the 'default' entry
+      if (regionKey === 'default') continue;
+      
+      // Check if this region has the city
+      if (regionData[cityNormalized]) {
+        roasts = roasts.concat(regionData[cityNormalized]);
+        // Also add some generic roasts from the parent region
+        if (regionData.generic) {
+          roasts = roasts.concat(regionData.generic.slice(0, 2)); // Add a couple generic ones
+        }
+        break; // Found the city, stop searching
       }
     }
   }
   
-  // Check for state/region roasts
-  if (stateLower && roastDatabase[stateLower]?.generic) {
-    roasts = roasts.concat(roastDatabase[stateLower].generic);
+  // If we have state/country info, use it for more specific matching
+  if (stateNormalized && roastDatabase[stateNormalized]) {
+    // Check for city-specific roasts within the state
+    if (cityNormalized && roastDatabase[stateNormalized][cityNormalized]) {
+      roasts = roasts.concat(roastDatabase[stateNormalized][cityNormalized]);
+    }
+    // Add state generic roasts
+    if (roastDatabase[stateNormalized].generic) {
+      roasts = roasts.concat(roastDatabase[stateNormalized].generic);
+    }
   }
   
   // Check for country roasts
-  if (countryLower) {
+  if (countryNormalized) {
     const countryMappings = {
       'united_states': 'usa',
       'united_states_of_america': 'usa',
       'us': 'usa',
+      'america': 'usa',
       'united_kingdom': 'uk',
       'great_britain': 'uk',
       'england': 'uk',
@@ -40,10 +58,47 @@ export const getRoastsForLocation = (location) => {
       'northern_ireland': 'uk'
     };
     
-    const countryKey = countryMappings[countryLower] || countryLower;
+    const countryKey = countryMappings[countryNormalized] || countryNormalized;
     if (roastDatabase[countryKey]?.generic) {
       roasts = roasts.concat(roastDatabase[countryKey].generic);
     }
+  }
+  
+  // Special handling for common state abbreviations
+  const stateAbbreviations = {
+    'ny': 'newyork',
+    'nyc': 'newyork',
+    'ca': 'california',
+    'tx': 'texas',
+    'fl': 'florida',
+    'il': 'illinois',
+    'pa': 'pennsylvania',
+    'oh': 'ohio',
+    'mi': 'michigan',
+    'ga': 'georgia',
+    'nc': 'north_carolina',
+    'va': 'virginia',
+    'ma': 'massachusetts',
+    'az': 'arizona',
+    'wa': 'washington',
+    'co': 'colorado',
+    'or': 'oregon',
+    'nv': 'nevada',
+    'la': 'louisiana',
+    'wi': 'wisconsin'
+  };
+  
+  // If no roasts found yet, check if the input matches a state abbreviation
+  if (roasts.length === 0 && cityNormalized) {
+    const stateKey = stateAbbreviations[cityNormalized];
+    if (stateKey && roastDatabase[stateKey]?.generic) {
+      roasts = roasts.concat(roastDatabase[stateKey].generic);
+    }
+  }
+  
+  // If still no roasts, check if the city input might actually be a state name
+  if (roasts.length === 0 && cityNormalized && roastDatabase[cityNormalized]?.generic) {
+    roasts = roasts.concat(roastDatabase[cityNormalized].generic);
   }
   
   // If no specific roasts found, use defaults

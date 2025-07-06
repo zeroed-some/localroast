@@ -1,40 +1,11 @@
-// src/App.js - Complete working app in one file for quick testing
+// src/App.js - Complete working app with fixes
 import React, { useState } from 'react';
 import './App.css';
-
-// Mini roast database for testing
-const roastDatabase = {
-  'New York': [
-    "NYC? Let me guess, you've mentioned you're from New York within 5 minutes of every conversation you've ever had.",
-    "From NYC? Cool, how's that superiority complex and vitamin D deficiency working out?",
-    "New York City: Where everyone walks fast to nowhere important and calls it ambition."
-  ],
-  'California': [
-    "California? How's that $8 gas and $15 avocado toast treating you?",
-    "Oh, you're from California? Which wellness trend are you pretending changed your life this week?",
-    "California: Come for the weather, stay because you can't afford to leave."
-  ],
-  'Texas': [
-    "Texas? Everything's bigger there, especially the egos and the power grid failures.",
-    "From Texas? Let me guess, you've already mentioned how big your state is three times today.",
-    "Texas: Where 105°F is 'nice weather' and a light dusting of snow shuts down civilization."
-  ],
-  'Virginia': [
-    "Virginia? The state that can't decide if it's the South or just South of Maryland.",
-    "From Virginia? Home of 'Virginia is for Lovers' - because you need a slogan when you have no personality.",
-    "Virginia: Where Northern Virginia pretends it's DC and the rest pretends it's still 1865.",
-    "Oh, Virginia? The state whose biggest achievement is being close to somewhere important.",
-    "Virginia: Where everyone works for the government but swears they're a 'small government conservative'."
-  ],
-  'default': [
-    "Your location is so irrelevant, even Google Maps just shrugs.",
-    "From there? I'd roast your hometown but it would require me to care about it first.",
-    "Your area is so forgettable, even this roast generator had nothing prepared."
-  ]
-};
+import { getRoastsForLocation } from './services/roastService';
 
 function App() {
   const [location, setLocation] = useState(null);
+  const [locationObj, setLocationObj] = useState(null); // Store the structured object separately
   const [currentRoast, setCurrentRoast] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -50,20 +21,35 @@ function App() {
         const response = await fetch('https://ipapi.co/json/');
         const data = await response.json();
         
-        // Build location string from most specific to least specific
+        // Build location object from API response
+        const locationObj = {
+          city: data.city || null,
+          state: data.region || null,
+          country: data.country_name || null
+        };
+        
+        // Create display string
         let locationStr = '';
         if (data.city) {
           locationStr = data.city;
           if (data.region) {
-            locationStr = data.region; // Use state/region as primary identifier
+            locationStr += `, ${data.region}`;
+          }
+          if (data.country_name) {
+            locationStr += `, ${data.country_name}`;
           }
         } else if (data.region) {
           locationStr = data.region;
+          if (data.country_name) {
+            locationStr += `, ${data.country_name}`;
+          }
         } else if (data.country_name) {
           locationStr = data.country_name;
         }
         
-        handleLocationFound(locationStr || 'Unknown');
+        setLocation(locationStr || 'Unknown');
+        setLocationObj(locationObj); // Store the structured object
+        handleLocationFound(locationObj);
       } catch (err) {
         setError("Couldn't detect location. Try entering manually!");
         setLoading(false);
@@ -75,68 +61,65 @@ function App() {
   };
 
   const handleLocationFound = (loc) => {
-    setLocation(loc);
+    // Parse the location string if needed
+    let parsedLocationObj = { city: null, state: null, country: null };
     
-    // Normalize the location for database lookup
-    const normalizedLoc = loc.trim()
-      .split(' ')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-      .join(' ');
-    
-    // Try exact match first, then try just the first word (for "Los Angeles, California" -> "California")
-    let roasts = roastDatabase[normalizedLoc];
-    
-    if (!roasts && loc.includes(',')) {
-      // Try the state/country part after the comma
-      const parts = loc.split(',');
-      const statePart = parts[1].trim()
-        .split(' ')
-        .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-        .join(' ');
-      roasts = roastDatabase[statePart];
-    }
-    
-    if (!roasts) {
-      // Try some common variations
-      const variations = {
-        'Ny': 'New York',
-        'Nyc': 'New York',
-        'La': 'California',
-        'Los Angeles': 'California',
-        'San Francisco': 'California',
-        'Sf': 'California',
-        'Tx': 'Texas',
-        'Va': 'Virginia',
-        'Cali': 'California'
-      };
+    if (typeof loc === 'string') {
+      // If it's a string, try to parse it
+      const parts = loc.split(',').map(p => p.trim());
       
-      const variation = variations[normalizedLoc];
-      if (variation) {
-        roasts = roastDatabase[variation];
+      if (parts.length === 1) {
+        // Could be city, state, or country
+        parsedLocationObj.city = parts[0];
+      } else if (parts.length === 2) {
+        // Likely "City, State" or "City, Country"
+        parsedLocationObj.city = parts[0];
+        parsedLocationObj.state = parts[1];
+      } else if (parts.length >= 3) {
+        // "City, State, Country" format
+        parsedLocationObj.city = parts[0];
+        parsedLocationObj.state = parts[1];
+        parsedLocationObj.country = parts[2];
       }
+    } else if (typeof loc === 'object') {
+      // If it's already an object, use it directly
+      parsedLocationObj = loc;
     }
     
-    // Default to generic roasts if nothing found
-    roasts = roasts || roastDatabase.default;
+    // Store the parsed object for reuse
+    setLocationObj(parsedLocationObj);
     
-    const randomRoast = roasts[Math.floor(Math.random() * roasts.length)];
-    setCurrentRoast(randomRoast);
+    // Get roasts using the service
+    const roasts = getRoastsForLocation(parsedLocationObj);
+    
+    if (roasts.length > 0) {
+      const randomRoast = roasts[Math.floor(Math.random() * roasts.length)];
+      setCurrentRoast(randomRoast);
+    } else {
+      setCurrentRoast("Your location is so irrelevant, even our roast database gave up.");
+    }
+    
     setLoading(false);
   };
 
   const handleManualSubmit = (e) => {
     e.preventDefault();
     if (manualInput.trim()) {
-      handleLocationFound(manualInput.trim());
+      const inputLocation = manualInput.trim();
+      setLocation(inputLocation);
+      handleLocationFound(inputLocation);
       setManualInput('');
     }
   };
 
   const getAnotherRoast = () => {
-    if (location) {
-      const roasts = roastDatabase[location] || roastDatabase.default;
-      const randomRoast = roasts[Math.floor(Math.random() * roasts.length)];
-      setCurrentRoast(randomRoast);
+    if (locationObj) {
+      // Use the stored location object instead of parsing the display string
+      const roasts = getRoastsForLocation(locationObj);
+      if (roasts.length > 0) {
+        const randomRoast = roasts[Math.floor(Math.random() * roasts.length)];
+        setCurrentRoast(randomRoast);
+      }
     }
   };
 
